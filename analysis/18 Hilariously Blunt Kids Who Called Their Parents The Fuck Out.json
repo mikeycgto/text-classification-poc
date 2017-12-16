@@ -1,0 +1,3295 @@
+{
+  "categories": [
+    {
+      "name": "/Arts & Entertainment/Humor/Funny Pictures & Videos",
+      "confidence": 0.7699999809265137
+    },
+    {
+      "name": "/People & Society/Family & Relationships/Family",
+      "confidence": 0.5899999737739563
+    },
+    {
+      "name": "/Arts & Entertainment/Online Media/Online Image Galleries",
+      "confidence": 0.5400000214576721
+    }
+  ],
+  "entities": [
+    {
+      "name": "Blunt Kids Who",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "vk Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Parents",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pinky And The Brain",
+      "type": "OTHER"
+    },
+    {
+      "name": "fuck Out",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "facebook",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Professors",
+      "type": "PERSON"
+    },
+    {
+      "name": "Blunt Kids Who Called Their Parents T",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER"
+    },
+    {
+      "name": "Couples",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Rewind Science Shopping Style Trending Tech Travel UnsolvedNEW",
+      "type": "OTHER"
+    },
+    {
+      "name": "Emails",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Parents",
+      "type": "PERSON"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "New Parent Life Will Remind You T",
+      "type": "OTHER"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lucas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jobs Mobile Newsletters",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Grammar Test",
+      "type": "EVENT"
+    },
+    {
+      "name": "tax plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Profile",
+      "type": "OTHER"
+    },
+    {
+      "name": "The Kitchen Gadget",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "posts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Profile",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Profes",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "stylesheet",
+      "type": "OTHER"
+    },
+    {
+      "name": "News Videos",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "css",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Why That",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gift Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Matt Damon",
+      "type": "PERSON"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Shop",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Contact Sitemap",
+      "type": "OTHER"
+    },
+    {
+      "name": "Drugs",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "inbox",
+      "type": "OTHER"
+    },
+    {
+      "name": "Post",
+      "type": "OTHER"
+    },
+    {
+      "name": "fuck Out",
+      "type": "OTHER"
+    },
+    {
+      "name": "assets",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sections",
+      "type": "OTHER"
+    },
+    {
+      "name": "Reader",
+      "type": "PERSON"
+    },
+    {
+      "name": "Life Music Nifty",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Gift Guide Animals Books Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Videos Weddings",
+      "type": "EVENT"
+    },
+    {
+      "name": "Privacy User Terms Ad Choices",
+      "type": "OTHER"
+    },
+    {
+      "name": "Drafts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Dashboard",
+      "type": "OTHER"
+    },
+    {
+      "name": "W",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fantasy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Boyfriend",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dream Bathroom",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Texts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "house",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tweets",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "lineapp Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "twitter Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Makeup",
+      "type": "OTHER"
+    },
+    {
+      "name": "BuzzFeed Community",
+      "type": "OTHER"
+    },
+    {
+      "name": "Beauty Transformations",
+      "type": "EVENT"
+    },
+    {
+      "name": "Snapchats",
+      "type": "OTHER"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER"
+    },
+    {
+      "name": "New Post",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER"
+    },
+    {
+      "name": "That Will Make You Laugh Hard",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Tell You Yo",
+      "type": "OTHER"
+    },
+    {
+      "name": "subscription",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "enhanced.c3e66a1d1b99bad30f1bac5da370a8a6.css",
+      "type": "OTHER"
+    },
+    {
+      "name": "Barden",
+      "type": "PERSON"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pastor",
+      "type": "PERSON"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Things",
+      "type": "OTHER"
+    },
+    {
+      "name": "thing",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Team",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "Buzz Celebrity Community Entertainment Food Geeky Health Investigations",
+      "type": "OTHER"
+    },
+    {
+      "name": "RSS",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "parenting tips",
+      "type": "OTHER"
+    },
+    {
+      "name": "parenting tips",
+      "type": "OTHER"
+    },
+    {
+      "name": "Outf",
+      "type": "OTHER"
+    },
+    {
+      "name": "Relati",
+      "type": "OTHER"
+    },
+    {
+      "name": "Naug",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Ways",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "vk Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "Character",
+      "type": "PERSON"
+    },
+    {
+      "name": "Republicans",
+      "type": "PERSON"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "Things",
+      "type": "OTHER"
+    },
+    {
+      "name": "Posts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Tattoos",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "fuck Out",
+      "type": "OTHER"
+    },
+    {
+      "name": "Parents",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "BFF",
+      "type": "PERSON"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "lineapp Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "twitter Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Will Want",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Photos",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gifts For Literally Every Zodiac On You",
+      "type": "OTHER"
+    },
+    {
+      "name": "kid",
+      "type": "PERSON"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "Areas",
+      "type": "OTHER"
+    },
+    {
+      "name": "C",
+      "type": "OTHER"
+    },
+    {
+      "name": "Hair",
+      "type": "OTHER"
+    },
+    {
+      "name": "Puppies",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Movie",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Y",
+      "type": "OTHER"
+    },
+    {
+      "name": "Litter Box",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Soulmate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Habits",
+      "type": "OTHER"
+    },
+    {
+      "name": "dad",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Perfect Gift",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "tumblr",
+      "type": "OTHER"
+    },
+    {
+      "name": "Parents",
+      "type": "PERSON"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "sms",
+      "type": "OTHER"
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER"
+    },
+    {
+      "name": "copy",
+      "type": "OTHER"
+    },
+    {
+      "name": "weekends",
+      "type": "OTHER"
+    },
+    {
+      "name": "dad",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soulmat",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Stranger Things",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Tumblr",
+      "type": "OTHER"
+    },
+    {
+      "name": "boosters",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER"
+    },
+    {
+      "name": "job",
+      "type": "OTHER"
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Ad",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "lineapp Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "twitter Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Barefoot Contessa",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "passiveaggressivenotes.com",
+      "type": "OTHER"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "Show",
+      "type": "EVENT"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "Scale Of 1 To 10",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "meet",
+      "type": "EVENT"
+    },
+    {
+      "name": "Staff",
+      "type": "PERSON"
+    },
+    {
+      "name": "grandma",
+      "type": "PERSON"
+    },
+    {
+      "name": "back",
+      "type": "OTHER"
+    },
+    {
+      "name": "obvious",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Star Wars Character Are You In Bed",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "James McAvoy",
+      "type": "PERSON"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Link",
+      "type": "OTHER"
+    },
+    {
+      "name": "Disney Channel Star",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "tumblr",
+      "type": "OTHER"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "shortcomings",
+      "type": "OTHER"
+    },
+    {
+      "name": "school",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Cheetos",
+      "type": "OTHER"
+    },
+    {
+      "name": "lunch",
+      "type": "OTHER"
+    },
+    {
+      "name": "truth",
+      "type": "OTHER"
+    },
+    {
+      "name": "McDonald's Menu Quiz An",
+      "type": "OTHER"
+    },
+    {
+      "name": "Netflix",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Hidden Gem",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Gonna",
+      "type": "PERSON"
+    },
+    {
+      "name": "These Pre",
+      "type": "OTHER"
+    },
+    {
+      "name": "All Too Old For This Shit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Minnie Driver",
+      "type": "PERSON"
+    },
+    {
+      "name": "sms",
+      "type": "OTHER"
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER"
+    },
+    {
+      "name": "copy",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Weinste",
+      "type": "OTHER"
+    },
+    {
+      "name": "Yo",
+      "type": "PERSON"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "link",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "pinterest Pin",
+      "type": "OTHER"
+    },
+    {
+      "name": "People",
+      "type": "PERSON"
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "one",
+      "type": "OTHER"
+    },
+    {
+      "name": "Been Hot Since The Get-Go",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "country",
+      "type": "LOCATION"
+    },
+    {
+      "name": "future",
+      "type": "OTHER"
+    },
+    {
+      "name": "birth control",
+      "type": "OTHER"
+    },
+    {
+      "name": "list",
+      "type": "OTHER"
+    },
+    {
+      "name": "shame",
+      "type": "OTHER"
+    },
+    {
+      "name": "evacuation",
+      "type": "EVENT"
+    },
+    {
+      "name": "fire",
+      "type": "OTHER"
+    },
+    {
+      "name": "wind conditions",
+      "type": "OTHER"
+    },
+    {
+      "name": "votes",
+      "type": "OTHER"
+    },
+    {
+      "name": "taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "diamonds",
+      "type": "OTHER"
+    },
+    {
+      "name": "black market",
+      "type": "OTHER"
+    },
+    {
+      "name": "mudslides",
+      "type": "OTHER"
+    },
+    {
+      "name": "@Geekstress11",
+      "type": "OTHER"
+    },
+    {
+      "name": "News",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "tumblr",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gifts For People Who Just Fucking Love Rose Gold",
+      "type": "OTHER"
+    },
+    {
+      "name": "Directors",
+      "type": "PERSON"
+    },
+    {
+      "name": "Krista Torres",
+      "type": "PERSON"
+    },
+    {
+      "name": "@DaddingAround",
+      "type": "OTHER"
+    },
+    {
+      "name": "@akuma2636",
+      "type": "OTHER"
+    },
+    {
+      "name": "Parts",
+      "type": "OTHER"
+    },
+    {
+      "name": "reddit.com",
+      "type": "OTHER"
+    },
+    {
+      "name": "@katiestanners",
+      "type": "PERSON"
+    },
+    {
+      "name": "@_shitmykidsays_",
+      "type": "OTHER"
+    },
+    {
+      "name": "sms",
+      "type": "OTHER"
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER"
+    },
+    {
+      "name": "copy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "fda",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "fault mom",
+      "type": "PERSON"
+    },
+    {
+      "name": "cooking",
+      "type": "OTHER"
+    },
+    {
+      "name": "teacher",
+      "type": "PERSON"
+    },
+    {
+      "name": "@beelzemouse",
+      "type": "OTHER"
+    },
+    {
+      "name": "@Samazing1989",
+      "type": "OTHER"
+    },
+    {
+      "name": "imgur.com",
+      "type": "OTHER"
+    },
+    {
+      "name": "@kruthsmith",
+      "type": "OTHER"
+    },
+    {
+      "name": "Shit",
+      "type": "OTHER"
+    },
+    {
+      "name": "Photos",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Drugs",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "clothes",
+      "type": "OTHER"
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER"
+    },
+    {
+      "name": "height",
+      "type": "OTHER"
+    },
+    {
+      "name": "height",
+      "type": "OTHER"
+    },
+    {
+      "name": "eyeliners",
+      "type": "OTHER"
+    },
+    {
+      "name": "age",
+      "type": "OTHER"
+    },
+    {
+      "name": "clothing questions",
+      "type": "OTHER"
+    },
+    {
+      "name": "none",
+      "type": "OTHER"
+    },
+    {
+      "name": "display",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "Download",
+      "type": "OTHER"
+    },
+    {
+      "name": "Santa Barbara County",
+      "type": "LOCATION"
+    },
+    {
+      "name": "lipsticks",
+      "type": "OTHER"
+    },
+    {
+      "name": "The World",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Santa To",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "California",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Thomas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sierra Leone",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Ebola",
+      "type": "OTHER"
+    },
+    {
+      "name": "dad",
+      "type": "PERSON"
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER"
+    },
+    {
+      "name": "BuzzFeed HomeSitemap",
+      "type": "OTHER"
+    },
+    {
+      "name": "well being",
+      "type": "OTHER"
+    },
+    {
+      "name": "head",
+      "type": "OTHER"
+    },
+    {
+      "name": "Apple",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "New Tasty",
+      "type": "OTHER"
+    },
+    {
+      "name": "@starfishanus",
+      "type": "OTHER"
+    },
+    {
+      "name": "@TheShitNoamSays",
+      "type": "OTHER"
+    },
+    {
+      "name": "@DieMohrruebe",
+      "type": "OTHER"
+    },
+    {
+      "name": "@sarah_warner4",
+      "type": "OTHER"
+    },
+    {
+      "name": "@RyanMichealGray",
+      "type": "OTHER"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.20000000298023224,
+    "magnitude": 127.4000015258789,
+    "sentences": [
+      {
+        "sentence": "18 Hilariously Blunt Kids Who Called Their Parents The Fuck Out",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "&lt;link rel=\"stylesheet\" href=\"/static-assets/css/enhanced.c3e66a1d1b99bad30f1bac5da370a8a6.css\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "View Profile</a>\n  \t<button class=\"xs-col-12 xs-mt1 button button--secondary bold\" data-type=\"signout\">Log Out",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "News\n    </a>\n  \n\n\n\n  <a href=\"https://www.buzzfeed.com/videos\" data-bfa=\"@a:vertical;@d:Videos;\" class=\"xs-pr3 sm-pl3 sm-pr0\n    xs-hide  sm-inline-block\n    xs-pl0\">\n    Videos\n  </a>\n\n  <a href=\"https://www.buzzfeed.com/quizzes\" data-bfa=\"@a:vertical;@d:Quizzes;\" class=\"xs-pr3 sm-pl3 sm-pr0\n    xs-pl0\">\n    Quizzes\n  </a>\n\n  \n    <a href=\"https://www.buzzfeed.com/tasty\" data-bfa=\"@a:vertical;@d:Tasty;\" class=\"xs-pr3 xs-pl0 sm-pl3 sm-pr0 sm-inline-block\">\n      Tasty\n    </a>\n  \n\n  \n    <a href=\"https://www.buzzfeed.com/holidaygiftguide?origin=g-nav\" data-bfa=\"@a:vertical;@d:giftguide;\" class=\"sm-pl3 sm-pr0 xs-hide md-inline-block\">\n      Gift Guide",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Hey BuzzFeed Community!",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log in</a> or <a href=\"https://www.buzzfeed.com/signup\">sign up</a> to create your own posts.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Make a Post!",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Log In To BuzzFeed",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Gift Guide</span>\n          <span class=\"xs-relative header__more-menu__gift-icon\"><svg width=\"26px\" height=\"38px\" viewBox=\"0 0 26 38\" class=\"svg-3 xs-inline-block\">\n    <defs>\n        <polygon id=\"path-1\" points=\"0 10.0595238 26 10.0595238 26 32.3452381 0 36.0595238\"></polygon>\n    </defs>\n    <g id=\"Page-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\n        <g id=\"Artboard\">\n            <mask id=\"mask-2\" fill=\"white\">\n                <use xlink:href=\"#path-1\"></use>\n            </mask>\n            <use id=\"box\" fill=\"#0DCCB0\" xlink:href=\"#path-1\"></use>\n            <path d=\"M12.6821379,8.90741807 C10.9869969,9.03452739 9.76659846,9.07128182 9.02094252,9.01768136 C4.84292252,8.71735011 3.07227011,6.8531285 3.7089853,3.42501654 C4.53211291,-1.00675088 7.7787119,0.561581503 13.4487823,8.13001367 C19.1380246,0.525898958 22.3949593,-1.05623863 23.2195861,3.3836009 C24.0138794,7.66012253 21.061776,9.5028847 14.3632759,8.91188742 C17.9617879,11.8825646 19.272287,13.9315983 18.2947734,15.0589887 C17.1237547,16.4095533 16.3488615,17.1834413 15.9700937,17.3806527 L13.2031277,10.2500359 L9.40648942,20.003338 C8.96470261,19.7740396 8.06088326,18.8742374 6.69503137,17.3039313 C5.43271428,15.8526581 7.44161897,13.0878439 12.7217454,9.00948866 L12.6821379,8.90741807 Z M10.8332556,6.90078099 C7.01435334,7.38584183 5.31567727,6.49354708 5.73722734,4.22389673 C6.15877742,1.95424638 7.85745349,2.84654114 10.8332556,6.90078099 Z M16.0580221,6.88662343 C19.9321383,7.37869731 21.6553739,6.47350169 21.227729,4.17103657 C20.8000842,1.86857145 19.0768485,2.77376706 16.0580221,6.88662343 Z\" id=\"bow\" fill=\"#0E5FE1\"></path>\n        </g>\n    </g>\n</svg></span>\n        </a>\n      \n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/animals\" data-bfa=\"@a:vertical-more;@d:animals;\">Animals</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/books\" data-bfa=\"@a:vertical-more;@d:books;\">Books</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/business\" data-bfa=\"@a:vertical-more;@d:business;\">Business</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/buzz\" data-bfa=\"@a:vertical-more;@d:buzz;\">Buzz</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/celebrity\" data-bfa=\"@a:vertical-more;@d:celebrity;\">Celebrity</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/community\" data-bfa=\"@a:vertical-more;@d:community;\">Community</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/entertainment\" data-bfa=\"@a:vertical-more;@d:entertainment;\">Entertainment</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/food\" data-bfa=\"@a:vertical-more;@d:food;\">Food</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/geeky\" data-bfa=\"@a:vertical-more;@d:geeky;\">Geeky</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/health\" data-bfa=\"@a:vertical-more;@d:health;\">Health</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/investigations\" data-bfa=\"@a:vertical-more;@d:investigations;\">Investigations</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/lgbt\" data-bfa=\"@a:vertical-more;@d:lgbt;\">LGBT</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/life\" data-bfa=\"@a:vertical-more;@d:life;\">Life</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/music\" data-bfa=\"@a:vertical-more;@d:music;\">Music</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/nifty\" data-bfa=\"@a:vertical-more;@d:nifty;\">Nifty</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/parents\" data-bfa=\"@a:vertical-more;@d:parents;\">Parents</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/podcasts\" data-bfa=\"@a:vertical-more;@d:podcasts;\">Podcasts</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/politics\" data-bfa=\"@a:vertical-more;@d:politics;\">Politics</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/reader\" data-bfa=\"@a:vertical-more;@d:reader;\">Reader</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/rewind\" data-bfa=\"@a:vertical-more;@d:rewind;\">Rewind</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/science\" data-bfa=\"@a:vertical-more;@d:science;\">Science</a>\n      \n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/shopping\" data-bfa=\"@a:vertical-more;@d:shopping;\">Shopping</a>\n      \n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/style\" data-bfa=\"@a:vertical-more;@d:style;\">Style</a>\n      <a class=\"xs-block lg-hide\" href=\"https://www.buzzfeed.com/trending\" data-bfa=\"@a:vertical-more;@d:trending;\">Trending</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/tech\" data-bfa=\"@a:vertical-more;@d:tech;\">Tech</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/travel\" data-bfa=\"@a:vertical-more;@d:travel;\">Travel</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/watch/show/unsolved\" data-bfa=\"@a:vertical-more;@d:unsolved;\">Unsolved<span class=\"header__more-menu__nav-items-icon header__more-menu__nav-items-icon--new\">NEW!",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Videos</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/weddings\" data-bfa=\"@a:vertical-more;@d:weddings;\">Weddings</a>\n      <a class=\"xs-block\" href=\"https://www.buzzfeed.com/world\" data-bfa=\"@a:vertical-more;@d:world;\">World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "About</a>\n          \n          <a href=\"https://www.buzzfeed.com/advertise\" data-bfa=\"@a:vertical-more; @d:Advertise;\" class=\"xs-mr3 link-gray sm-mr2 xs-mb1 sm-mb0\">Advertise</a>\n          \n          <a href=\"https://www.buzzfeed.com/about/jobs\" data-bfa=\"@a:vertical-more;@d:Jobs;\" class=\"xs-mr3 link-gray sm-mr2 xs-mb1 sm-mb0\">Jobs</a>\n          \n          <a href=\"https://www.buzzfeed.com/tools/mobile-ios\" data-bfa=\"@a:vertical-more;@d:Mobile;\" class=\"xs-mr3 link-gray sm-mr2 xs-mb1 sm-mb0\">Mobile</a>\n          <a href=\"https://www.buzzfeed.com/tools/email\" data-bfa=\"@a:vertical-more;@d:Newsletters;\" class=\"xs-mr3 link-gray sm-mr2 xs-mb1 sm-mb0\">Newsletters</a>\n          <a target=\"_blank\" href=\"https://shop.buzzfeed.com/\" class=\"xs-mr3 link-gray sm-mr2 xs-mb1 sm-mb0\">Shop",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Press</a>\n          <a href=\"https://www.buzzfeed.com/tools/more\" data-bfa=\"@a:vertical-more;@d:RSS;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">RSS</a>\n          <a href=\"https://www.buzzfeed.com/about/privacy\" data-bfa=\"@a:vertical-more;@d:Privacy;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">Privacy</a>\n          <a href=\"https://www.buzzfeed.com/about/useragreement\" data-bfa=\"@a:vertical-more;@d:User-Terms;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">User Terms</a>\n          <a href=\"https://www.buzzfeed.com/about/privacy#adchoices\" data-bfa=\"@a:vertical-more;@d:Ad-Choices;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">Ad Choices</a>\n          \n          <a href=\"https://www.buzzfeed.com/help\" data-bfa=\"@a:vertical-more;@d:Help;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">Help</a>\n          \n          <a href=\"https://www.buzzfeed.com/about/contact\" data-bfa=\"@a:vertical-more;@d:Contact;\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">Contact</a>\n          <a href=\"https://www.buzzfeed.com/archive\" class=\"link-gray regular xs-mr2 xs-mb1 sm-mb0\">Sitemap",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "© 2017 BuzzFeed, Inc",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "View Profile",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "New Post",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "My Drafts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Dashboard",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Log Out",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "More please",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Your Makeup Might Have Drugs In It.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Here’s Why That’",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "17 Ways Pinky And The Brain Tried To Take Over The W",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "32 Snapchats From 2017 That Will Make You Laugh Hard",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Promoted",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Get Dressed For New Year's Eve And We'll Tell You Yo",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Dress Your Fantasy Boyfriend And We'll Tell You How",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Design Your Dream Bathroom And We'll Reveal What You",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Tell Us What You Think Of These Christmas Party Outf",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "22 Couples Who Are Totally Nailing This Whole Relati",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "33 People Who Hilariously Won 2017",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "16 Professors Who Answered Emails In The Most Profes",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "18 Hilariously Blunt Kids Who Called Their Parents T",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Reply To These Texts And We'll Reveal If You're Naug",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This Grammar Test Is Designed To Mess You Up.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Can Yo",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Two Directors Say They Were Told Not To Cast Weinste",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "21 Ways To Be A Little More OK In 2018",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "People Get Tattoos In Extremely Painful Areas",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "16 Beauty Transformations That Are Cute Before And C",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Pick Some Food To Eat And We'll Reveal Which Barden",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "19 Tweets About Rudolph The Red-Nosed Reindeer That",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "18 Things People With Long Hair Feel Slightly Guilty",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Take This \"Scale Of 1 To 10\" McDonald's Menu Quiz An",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "These 15 Photos Of New Parent Life Will Remind You T",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "23 Gifts For People Who Just Fucking Love Rose Gold",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Which Hidden Gem Should You Watch On Netflix Tonight",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "I Tried The Kitchen Gadget That Says It Can Turn Any",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "You're Gonna Have To Choose Between These Puppies If",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "If You're Having A Rough Day, Just Look At These Pre",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Which Christmas Movie Character Is Your BFF, Soulmat",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Are These Habits Totally Socially Acceptable Or Real",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Build A \"Stranger Things\" Team And We'll Reveal If Y",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Only Look At This If You Want To Have A Mild, But We",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Plan A Trip And We'll Give You A Show To Binge-Watch",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "21 Hilarious Tumblr Posts About \"Barefoot Contessa\"",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "It's Official, We're All Too Old For This Shit",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "24 Under-$25 Gifts For Literally Every Zodiac On You",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Minnie Driver Slammed Matt Damon For His Comments On",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Leave 2017 In The Litter Box And Just Enjoy These Ad",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "James McAvoy Has Been Hot Since The Get-Go, People",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Which Star Wars Character Are You In Bed?",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Which '00s Disney Channel Star Is Your Soulmate?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Again!",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Parents",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "18 Hilariously Blunt Kids Who Called Their Parents The Fuck Out",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "\"I went to my friend Lucas house.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "My mom got drunk.\"",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Posted on \n    <time class=\"buzz-timestamp__time js-timestamp__time\" data-unix=\"1513452663\">December 16, 2017, at 2:31 p.m.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Krista Torres",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "BuzzFeed Staff",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On vk \n      <use xlink:href=\"#vk\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On lineapp \n      <use xlink:href=\"#lineapp\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On twitter \n      <use xlink:href=\"#twitter\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On sms",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On whatsapp",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On more \n      <use xlink:href=\"#more\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On more</title>\n        Share On more \n        <use xlink:href=\"#caret-down\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">More",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share On tumblr",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On copy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "1.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who shared what mommy does behind grandma's back.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @DaddingAround",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "2.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "And this kid who shared what mom does on the weekends.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "passiveaggressivenotes.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "\"I went to my friend Lucas house.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "My mom got drunk.\"",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "3.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who told things like they are.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @akuma2636",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "4.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who had to just be frank with dad.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "reddit.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "5.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who was just being honest with mom.",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @Geekstress11",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "6.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who had to let his teacher know just how much mom likes \"meet.\"",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "passiveaggressivenotes.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "7.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who had to point out the obvious.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @katiestanners",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "8.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who was just repeating what mom said.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @_shitmykidsays_",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "9.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who wanted people to know mom's shortcomings.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "passiveaggressivenotes.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "\"At school I...ate stale Cheetos with lunch thanks mom.\"",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "10.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who knows what her future holds.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @beelzemouse",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "11.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who wants to speak the truth.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @Samazing1989",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "12.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who had to explain why dad is better than mom.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "imgur.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "13.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who was just trying to get his mom the job.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @kruthsmith",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "14.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who is just looking out for mom's well being.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @starfishanus",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "15.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who wants to be just like mommy.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @TheShitNoamSays",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "16.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This kid who can perfectly describe mom's cooking.",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @DieMohrruebe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "17.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This kid who knows it's not <i>his</i> fault mom's head hurts.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @sarah_warner4",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "18.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "And this kid who just wants to remind dad how rapidly he's aging.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share This Link",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter: @RyanMichealGray",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On vk \n      <use xlink:href=\"#vk\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On lineapp \n      <use xlink:href=\"#lineapp\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On twitter \n      <use xlink:href=\"#twitter\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On sms",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On whatsapp",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On more \n      <use xlink:href=\"#more\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On more</title>\n        Share On more \n        <use xlink:href=\"#caret-down\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">More",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share On tumblr",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On copy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "37 Of The Best Gifts Under $50 To Give In 2017",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Not too cheap, not too expensive, but juuuust right.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "47 Fancy But Inexpensive Gifts For Everyone On Your List",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "48 Gifts That Literally Everyone Will Want",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "40 Unexpected Gifts That'll Put Santa To Shame",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "23 Practical Gifts For People Who Are Hard To Shop For",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Find The Perfect Gift",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Promoted by",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Want awesome parenting tips in your inbox twice a week?",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Sign up for the BuzzFeed Parents newsletter!",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Great!",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "You're almost there!",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Check your inbox and confirm your subscription now!",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "View Comments",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Promoted",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Promoted by",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Parts of Santa Barbara County are facing mandatory evacuation as the enormous Thomas fire in southern California is fanned on by high wind conditions.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Republicans unveiled their final tax plan, which would drastically reduce corporate taxes, and it appears to have enough votes to pass.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "A pastor from Sierra Leone found one of the largest diamonds ever.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Instead of selling it on the black market, he turned it over to help a country devastated by Ebola and mudslides.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Want awesome parenting tips in your inbox twice a week?",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Sign up for the BuzzFeed Parents newsletter!",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Great!",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "You're almost there!",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Check your inbox and confirm your subscription now!",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Connect With\n      <span class=\"svg-fallback svg-fallback-logo connect-with-us__buzzfeed-logo svg-red\">\n        <svg viewBox=\"0 0 847 151\">\n  <path d=\"M78.992 103.787c0-9.275-6.625-16.785-18.772-16.785h-28.861v33.569h28.861c11.705 0 18.772-6.184 18.772-16.784zm-2.871-59.848c0-9.055-6.625-15.459-17.225-15.459h-27.537v30.918h27.537c10.6 0 17.225-5.963 17.225-15.459zm-76.121 104.237v-147.301h65.741c28.048 0 42.402 17.888 42.402 37.543 0 18.33-11.484 30.918-25.397 33.789 15.901 2.429 28.268 17.667 28.268 35.997 0 22.305-14.576 39.972-42.843 39.972h-68.171z\"></path>\n  <path d=\"M226.649 148.176v-20.979l48.143-61.174h-48.143v-24.513h86.35v20.096l-49.028 62.058h49.911v24.512h-87.233\"></path>\n  <path d=\"M321.066 148.176v-20.979l48.143-61.174h-48.143v-24.513h86.349v20.096l-49.027 62.058h49.91v24.512h-87.232\"></path>\n  <path d=\"M424.783 148.176v-147.301h102.238v27.605h-70.878v30.918h53.333v27.604h-53.333v61.174h-31.36\"></path>\n  <path d=\"M571.223 61.827c-17.447 0-24.956 12.147-26.06 22.747h52.561c-.884-10.159-7.951-22.747-26.501-22.747zm-55.211 32.906c0-30.918 22.967-55.873 55.211-55.873 32.022 0 53.443 23.85 53.443 58.523v6.625h-79.282c1.987 13.03 12.588 23.851 30.697 23.851 9.054 0 21.421-3.755 28.268-10.379l12.588 18.551c-10.601 9.717-27.385 14.796-43.948 14.796-32.463 0-56.977-21.864-56.977-56.094z\"></path>\n  <path d=\"M685.4 61.827c-17.446 0-24.956 12.147-26.059 22.747h52.56c-.883-10.159-7.95-22.747-26.501-22.747zm-55.211 32.906c0-30.918 22.968-55.873 55.211-55.873 32.023 0 53.444 23.85 53.444 58.523v6.625h-79.282c1.988 13.03 12.587 23.851 30.697 23.851 9.054 0 21.421-3.755 28.267-10.379l12.588 18.551c-10.6 9.717-27.385 14.796-43.947 14.796-32.463 0-56.978-21.864-56.978-56.094z\"></path>\n  <path d=\"M819.522 94.746c0-16.557-9.965-30.36-29.553-30.36h-17.51v60.874h17.352c18.793 0 29.711-14.613 29.711-30.514zm-73.719 53.639v-107.124h43.046c33.726 0 57.968 20.243 57.968 53.485 0 33.24-24.242 53.639-57.81 53.639h-43.204z\"></path>\n  <path d=\"M116.619 105.525v-64.015h28.216v63.05c0 12.736 7.741 21.927 22.741 21.927 14.831 0 22.571-9.191 22.571-21.927v-63.05h28.059v63.858c0 26.764-16.124 45.632-50.63 45.632-34.512 0-50.957-19.031-50.957-45.475\"></path>\n</svg>\n      </span>\n      \n        Parents",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Like Us On Facebook\n    </a>\n  \n\n  \n\n  \n    <a href=\"http://www.twitter.com/buzzfeedparents\" target=\"_blank\" class=\"button button--twitter button--icon xs-col-12 xs-text-left xs-mb1\" data-bfa=\"@a:Connect-With; @d:Twitter;\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 38 38\" aria-hidden=\"true\">\n        <title>Follow Us On Twitter Twitter</title>\n        <use xlink:href=\"#twitter\"></use>\n      </svg>\n      Follow Us On Twitter\n    </a>\n  \n\n  \n\n\n  \n\n\n  \n\n\n  \n    <a href=\"https://apple.news/ToDJxlMFSR_CgE-G2oWJqZA\" target=\"_blank\" class=\"connect-with-us__apple-news-logo button flex xs-flex-align-center button--apple-news xs-col-12 xs-text-left xs-mb1\" data-bfa=\"@a:Connect-With; @d:AppleNews\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\" class=\"xs-relative\" aria-hidden=\"true\">\n        <title>Follow Us On  Apple News</title>\n        <use xlink:href=\"#applenews\"></use>\n      </svg>\n      Follow Us On  Apple News",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "18 Hilariously Blunt Kids Who Called Their Parents The Fuck Out",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Promoted",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "It's Official, We're All Too Old For This Shit",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "ADVERTISEMENT",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "These 15 Photos Of New Parent Life Will Remind You To Take Your Birth Control",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Now Buzzing",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Your Lipsticks, Eyeliners, And Lash Boosters Might Have Potent Drugs In Them, And The FDA Is Fine With It",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Promoted",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "17 Ways Pinky And The Brain Probably Took Over The World",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "32 Snapchats From 2017 That Will Make You Laugh Uncontrollably",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Promoted",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "We Can Guess Your Age Based On The Clothes You Choose To Wear",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Bake Some Christmas Cookies And We'll Reveal One Exciting Thing That Will Happen To You In 2018",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "We Can Accurately Guess Your Height If You Answer These Clothing Questions",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "BuzzFeed Home</a><a class=\"footer-sitemap xs-my05 xs-block\" href=\"https://www.buzzfeed.com/archive\">Sitemap</a>© 2017 BuzzFeed, Inc.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"display:none\"\n         src=\"https://www.facebook.com/tr?id=260954170738952&amp;ev=PageView&amp;noscript=1\" /&gt;",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On facebook \n      <use xlink:href=\"#facebook\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On vk \n      <use xlink:href=\"#vk\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On pinterest \n      <use xlink:href=\"#pinterest\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On pinterest</title>\n        Share On pinterest \n        <use xlink:href=\"#pinit\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">Pin",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Share On lineapp \n      <use xlink:href=\"#lineapp\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On twitter \n      <use xlink:href=\"#twitter\"></use>\n    </svg>\n  </span>\n\n  \n  \n\n  \n      <span class=\"sharing-btn__text\">Share",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Share On email",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share On sms",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On whatsapp",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On more \n      <use xlink:href=\"#more\"></use>\n    </svg>\n  </span>\n\n  \n  \n    <span class=\"icon icon--secondary\">\n      <svg class=\"xs-mx-auto\">\n        <title>Share On more</title>\n        Share On more \n        <use xlink:href=\"#caret-down\"></use>\n      </svg>\n    </span>\n  \n\n  \n      <span class=\"sharing-btn__text\">More",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share On tumblr",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Share On link",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Share On copy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "&lt;img src=\"https://pixiedust.buzzfeed.com/v1.gif?source=buzz_web&amp;platform=bpager&amp;type=instrumentation&amp;target=javascript&amp;value=disabled\" /&gt;",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Every.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Tasty.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Video.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "EVER.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The new Tasty app is here!",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Download now",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      }
+    ]
+  }
+}

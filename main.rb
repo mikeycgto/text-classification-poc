@@ -1,10 +1,17 @@
-require "google/cloud/language"
+require 'json'
+require 'google/cloud/language'
 require_relative 'analyzer'
 
-text_content = "Lawrence of Arabia' is a highly rated film biography about British Lieutenant T. E. Lawrence. Peter O'Toole plays Lawrence in the film. I think this film is terrible."
+Dir['./corpora/*.html'].each do |file|
+  text_content = File.read(file)
 
-analyzer = Analyzer.new(text_content)
+  analyzer = Analyzer.new(text_content, type: :HTML)
 
-p analyzer.classified_categories
-p analyzer.analyzed_entities
-p analyzer.analyzed_sentiment
+  File.open "./analysis/#{File.basename(file, '.html')}.json", 'w+' do |out|
+    out << JSON.pretty_generate({
+      categories: analyzer.classified_categories,
+      entities: analyzer.analyzed_entities,
+      sentiment: analyzer.analyzed_sentiment
+    })
+  end
+end

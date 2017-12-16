@@ -1,0 +1,1289 @@
+{
+  "categories": [
+    {
+      "name": "/Sports/Combat Sports/Wrestling",
+      "confidence": 0.9900000095367432
+    },
+    {
+      "name": "/News/Sports News",
+      "confidence": 0.7799999713897705
+    }
+  ],
+  "entities": [
+    {
+      "name": "Matt Cappotelli",
+      "type": "PERSON"
+    },
+    {
+      "name": "WWE Tough Enough",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "brain cancer",
+      "type": "OTHER"
+    },
+    {
+      "name": "brain cancer",
+      "type": "OTHER"
+    },
+    {
+      "name": "Bleacher Report, Inc.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "WWE",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "30PM EST",
+      "type": "OTHER"
+    },
+    {
+      "name": "shock",
+      "type": "OTHER"
+    },
+    {
+      "name": "00PM EST",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sun 1",
+      "type": "OTHER"
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "width",
+      "type": "OTHER"
+    },
+    {
+      "name": "brain cancer",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms of Use",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Tickets",
+      "type": "OTHER"
+    },
+    {
+      "name": "brain cancer",
+      "type": "OTHER"
+    },
+    {
+      "name": "site",
+      "type": "OTHER"
+    },
+    {
+      "name": "MMA",
+      "type": "OTHER"
+    },
+    {
+      "name": "Golf",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tennis",
+      "type": "OTHER"
+    },
+    {
+      "name": "Boxing",
+      "type": "EVENT"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Trending",
+      "type": "OTHER"
+    },
+    {
+      "name": "Mag",
+      "type": "OTHER"
+    },
+    {
+      "name": "FINAL",
+      "type": "EVENT"
+    },
+    {
+      "name": "Tough Enough 3",
+      "type": "OTHER"
+    },
+    {
+      "name": "glioblastoma",
+      "type": "OTHER"
+    },
+    {
+      "name": "NFL",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Tna",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "brain stem",
+      "type": "OTHER"
+    },
+    {
+      "name": "Pro Wrestling",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "World Football",
+      "type": "OTHER"
+    },
+    {
+      "name": "CFB",
+      "type": "OTHER"
+    },
+    {
+      "name": "MLB",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "NASCAR",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "CBB",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Login",
+      "type": "OTHER"
+    },
+    {
+      "name": "IND3",
+      "type": "OTHER"
+    },
+    {
+      "name": "CHI4",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "NBA",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "EPL College FB College BB Soccer NHL",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "cancer",
+      "type": "OTHER"
+    },
+    {
+      "name": "winner",
+      "type": "PERSON"
+    },
+    {
+      "name": "25PM EST",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sun 4",
+      "type": "OTHER"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "remainder",
+      "type": "OTHER"
+    },
+    {
+      "name": "05PM EST",
+      "type": "OTHER"
+    },
+    {
+      "name": "form",
+      "type": "OTHER"
+    },
+    {
+      "name": "hope",
+      "type": "OTHER"
+    },
+    {
+      "name": "hope",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sun 8",
+      "type": "OTHER"
+    },
+    {
+      "name": "tumor",
+      "type": "OTHER"
+    },
+    {
+      "name": "tumor",
+      "type": "OTHER"
+    },
+    {
+      "name": "form",
+      "type": "OTHER"
+    },
+    {
+      "name": "wrestling career",
+      "type": "OTHER"
+    },
+    {
+      "name": "wind",
+      "type": "OTHER"
+    },
+    {
+      "name": "Mon",
+      "type": "OTHER"
+    },
+    {
+      "name": "maximum",
+      "type": "OTHER"
+    },
+    {
+      "name": "Grade",
+      "type": "OTHER"
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER"
+    },
+    {
+      "name": "story",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "John Hennigan",
+      "type": "PERSON"
+    },
+    {
+      "name": "emergency surgery",
+      "type": "OTHER"
+    },
+    {
+      "name": "sails",
+      "type": "OTHER"
+    },
+    {
+      "name": "remission",
+      "type": "OTHER"
+    },
+    {
+      "name": "DET7",
+      "type": "OTHER"
+    },
+    {
+      "name": "LAC7",
+      "type": "OTHER"
+    },
+    {
+      "name": "KC7",
+      "type": "OTHER"
+    },
+    {
+      "name": "MIA6",
+      "type": "OTHER"
+    },
+    {
+      "name": "BUF7",
+      "type": "OTHER"
+    },
+    {
+      "name": "ARI6",
+      "type": "OTHER"
+    },
+    {
+      "name": "NYJ5",
+      "type": "OTHER"
+    },
+    {
+      "name": "BAL7",
+      "type": "OTHER"
+    },
+    {
+      "name": "GB7",
+      "type": "OTHER"
+    },
+    {
+      "name": "CAR9",
+      "type": "LOCATION"
+    },
+    {
+      "name": "HOU4",
+      "type": "OTHER"
+    },
+    {
+      "name": "JAX9",
+      "type": "OTHER"
+    },
+    {
+      "name": "NYG2",
+      "type": "OTHER"
+    },
+    {
+      "name": "clash",
+      "type": "OTHER"
+    },
+    {
+      "name": "champions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Clash",
+      "type": "EVENT"
+    },
+    {
+      "name": "clash",
+      "type": "OTHER"
+    },
+    {
+      "name": "champions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Use",
+      "type": "OTHER"
+    },
+    {
+      "name": "stars",
+      "type": "PERSON"
+    },
+    {
+      "name": "stars",
+      "type": "OTHER"
+    },
+    {
+      "name": "Careers",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tickets",
+      "type": "OTHER"
+    },
+    {
+      "name": "Copyright",
+      "type": "OTHER"
+    },
+    {
+      "name": "tv deal",
+      "type": "OTHER"
+    },
+    {
+      "name": "moments",
+      "type": "OTHER"
+    },
+    {
+      "name": "champions highlights",
+      "type": "OTHER"
+    },
+    {
+      "name": "points",
+      "type": "OTHER"
+    },
+    {
+      "name": "Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertise",
+      "type": "OTHER"
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER"
+    },
+    {
+      "name": "Community Guidelines",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Press",
+      "type": "OTHER"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "CIN5",
+      "type": "OTHER"
+    },
+    {
+      "name": "MIN10",
+      "type": "LOCATION"
+    },
+    {
+      "name": "LAR9",
+      "type": "OTHER"
+    },
+    {
+      "name": "SEA8",
+      "type": "OTHER"
+    },
+    {
+      "name": "TEN8",
+      "type": "OTHER"
+    },
+    {
+      "name": "SF3",
+      "type": "OTHER"
+    },
+    {
+      "name": "DAL7",
+      "type": "OTHER"
+    },
+    {
+      "name": "OAK6",
+      "type": "OTHER"
+    },
+    {
+      "name": "ATL8",
+      "type": "OTHER"
+    },
+    {
+      "name": "TB4",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Tyler Conway@jtylerconway",
+      "type": "OTHER"
+    },
+    {
+      "name": "Featured ColumnistDecember",
+      "type": "PERSON"
+    },
+    {
+      "name": "BleacherReport.com",
+      "type": "OTHER"
+    },
+    {
+      "name": "WDRB",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Gil Corsey",
+      "type": "PERSON"
+    },
+    {
+      "name": "use",
+      "type": "OTHER"
+    },
+    {
+      "name": "copyright",
+      "type": "OTHER"
+    },
+    {
+      "name": "width",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER"
+    },
+    {
+      "name": "benefit show",
+      "type": "EVENT"
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "distribution",
+      "type": "OTHER"
+    },
+    {
+      "name": "consent",
+      "type": "OTHER"
+    },
+    {
+      "name": "noscript",
+      "type": "OTHER"
+    },
+    {
+      "name": "ts",
+      "type": "OTHER"
+    },
+    {
+      "name": "cg",
+      "type": "OTHER"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "winner",
+      "type": "PERSON"
+    },
+    {
+      "name": "uk",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Corey Jacobs",
+      "type": "PERSON"
+    },
+    {
+      "name": "Wrestling News",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Erik Beaston",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anthony Mango",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Kevin Wong",
+      "type": "PERSON"
+    },
+    {
+      "name": "BR",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Turner Broadcasting System, Inc.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Turner Sports Network",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "AdChoices",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER"
+    },
+    {
+      "name": "doctors",
+      "type": "PERSON"
+    },
+    {
+      "name": "Getty Images",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Ohio Valley Wrestling",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Turner Sports and Entertainment Network",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "diagnosis",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "season",
+      "type": "EVENT"
+    },
+    {
+      "name": "trainer",
+      "type": "PERSON"
+    },
+    {
+      "name": "bills",
+      "type": "OTHER"
+    },
+    {
+      "name": "Rights Reserved",
+      "type": "OTHER"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.0,
+    "magnitude": 20.299999237060547,
+    "sentences": [
+      {
+        "sentence": "WWE Tough Enough Winner Matt Cappotelli Given 5 Years to Live with Brain Cancer",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Bleacher Report",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "&lt;img src=\"http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=6246855&amp;amp;c4=bleacherreport.com%2F2748971&amp;amp;cv=2&amp;amp;cj=1\" width=\"0\" height=\"0\" alt=\"\"/&gt;",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "By using this site, you agree to the <!-- /react-text --><a href=\"http://bleacherreport.com/pages/privacy\">Privacy Policy</a><!-- react-text: 363 --> and <!-- /react-text --><a href=\"http://bleacherreport.com/pages/terms\">Terms of Use.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NBA",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NFL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "World Football",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "CFB",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "MLB",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NHL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "WWE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "MMA",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NASCAR",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Golf",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Tennis",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "CBB",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Boxing",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Trending",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Mag",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Tickets",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Get The App",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Sign Up",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Login",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NFL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "FINAL",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "DEN</span></span><span class=\"record\">5-9</span></span><span class=\"score\"><!-- react-text: 387 -->25",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "IND</span></span><span class=\"record\">3-11</span></span><span class=\"score\"><!-- react-text: 395 -->13",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "4:30PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "CHI</span></span><span class=\"record\">4-9</span></span><span class=\"score\"><!-- react-text: 405 -->0",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "DET</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 413 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "8:30PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "LAC</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 423 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "KC</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 431 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "MIA</span></span><span class=\"record\">6-7</span></span><span class=\"score\"><!-- react-text: 441 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "BUF</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 449 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "ARI</span></span><span class=\"record\">6-7</span></span><span class=\"score\"><!-- react-text: 459 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "WAS</span></span><span class=\"record\">5-8</span></span><span class=\"score\"><!-- react-text: 467 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NYJ</span></span><span class=\"record\">5-8</span></span><span class=\"score\"><!-- react-text: 477 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NO</span></span><span class=\"record\">9-4</span></span><span class=\"score\"><!-- react-text: 485 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "BAL</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 495 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "CLE</span></span><span class=\"record\">0-13</span></span><span class=\"score\"><!-- react-text: 503 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "GB</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 513 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "CAR</span></span><span class=\"record\">9-4</span></span><span class=\"score\"><!-- react-text: 521 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "HOU</span></span><span class=\"record\">4-9</span></span><span class=\"score\"><!-- react-text: 531 -->0",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "JAX</span></span><span class=\"record\">9-4</span></span><span class=\"score\"><!-- react-text: 539 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "PHI</span></span><span class=\"record\">11-2</span></span><span class=\"score\"><!-- react-text: 549 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NYG</span></span><span class=\"record\">2-11</span></span><span class=\"score\"><!-- react-text: 557 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 1:00PM EST",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "CIN</span></span><span class=\"record\">5-8</span></span><span class=\"score\"><!-- react-text: 567 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "MIN</span></span><span class=\"record\">10-3</span></span><span class=\"score\"><!-- react-text: 575 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 4:05PM EST",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "LAR</span></span><span class=\"record\">9-4</span></span><span class=\"score\"><!-- react-text: 585 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "SEA</span></span><span class=\"record\">8-5</span></span><span class=\"score\"><!-- react-text: 593 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 4:25PM EST",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "TEN</span></span><span class=\"record\">8-5</span></span><span class=\"score\"><!-- react-text: 603 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "SF</span></span><span class=\"record\">3-10</span></span><span class=\"score\"><!-- react-text: 611 -->0",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sun 4:25PM EST",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NE</span></span><span class=\"record\">10-3</span></span><span class=\"score\"><!-- react-text: 621 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "PIT</span></span><span class=\"record\">11-2</span></span><span class=\"score\"><!-- react-text: 629 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sun 8:30PM EST",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "DAL</span></span><span class=\"record\">7-6</span></span><span class=\"score\"><!-- react-text: 639 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "OAK</span></span><span class=\"record\">6-7</span></span><span class=\"score\"><!-- react-text: 647 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Mon 8:30PM EST",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "ATL</span></span><span class=\"record\">8-5</span></span><span class=\"score\"><!-- react-text: 657 -->0",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "TB</span></span><span class=\"record\">4-9</span></span><span class=\"score\"><!-- react-text: 665 -->0",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NBA</span></header><header id=\"sportList-EPL\" class=\"sportName\" tabindex=\"0\"><span class=\"name\">EPL</span></header><header id=\"sportList-College FB\" class=\"sportName\" tabindex=\"0\"><span class=\"name\">College FB</span></header><header id=\"sportList-College BB\" class=\"sportName\" tabindex=\"0\"><span class=\"name\">College BB</span></header><header id=\"sportList-Soccer\" class=\"sportName\" tabindex=\"0\"><span class=\"name\">Soccer</span></header><header id=\"sportList-NHL\" class=\"sportName\" tabindex=\"0\"><span class=\"name\">NHL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "WWE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "WWE Tough Enough Winner Matt Cappotelli Given 5 Years to Live with Brain Cancer",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Tyler Conway</span></a><a class=\"twitterHandle\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://twitter.com/jtylerconway\" data-reactid=\"131\"><span data-reactid=\"132\"><!-- react-text: 133 -->@<!-- /react-text --><!-- react-text: 134 -->jtylerconway<!-- /react-text --></span><svg class=\"atom svg icon twitter\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 14\" data-reactid=\"135\"><title data-reactid=\"136\">Twitter Logo</title><path d=\"M5.042 13.504c6.01 0 9.3-4.985 9.3-9.3 0-.14 0-.28-.006-.42.638-.46 1.192-1.04 1.632-1.697-.586.262-1.217.434-1.88.517.675-.402 1.192-1.046 1.44-1.81-.63.375-1.332.643-2.078.79C12.85.946 12.003.55 11.066.55c-1.804 0-3.27 1.467-3.27 3.27 0 .256.032.505.083.747-2.717-.134-5.126-1.44-6.74-3.417C.86 1.635.7 2.196.7 2.795c0 1.134.58 2.135 1.455 2.722-.536-.02-1.04-.166-1.48-.408v.043c0 1.58 1.13 2.907 2.62 3.207-.273.076-.56.115-.86.115-.21 0-.414-.02-.612-.058.414 1.3 1.626 2.244 3.053 2.27-1.12.88-2.53 1.402-4.06 1.402-.26 0-.523-.014-.778-.046 1.44.918 3.162 1.46 5.004 1.46\" data-reactid=\"137\"></path></svg></a><span class=\"title\" data-reactid=\"138\">Featured Columnist</span></span><span class=\"date\" data-reactid=\"139\">December 12, 2017</span><button type=\"button\" class=\"atom button commentCount\" data-reactid=\"140\"><span class=\"label\" data-reactid=\"141\"><!-- react-text: 142 --> <!-- /react-text --><!-- react-text: 143 -->Comments",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "WWE.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Matt Cappotelli, the winner of WWE's <em>Tough Enough 3</em>, has been diagnosed with terminal brain cancer, which doctors say likely gives him a maximum of five years to live, per WDRB's <a href=\"http://www.wdrb.com/story/37042925/video-former-wwe-superstar-from-louisville-wrestles-with-life-in-second-round-of-brain-cancer\" target=\"_blank\" rel=\"noopener noreferrer\">Gil Corsey</a>.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Cappotelli said he plans to continue treatment despite being diagnosed with&nbsp;<span>a Grade 4 glioblastoma, which is considered the most aggressive form of brain cancer.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "\"Though it seems unfortunate,&nbsp;I want it to be portrayed&nbsp;as a story of hope...unending hope,\" Cappotelli said.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Cappotelli, 38,<span>&nbsp;</span><a href=\"http://bleacherreport.com/articles/2718723-wwe-tough-enough-winner-matt-cappotelli-to-have-emergency-surgery-on-brain-tumor\" target=\"_blank\">previously</a><span>&nbsp;</span>underwent emergency surgery in June to remove part of his tumor.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The remainder of the tumor is considered inoperable because it is too close to his brain stem.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Cappotelli retired from wrestling in 2007 after he was diagnosed with a different form of brain cancer.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "\"The first time was [a] shock, but this time, it kind of took the wind out of my sails,\" Cappotelli said.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "\"Every year&nbsp;you get past cancer and into remission, you get more comfortable that you're beyond it.\"",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Cappotelli was part of WWE's Ohio Valley Wrestling developmental program at the time of his first diagnosis.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "He was named a winner of the third season of&nbsp;<em>Tough Enough</em><span>&nbsp;</span>alongside John Hennigan, who is now better known as John Morrison.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Cappotelli later served as a trainer at OVW after his wrestling career ended.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "OVW hosted a benefit show to help&nbsp;<span>him pay for his medical bills earlier in the fall.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Comments",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Related",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Pro Wrestling",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "TNA Loses Its TV Deal in the UK",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Corey Jacobs",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "via Wrestling News",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Pro Wrestling",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Twitter Reacts to Top Stars and Moments of Clash of Champions",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Erik Beaston",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "via Bleacher Report",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Pro Wrestling",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Clash of Champions Highlights and Low Points",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Anthony Mango",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "via Bleacher Report",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Pro Wrestling",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Biggest Stars of Clash of Champions",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Kevin Wong",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "via Bleacher Report",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Follow <span class=\"team-color\">WWE</span> on Facebook",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "BR's WWE Facebook Page",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "About",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Advertise",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Blog",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Contact Us",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Careers",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Community Guidelines",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Press",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Privacy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Terms Of Use",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tickets",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "AdChoices",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Copyright © 2017 Bleacher Report, Inc.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Turner Broadcasting System, Inc.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "All Rights Reserved.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "BleacherReport.com is part of Bleacher Report – Turner Sports Network, part of the Turner Sports and Entertainment Network.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Certain photos copyright © 2017 Getty Images.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Any commercial use or distribution without the express written consent of Getty Images is strictly prohibited.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "AdChoices",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img src=\"//secure-us.imrworldwide.com/cgi-bin/m?ci=us-204044h&amp;amp;cg=0&amp;amp;cc=1&amp;amp;ts=noscript\" width=\"1\" height=\"1\" alt=\"\"/&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      }
+    ]
+  }
+}

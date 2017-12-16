@@ -1,0 +1,2302 @@
+{
+  "categories": [
+    {
+      "name": "/Arts & Entertainment/Music & Audio/Rock Music",
+      "confidence": 0.6600000262260437
+    }
+  ],
+  "entities": [
+    {
+      "name": "U.F.O.",
+      "type": "OTHER"
+    },
+    {
+      "name": "Harry Reid",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bob Bigelow",
+      "type": "PERSON"
+    },
+    {
+      "name": "New York Times",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "sightings",
+      "type": "OTHER"
+    },
+    {
+      "name": "Blink-182",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "takeaway",
+      "type": "OTHER"
+    },
+    {
+      "name": "officer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Politico",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "singer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Advanced Aviation Threat Identification Program",
+      "type": "OTHER"
+    },
+    {
+      "name": "Person",
+      "type": "PERSON"
+    },
+    {
+      "name": "effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "singer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Luis Elizondo",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pentagon",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Defense Department",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "arena",
+      "type": "LOCATION"
+    },
+    {
+      "name": "officials",
+      "type": "PERSON"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "pair",
+      "type": "PERSON"
+    },
+    {
+      "name": "effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "Technology",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Technology",
+      "type": "OTHER"
+    },
+    {
+      "name": "reports",
+      "type": "OTHER"
+    },
+    {
+      "name": "hotel billionaire",
+      "type": "PERSON"
+    },
+    {
+      "name": "reports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tom DeLonge",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bigelow Aerospace",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Politics & Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Identities",
+      "type": "OTHER"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Identities",
+      "type": "OTHER"
+    },
+    {
+      "name": "initiative",
+      "type": "OTHER"
+    },
+    {
+      "name": "initiative",
+      "type": "OTHER"
+    },
+    {
+      "name": "military service members",
+      "type": "PERSON"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "tweet",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "share",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "iframe",
+      "type": "OTHER"
+    },
+    {
+      "name": "visibility",
+      "type": "OTHER"
+    },
+    {
+      "name": "iframe",
+      "type": "OTHER"
+    },
+    {
+      "name": "height",
+      "type": "OTHER"
+    },
+    {
+      "name": "none",
+      "type": "OTHER"
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Explainers",
+      "type": "OTHER"
+    },
+    {
+      "name": "Culture",
+      "type": "OTHER"
+    },
+    {
+      "name": "Podcasts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Explainers",
+      "type": "OTHER"
+    },
+    {
+      "name": "Culture",
+      "type": "OTHER"
+    },
+    {
+      "name": "Podcasts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "display",
+      "type": "OTHER"
+    },
+    {
+      "name": "push",
+      "type": "EVENT"
+    },
+    {
+      "name": "The Big Idea",
+      "type": "OTHER"
+    },
+    {
+      "name": "Emily Stewart",
+      "type": "PERSON"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "government program",
+      "type": "OTHER"
+    },
+    {
+      "name": "Daniel Inouye",
+      "type": "PERSON"
+    },
+    {
+      "name": "Energy & Environment",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Business & Finance",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Getty Images",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "pilots",
+      "type": "PERSON"
+    },
+    {
+      "name": "Vox Media, Inc.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "science",
+      "type": "OTHER"
+    },
+    {
+      "name": "efforts",
+      "type": "OTHER"
+    },
+    {
+      "name": "effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "government efforts",
+      "type": "OTHER"
+    },
+    {
+      "name": "apology",
+      "type": "OTHER"
+    },
+    {
+      "name": "jedi",
+      "type": "OTHER"
+    },
+    {
+      "name": "Vox sentences",
+      "type": "OTHER"
+    },
+    {
+      "name": "season",
+      "type": "EVENT"
+    },
+    {
+      "name": "facility",
+      "type": "LOCATION"
+    },
+    {
+      "name": "world",
+      "type": "LOCATION"
+    },
+    {
+      "name": "EST",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Alex Wong",
+      "type": "PERSON"
+    },
+    {
+      "name": "John Glenn",
+      "type": "PERSON"
+    },
+    {
+      "name": "progress",
+      "type": "OTHER"
+    },
+    {
+      "name": "words",
+      "type": "OTHER"
+    },
+    {
+      "name": "recording",
+      "type": "OTHER"
+    },
+    {
+      "name": "military service members",
+      "type": "PERSON"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "reports",
+      "type": "OTHER"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "technology",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "programs",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "initiative",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "initiative",
+      "type": "OTHER"
+    },
+    {
+      "name": "tuition benefits",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "program",
+      "type": "OTHER"
+    },
+    {
+      "name": "Senate",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "stories",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "phenomena",
+      "type": "OTHER"
+    },
+    {
+      "name": "objects",
+      "type": "OTHER"
+    },
+    {
+      "name": "sightings",
+      "type": "OTHER"
+    },
+    {
+      "name": "surprise",
+      "type": "OTHER"
+    },
+    {
+      "name": "end",
+      "type": "OTHER"
+    },
+    {
+      "name": "encounters",
+      "type": "EVENT"
+    },
+    {
+      "name": "effects",
+      "type": "OTHER"
+    },
+    {
+      "name": "material",
+      "type": "OTHER"
+    },
+    {
+      "name": "community",
+      "type": "PERSON"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "aerospace",
+      "type": "OTHER"
+    },
+    {
+      "name": "Hillary Clinton",
+      "type": "PERSON"
+    },
+    {
+      "name": "objects",
+      "type": "OTHER"
+    },
+    {
+      "name": "Robot",
+      "type": "PERSON"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "head",
+      "type": "PERSON"
+    },
+    {
+      "name": "cast",
+      "type": "PERSON"
+    },
+    {
+      "name": "characters",
+      "type": "OTHER"
+    },
+    {
+      "name": "edges",
+      "type": "OTHER"
+    },
+    {
+      "name": "things",
+      "type": "OTHER"
+    },
+    {
+      "name": "alien conspiracy theories",
+      "type": "OTHER"
+    },
+    {
+      "name": "election",
+      "type": "EVENT"
+    },
+    {
+      "name": "None",
+      "type": "OTHER"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "reports",
+      "type": "OTHER"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "interest",
+      "type": "OTHER"
+    },
+    {
+      "name": "Parts",
+      "type": "OTHER"
+    },
+    {
+      "name": "report",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "government contractor",
+      "type": "PERSON"
+    },
+    {
+      "name": "senator",
+      "type": "PERSON"
+    },
+    {
+      "name": "Contracts",
+      "type": "OTHER"
+    },
+    {
+      "name": "audio recordings",
+      "type": "OTHER"
+    },
+    {
+      "name": "interest",
+      "type": "OTHER"
+    },
+    {
+      "name": "effects",
+      "type": "OTHER"
+    },
+    {
+      "name": "deputy defense secretary",
+      "type": "PERSON"
+    },
+    {
+      "name": "interviews",
+      "type": "EVENT"
+    },
+    {
+      "name": "interview",
+      "type": "EVENT"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "science fact",
+      "type": "OTHER"
+    },
+    {
+      "name": "secret",
+      "type": "OTHER"
+    },
+    {
+      "name": "fact",
+      "type": "OTHER"
+    },
+    {
+      "name": "startup",
+      "type": "OTHER"
+    },
+    {
+      "name": "re-election campaigns",
+      "type": "EVENT"
+    },
+    {
+      "name": "budget",
+      "type": "OTHER"
+    },
+    {
+      "name": "phenomena",
+      "type": "OTHER"
+    },
+    {
+      "name": "sightings",
+      "type": "OTHER"
+    },
+    {
+      "name": "objects",
+      "type": "OTHER"
+    },
+    {
+      "name": "video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "incidents",
+      "type": "OTHER"
+    },
+    {
+      "name": "incident",
+      "type": "EVENT"
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "one",
+      "type": "OTHER"
+    },
+    {
+      "name": "identification",
+      "type": "OTHER"
+    },
+    {
+      "name": "officials",
+      "type": "PERSON"
+    },
+    {
+      "name": "phenomena",
+      "type": "OTHER"
+    },
+    {
+      "name": "source",
+      "type": "OTHER"
+    },
+    {
+      "name": "catholic church",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "science fiction",
+      "type": "OTHER"
+    },
+    {
+      "name": "incidents",
+      "type": "EVENT"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "hotel chain",
+      "type": "LOCATION"
+    },
+    {
+      "name": "visitors",
+      "type": "PERSON"
+    },
+    {
+      "name": "aircraft",
+      "type": "OTHER"
+    },
+    {
+      "name": "materials",
+      "type": "OTHER"
+    },
+    {
+      "name": "encounters",
+      "type": "EVENT"
+    },
+    {
+      "name": "something",
+      "type": "OTHER"
+    },
+    {
+      "name": "Nevadan",
+      "type": "LOCATION"
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "campaign finance records",
+      "type": "OTHER"
+    },
+    {
+      "name": "Defense officials",
+      "type": "PERSON"
+    },
+    {
+      "name": "Vox Media",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Jobs @ Vox Media",
+      "type": "OTHER"
+    },
+    {
+      "name": "findings",
+      "type": "OTHER"
+    },
+    {
+      "name": "staffer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christopher Mellon",
+      "type": "PERSON"
+    },
+    {
+      "name": "request",
+      "type": "OTHER"
+    },
+    {
+      "name": "earmark",
+      "type": "OTHER"
+    },
+    {
+      "name": "aerospace titan",
+      "type": "OTHER"
+    },
+    {
+      "name": "views",
+      "type": "OTHER"
+    },
+    {
+      "name": "believers",
+      "type": "OTHER"
+    },
+    {
+      "name": "subject",
+      "type": "OTHER"
+    },
+    {
+      "name": "topic",
+      "type": "OTHER"
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION"
+    },
+    {
+      "name": "show",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "alloys",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "buildings",
+      "type": "LOCATION"
+    },
+    {
+      "name": "F",
+      "type": "OTHER"
+    },
+    {
+      "name": "kind",
+      "type": "OTHER"
+    },
+    {
+      "name": "aura",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "research",
+      "type": "OTHER"
+    },
+    {
+      "name": "resentment",
+      "type": "OTHER"
+    },
+    {
+      "name": "case",
+      "type": "OTHER"
+    },
+    {
+      "name": "consortium",
+      "type": "OTHER"
+    },
+    {
+      "name": "Researchers",
+      "type": "PERSON"
+    },
+    {
+      "name": "data transfer policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER"
+    },
+    {
+      "name": "briefing",
+      "type": "EVENT"
+    },
+    {
+      "name": "aims",
+      "type": "OTHER"
+    },
+    {
+      "name": "country",
+      "type": "LOCATION"
+    },
+    {
+      "name": "government colleagues",
+      "type": "PERSON"
+    },
+    {
+      "name": "order",
+      "type": "OTHER"
+    },
+    {
+      "name": "institution",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "answers",
+      "type": "OTHER"
+    },
+    {
+      "name": "researchers",
+      "type": "PERSON"
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "Area 51",
+      "type": "LOCATION"
+    },
+    {
+      "name": "US Air Force",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "grad students",
+      "type": "PERSON"
+    },
+    {
+      "name": "words",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fiction",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "aircraft",
+      "type": "OTHER"
+    },
+    {
+      "name": "news",
+      "type": "OTHER"
+    },
+    {
+      "name": "Harry potter",
+      "type": "PERSON"
+    },
+    {
+      "name": "location",
+      "type": "LOCATION"
+    },
+    {
+      "name": "D-NV",
+      "type": "OTHER"
+    },
+    {
+      "name": "products",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "cinnamon roll recipe",
+      "type": "OTHER"
+    },
+    {
+      "name": "misconduct",
+      "type": "OTHER"
+    },
+    {
+      "name": "text",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "findings",
+      "type": "OTHER"
+    },
+    {
+      "name": "budget documents",
+      "type": "OTHER"
+    },
+    {
+      "name": "transgender",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "season",
+      "type": "EVENT"
+    },
+    {
+      "name": "staff",
+      "type": "PERSON"
+    },
+    {
+      "name": "law",
+      "type": "OTHER"
+    },
+    {
+      "name": "Navy",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "health care",
+      "type": "OTHER"
+    },
+    {
+      "name": "read",
+      "type": "OTHER"
+    },
+    {
+      "name": "fetus",
+      "type": "PERSON"
+    },
+    {
+      "name": "attention",
+      "type": "OTHER"
+    },
+    {
+      "name": "series",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "books",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "nonfiction",
+      "type": "OTHER"
+    },
+    {
+      "name": "door",
+      "type": "OTHER"
+    },
+    {
+      "name": "elementary school thought experiment",
+      "type": "EVENT"
+    },
+    {
+      "name": "reality",
+      "type": "OTHER"
+    },
+    {
+      "name": "inbox",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "D",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jim Mattis",
+      "type": "PERSON"
+    },
+    {
+      "name": "John Podesta",
+      "type": "PERSON"
+    },
+    {
+      "name": "Rights Reserved",
+      "type": "OTHER"
+    },
+    {
+      "name": "study",
+      "type": "OTHER"
+    },
+    {
+      "name": "Article",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Vox",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Contact",
+      "type": "OTHER"
+    },
+    {
+      "name": "policy stories",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "To The Stars Academy of Arts and Sciences",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Utah",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Skinwalker Ranch",
+      "type": "LOCATION"
+    },
+    {
+      "name": "AK",
+      "type": "LOCATION"
+    },
+    {
+      "name": "R",
+      "type": "PERSON"
+    },
+    {
+      "name": "story",
+      "type": "OTHER"
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION"
+    },
+    {
+      "name": " ̄\\_",
+      "type": "OTHER"
+    },
+    {
+      "name": "Super Hornet",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "grad students",
+      "type": "PERSON"
+    },
+    {
+      "name": "tweet",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "share",
+      "type": "OTHER"
+    },
+    {
+      "name": "footage",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "sidebar size",
+      "type": "OTHER"
+    },
+    {
+      "name": "Ted Stevens",
+      "type": "PERSON"
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Russians",
+      "type": "PERSON"
+    },
+    {
+      "name": "component height",
+      "type": "OTHER"
+    },
+    {
+      "name": "latest",
+      "type": "OTHER"
+    },
+    {
+      "name": "budget documents",
+      "type": "OTHER"
+    },
+    {
+      "name": "cinnamon roll recipe",
+      "type": "OTHER"
+    },
+    {
+      "name": "misconduct",
+      "type": "OTHER"
+    },
+    {
+      "name": "sentences",
+      "type": "OTHER"
+    },
+    {
+      "name": "part",
+      "type": "OTHER"
+    },
+    {
+      "name": "science",
+      "type": "OTHER"
+    },
+    {
+      "name": "science",
+      "type": "OTHER"
+    },
+    {
+      "name": "efforts",
+      "type": "OTHER"
+    },
+    {
+      "name": "effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletters page",
+      "type": "OTHER"
+    },
+    {
+      "name": "aerospace",
+      "type": "OTHER"
+    },
+    {
+      "name": "status page",
+      "type": "OTHER"
+    },
+    {
+      "name": "users",
+      "type": "PERSON"
+    },
+    {
+      "name": "star wars universe",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "chapter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "sex abuse problem",
+      "type": "OTHER"
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "Use",
+      "type": "OTHER"
+    },
+    {
+      "name": "Communications Preferences",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tip",
+      "type": "OTHER"
+    },
+    {
+      "name": "Masthead",
+      "type": "OTHER"
+    },
+    {
+      "name": "Systems",
+      "type": "OTHER"
+    },
+    {
+      "name": "details",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertise",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "nobody",
+      "type": "PERSON"
+    },
+    {
+      "name": "Republicans",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Trump",
+      "type": "PERSON"
+    },
+    {
+      "name": "technologies",
+      "type": "OTHER"
+    },
+    {
+      "name": "intelligence",
+      "type": "OTHER"
+    },
+    {
+      "name": "text bot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Article",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "world",
+      "type": "LOCATION"
+    },
+    {
+      "name": "California",
+      "type": "LOCATION"
+    },
+    {
+      "name": "power",
+      "type": "OTHER"
+    },
+    {
+      "name": "Mario Batali",
+      "type": "PERSON"
+    },
+    {
+      "name": "CDC",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "resignation letter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "tweet",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "share",
+      "type": "OTHER"
+    },
+    {
+      "name": "vehicle",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "mission",
+      "type": "OTHER"
+    },
+    {
+      "name": "Constance Grady",
+      "type": "PERSON"
+    },
+    {
+      "name": "priority issues",
+      "type": "OTHER"
+    },
+    {
+      "name": "issue",
+      "type": "OTHER"
+    },
+    {
+      "name": "secrecy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Us",
+      "type": "LOCATION"
+    },
+    {
+      "name": "funding",
+      "type": "OTHER"
+    },
+    {
+      "name": "others",
+      "type": "PERSON"
+    },
+    {
+      "name": "opposition",
+      "type": "OTHER"
+    },
+    {
+      "name": "history",
+      "type": "OTHER"
+    },
+    {
+      "name": "infrastructure",
+      "type": "OTHER"
+    },
+    {
+      "name": "website",
+      "type": "OTHER"
+    },
+    {
+      "name": "resources",
+      "type": "OTHER"
+    },
+    {
+      "name": "entertainment",
+      "type": "OTHER"
+    },
+    {
+      "name": "change",
+      "type": "OTHER"
+    },
+    {
+      "name": "venture",
+      "type": "OTHER"
+    },
+    {
+      "name": "fires",
+      "type": "EVENT"
+    },
+    {
+      "name": "European",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Alissa Wilkinson",
+      "type": "PERSON"
+    },
+    {
+      "name": "Julia Belluz",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ella Nilsen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jen Kirby",
+      "type": "PERSON"
+    },
+    {
+      "name": "emails",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER"
+    },
+    {
+      "name": "feedback",
+      "type": "OTHER"
+    },
+    {
+      "name": "WikiLeaks",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.0,
+    "magnitude": 38.79999923706055,
+    "sentences": [
+      {
+        "sentence": "A bizarre effort to find UFOs involved Harry Reid and the lead singer of Blink-182 - Vox",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "&lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&gt;&lt;/iframe&gt;",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Log In or Sign Up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Log In",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign Up",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Explainers",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Politics &amp; Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Culture",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science &amp; Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Identities",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Energy &amp; Environment",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Big Idea",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Technology",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Business &amp; Finance",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "First Person",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Podcasts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Explainers",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Politics &amp; Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Culture",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science &amp; Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Identities",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Energy &amp; Environment",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Big Idea",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Technology",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Business &amp; Finance",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "First Person",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Podcasts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "✕",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "A bizarre effort to find UFOs involved Harry Reid and the lead singer of Blink-182",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "A pair of reports from the New York Times and Politico detail a $22 million under-the-radar Pentagon initiative to investigate UFO sightings.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/emily-stewart\">Emily Stewart</a>\n      \n    </span>\n    \n    <span class=\"c-byline__item\">\n      \n      <time class=\"c-byline__item\" data-ui=\"timestamp\">\n        Dec 16, 2017,  3:20pm EST",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "tweet",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "share",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Alex Wong/Getty Images</figcaption>\n      \n      \n        <cite>Getty Images",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Harry Reid, the Defense Department, a hotel billionaire, and Blink-182’s lead singer are all tied together in a long and complex effort to investigate UFOs — a wide-ranging push that included a multimillion-dollar program out of the Pentagon.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "That’s the big (and bizarre) takeaway from nearly simultaneous reports from the <a href=\"https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html\">New York Times</a> and <a href=\"https://www.politico.com/magazine/story/2017/12/16/pentagon-ufo-search-harry-reid-216111\">Politico</a> on Saturday detailing an under-the-radar initiative with a stranger-than-fiction cast of characters.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Advanced Aviation Threat Identification Program was a $22 million, multi-year effort pushed by former Senate Majority Leader Harry Reid (D-NV).",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "It came to an end in 2012, but Defense Department officials have continued to look into reports brought to them.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The officer who ran the initiative resigned in October, in part, because he felt the program’s efforts weren’t being taken seriously.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "He has since joined a company co-founded by Blink-182’s <a href=\"https://www.rollingstone.com/music/news/tom-delonge-announces-to-the-stars-academy-of-arts-science-w508312\">Tom DeLonge</a> that seeks to explore the “outer edges of science” and technology.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Here’s what the Politico and New York Times stories told us about the federal program, what it found, and the ongoing effort:",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "1) Harry Reid created a secret government program to find UFOs",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Defense Department spent about $22 million over five years on a program that, among other things, stored material gathered from “unidentified aerial phenomena” and studied people who claimed to have lasting effects from encounters with the objects.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "That the government would investigate UFOs is not a surprise.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "As the Times notes, the Air Force investigated more than 12,000 claimed sightings from 197 to 1969.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "The US Air Force facility known as <a href=\"https://en.wikipedia.org/wiki/Area_51\">Area 51</a> in Nevada has long been a source of alien conspiracy theories.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Before the 2016 election, the UFO community <a href=\"https://www.nytimes.com/2016/05/11/us/politics/hillary-clinton-aliens.html\">hoped Hillary Clinton</a> would up government efforts to investigate the arena.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Defense Department program in the Times and Politico reports<strong> </strong>began in 2007 and was largely funded at Reid’s request.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "He was persuaded by Bob Bigelow, a fellow Nevadan who founded a hotel chain and aerospace startup.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Politico explains:",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Reid initiated the program through an earmark after he was persuaded in part by aerospace titan and hotel chain founder Bob Bigelow, a friend and fellow Nevadan who owns Bigelow Aerospace, a space technology company and government contractor.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Bigelow was also a regular contributor to Reid’s re-election campaigns, campaign finance records show, at least $10,000 between 1998 and 2008.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Bigelow has <a href=\"https://www.cbsnews.com/news/bigelow-aerospace-founder-says-commercial-world-will-lead-in-space/\">spoken openly</a> in recent years about his views that extraterrestrial visitors frequently travel to Earth.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "He also purchased the Skinwalker Ranch in Utah, the subject of intense interest among believers in UFOs.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Reid also told the Times that the former astronaut and senator John Glenn had inspired his interest in the topic after telling him “he thought that the federal government should be looking seriously into UFOs, and should be talking to military service members, particularly pilots, who had reported seeing aircraft they could not identify or explain.”",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Late Senators Daniel Inouye (D-HI) and Ted Stevens (R-AK) also supported the program.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "None of them went public about it on the Senate floor, though.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“This was so-called black money,” Reid told the Times, referring to the Pentagon budget for classified programs.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“Stevens knows about it, Inouye knows about it.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "But that was it, and that’s how we wanted it.”",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Contracts obtained by the Times show about $22 million went to the UFO-finding program from 2008 through 2011.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "That money went to Bigelow Aerospace.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "According to the Times’ account, Bigelow Aerospace modified Las Vegas buildings for metal alloys and other materials gathered from “unidentified aerial phenomena” to be stored.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Researchers also studied people who said they had experienced physical effects from their encounters with the objects and talked to military service members who reported sightings.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "2) What they found: ¯\\_(ツ)_/¯",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Parts of the program are still classified, according to the New York Times.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Neither report outlines exactly what the Reid-backed initiative found, though the Times describes one recording:",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The program collected video and audio recordings of reported U.F.O.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "incidents, including footage from a Navy F/A-18 Super Hornet showing an aircraft surrounded by some kind of glowing aura traveling at high speed and rotating as it moves.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Navy pilots can be heard trying to understand what they are seeing.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“There’s a whole fleet of them,” one exclaims.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Defense officials declined to release the location and date of the incident.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Reid in 2009 in a letter to a deputy defense secretary said “much progress” had been made “with the identification of several highly sensitive, unconventional aerospace-related findings.”",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "And a 2009 Pentagon briefing of the program asserted that “what was considered science fiction is now science fact.”",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "A former congressional staffer told Politico that one of the program’s aims was to determine whether a foreign power, such as the Chinese or the Russians, were behind the unexplained incidents.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "In interviews with the Times, Luis Elizondo, who headed the program at the Pentagon, said he didn’t think that was the case.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "As for Reid, he really wasn’t sure:",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "In the interview, Mr. Elizondo said he and his government colleagues had determined that the phenomena they had studied did not seem to originate from any country.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "“That fact is not something any government or institution should classify in order to keep secret from the people,” he said.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "For his part, Mr. Reid said he did not know where the objects had come from.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“If anyone says they have the answers now, they’re fooling themselves,” he said.",
+        "score": -0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "“We do not know.”",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "But, he said, “we have to start someplace.”",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "3) The Pentagon killed the program in 2012 — but its former head hasn’t given up",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Pentagon officials told the Times the UFO program ended in 2012 after it was determined that there were “other, higher priority issues that merited funding.”",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Elizondo said he and others kept up efforts until October, when he resigned in a letter to Defense Secretary Jim Mattis to protest excessive secrecy and internal opposition.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "“Why aren’t we spending more time and effort on this issue?” he wrote in his resignation letter, according to the Times.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "This is where Blink-182 comes in: Elizondo is now involved in a for-profit company called <a href=\"https://dpo.tothestarsacademy.com/\">To The Stars Academy of Arts and Sciences</a>, which was co-founded by Blink-182’s DeLonge.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "(DeLonge has a long history of focusing on UFOs; emails published by WikiLeaks also show that he <a href=\"https://www.theverge.com/tldr/2016/10/10/13235304/hillary-clinton-blink-182-ufo-tom-delonge-wikileaks-emails-explained\">reached out to Hillary Clinton’s campaign manager</a>, John Podesta, about them.)",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The company’s mission, per its website, is to be a “powerful vehicle for change by creating a consortium among science, aerospace and entertainment that will work collectively to allow gifted researchers the freedom to explore exotic science and technologies with the infrastructure and resources to rapidly transition them to products that can change the world.”",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Christopher Mellon, former deputy assistance secretary of defense for intelligence, is also part of the venture.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "DeLonge celebrated the Times story on Twitter.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Was this article helpful?",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "yes</span><svg><use xlink:href=\"#icon-thumb-up\"></use></svg></span>\n  <span class=\"c-article-feedback__button no\" role=\"button\" tabindex=\"0\"><span class=\"u-hidden-text\">no",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Awesome, share it:",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "tweet",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "share",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Help us improve.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Give us your feedback:",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Your email address:",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Next Up In</span>\n    \n    \n      <a href=\"https://www.vox.com/policy-and-politics\" class=\"c-related-list__group-name\">Politics &amp; Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Mario Batali’s sexual misconduct apology came with a cinnamon roll recipe",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "The Republican tax bill saves grad students' tuition benefits",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Full text: Republicans unveil their final tax bill",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Republican tax bill that could actually become law, explained",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "The 4 biggest policy stories of the week, explained",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The week in health care, explained",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Most Read",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The past year of research has made it very clear: Trump won because of racial resentment</span>\n          </span>\n          \n            <span class=\"c-rock-list__entry-blurb\">Another study produces the same findings we’ve seen over and over again.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "CDC banned from using 7 words, including “science-based,” in budget documents</span>\n          </span>\n          \n            <span class=\"c-rock-list__entry-blurb\">Other forbidden words include \"evidence-based,\" \"fetus,\" \"transgender,\" and \"vulnerable.\"",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Mr. Robot's 3rd season was its best one yet.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Too bad nobody paid attention.",
+        "score": -0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "The series dug into how you can rebuild the world after you’ve broken it, in a surprisingly poignant season.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "The best books the Vox staff read in 2017</span>\n          </span>\n          \n            <span class=\"c-rock-list__entry-blurb\">Fiction and nonfiction recommendations to get you through the end of the year.",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "The California fires were at my door.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "I had 20 minutes to pack.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Here’s what I took.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The elementary school thought experiment became my reality.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Vox Sentences",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The news, but shorter, delivered straight to your inbox.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "By signing up, you agree to our <a href=\"https://www.voxmedia.com/pages/privacy-policy\">Privacy Policy</a> and European users agree to the data transfer policy.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "For more newsletters, check out our <a href=\"https://www.vox.com/newsletters\">newsletters page</a>.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This Article has a component height of 34.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The sidebar size is long.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Latest",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/57952255/lastjedicover.0.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Last Jedi is a magnificent next step for the Star Wars universe",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/alissa-wilkinson\">Alissa Wilkinson",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58006127/GettyImages-456691988.0.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "CDC banned from using 7 words, including “science-based,” in budget documents",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/julia-belluz\">Julia Belluz",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58006099/MarioBatali12112017.0.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Mario Batali’s sexual misconduct apology came with a cinnamon roll recipe",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/emily-stewart\">Emily Stewart",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/57999715/GettyImages-51068416.0.1513369792.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "A predictive text bot wrote a new chapter of Harry Potter and it’s beautiful",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/constance-grady\">Constance Grady",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58001285/GettyImages-151380158.0.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Vox Sentences: Don’t expect the Catholic Church to fix its sex abuse problem anytime soon",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/ella-nilsen\">Ella Nilsen",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "&lt;img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58002901/854804944.jpg.0.jpg\" alt=\"\"&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Republican tax bill saves grad students' tuition benefits",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "By\n    <span class=\"c-byline__item\">\n      \n        \n        <a href=\"https://www.vox.com/authors/jen-kirby\">Jen Kirby",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Chorus",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Terms of Use",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Privacy Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Communications Preferences",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Contact",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Send Us a Tip",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Masthead",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "About Us",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "All Systems Operational\n  <a href=\"http://status.voxmedia.com/\" rel=\"nofollow\" target=\"_blank\">Check out our status page for more details.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Vox Media</span><svg id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-147 464.2 484 79.5\" class=\"c-footer__vox-logo\"><g><path fill=\"#4E4E50\" class=\"vox-media-logo-text\" d=\"M-133.2 498l9.9 29 6.4-19.2c1.1-3.3 2.1-6.6 3-9.4h13.3l-13.2 32.4c-2.1 5.3-3.4 8.4-4.6 12l-10 .6-13.2-32c-1.6-4-3.6-9-5.4-12.9l13.8-.5zm38.8 23.6c0-14 9.3-24.4 23.2-24.4 13.3 0 22.1 9.8 22.1 22.1 0 14-9.4 24.4-23.2 24.4-13.4.1-22.1-9.8-22.1-22.1zm33-.9c0-8.4-4.3-13.6-10.3-13.6-6.4 0-10.5 6-10.5 13.2 0 8.4 4.3 13.6 10.3 13.6 6.4 0 10.5-6 10.5-13.2zm19.2 21.9l15.3-22.7-6-8.8-8.6-12.7 13.9-.5 9.1 14.2 3.1-5.3c1.6-2.6 3.8-6.1 5.4-8.6H3.7l-14.6 21.9 5.4 7.9c2.5 3.8 6.8 10.3 9.6 14.4l-14 .5-9.3-15.1-2.9 4.7c-1.4 2.3-4.4 7.2-6.1 9.8h-14v.3zm79.4-15.2l1.9-13.9c.6-4 1.6-12 1.8-15.3l9.6-.4c1.1 2.5 2.7 6.1 4 8.9l8.2 18.2 8-18.5c1.2-2.7 2.6-6 3.7-8.5h9.3c.4 3.7 1.4 11.5 2 15.6l2 13.9c.6 4.1 1.8 11.9 2.5 15.2l-12.4.5c-.1-1.8-.7-7.1-1.1-9.6l-1.8-14c-3.1 7.7-8.6 21.4-9.4 23.6l-6.6.3-9.5-23.3-1.5 13.5c-.3 2.5-.8 7.3-.8 9.1H34.7c.7-3.3 1.9-11.2 2.5-15.3zm96.1 15.5c-4.2-.3-9.3-.3-14.2-.3-5.5 0-11.5.1-16.2.3.3-3 .4-11.3.4-15.4v-14c0-4-.1-12.5-.4-15.6 4.6.2 9.6.3 15.3.3 5.2 0 10-.1 14.3-.3-.3 3.1-.5 6.2-.5 10-3.2-.1-6.4-.1-10.3-.1-1.9 0-4 0-5.8.1-.1.9-.1 2.2-.1 2.8v4.9l13.7-.1c-.1 2.6-.2 5.5-.2 8.8h-13.5v5.7c0 .7 0 2 .1 2.9 1.8 0 3.9.1 5.8.1 4.5 0 8.3-.1 12-.2-.2 3.2-.4 6.2-.4 10.1zm30-.3h-16.6c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12-.4-15.1 2.3 0 7.9-.4 14.9-.4 16.7 0 26 8 26 21.5 0 14.2-9.5 23.1-24.3 23.1zm-.2-35c-1.3 0-2.1.1-3.1.2-.1.8-.1 2.1-.1 2.8v19.6c0 .8 0 1.7.1 2.6 1 .1 1.8.2 3.3.2 8.4 0 12-5.5 12-13-.1-7.9-4.7-12.4-12.2-12.4zm37.2 35c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12.2-.4-15.2 2.5 0 11.3-.1 13.4-.3-.2 1.8-.3 6.9-.3 9.3v26.2c0 2.4.1 7.3.3 9.1h-13.4zm38.1-32.2c2.2-5.2 3.7-8.5 4.9-12l10.1-.6 13.8 32c1.6 3.9 4 9 5.8 12.9l-13.4.5-3.4-8.4h-15.4c-.8 2.1-2.6 7.1-3 7.9h-13.1l13.7-32.3zm4.9 16.5h10.1l-5.1-13.7-5 13.7z\"></path><path fill=\"#F6A01A\" d=\"M337 464.2V498l-30-16.9 30-16.9z\"></path><path fill=\"#FBE346\" d=\"M276.9 464.2V498l30.1-16.9-30.1-16.9z\"></path><path fill=\"#F47B20\" d=\"M307 481.1V515l30-17-30-16.9z\"></path><path fill=\"#F8CC15\" d=\"M307 481.1V515l-30.1-17 30.1-16.9z\"></path></g></svg></a>\n      \n        <a rel=\"nofollow\" class=\"u-block c-footer__corporate-link\" href=\"https://www.voxmedia.com/vox-advertising\">Advertise with us</a>\n      \n        <a rel=\"nofollow\" class=\"u-block c-footer__corporate-link\" href=\"https://jobs.voxmedia.com/\">Jobs @ Vox Media</a>\n      \n      © 2017 <a rel=\"nofollow\" href=\"http://www.voxmedia.com/\">Vox Media</a>, Inc.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "All Rights Reserved",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "tweet",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "share",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      }
+    ]
+  }
+}

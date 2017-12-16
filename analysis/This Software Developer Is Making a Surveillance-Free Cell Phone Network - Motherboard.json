@@ -1,0 +1,2737 @@
+{
+  "categories": [
+    {
+      "name": "/Internet & Telecom",
+      "confidence": 0.5600000023841858
+    }
+  ],
+  "entities": [
+    {
+      "name": "Denver Gingerich",
+      "type": "PERSON"
+    },
+    {
+      "name": "US Navy",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Sopranica",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phones",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "PERSON"
+    },
+    {
+      "name": "cell phone network",
+      "type": "OTHER"
+    },
+    {
+      "name": "software developer",
+      "type": "PERSON"
+    },
+    {
+      "name": "SHARE",
+      "type": "OTHER"
+    },
+    {
+      "name": "TWEET",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "cell phone network",
+      "type": "OTHER"
+    },
+    {
+      "name": "software developer",
+      "type": "PERSON"
+    },
+    {
+      "name": "cell phone number",
+      "type": "OTHER"
+    },
+    {
+      "name": "Google Voice",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phone technologies",
+      "type": "OTHER"
+    },
+    {
+      "name": "Motherboard",
+      "type": "OTHER"
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "ways",
+      "type": "OTHER"
+    },
+    {
+      "name": "surveillance tools",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "protocol",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phones",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "radio units",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "JMP",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "session initiation protocol",
+      "type": "OTHER"
+    },
+    {
+      "name": "Engineer",
+      "type": "PERSON"
+    },
+    {
+      "name": "cell phone network",
+      "type": "OTHER"
+    },
+    {
+      "name": "Cell Phone Network",
+      "type": "OTHER"
+    },
+    {
+      "name": "phone number",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phone",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phones",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "facet",
+      "type": "PERSON"
+    },
+    {
+      "name": "phone number",
+      "type": "OTHER"
+    },
+    {
+      "name": "Communities",
+      "type": "PERSON"
+    },
+    {
+      "name": "users",
+      "type": "PERSON"
+    },
+    {
+      "name": "community",
+      "type": "OTHER"
+    },
+    {
+      "name": "text",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "stylesheet",
+      "type": "OTHER"
+    },
+    {
+      "name": "style",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "height",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phone network",
+      "type": "OTHER"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "text messages",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "world",
+      "type": "LOCATION"
+    },
+    {
+      "name": "distance",
+      "type": "OTHER"
+    },
+    {
+      "name": "privacy",
+      "type": "OTHER"
+    },
+    {
+      "name": "calls",
+      "type": "OTHER"
+    },
+    {
+      "name": "calls",
+      "type": "OTHER"
+    },
+    {
+      "name": "Motherboard Premium",
+      "type": "OTHER"
+    },
+    {
+      "name": "display",
+      "type": "OTHER"
+    },
+    {
+      "name": "none",
+      "type": "OTHER"
+    },
+    {
+      "name": "none",
+      "type": "OTHER"
+    },
+    {
+      "name": "display",
+      "type": "OTHER"
+    },
+    {
+      "name": "Cell Phone Surveillance",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell phone owners",
+      "type": "PERSON"
+    },
+    {
+      "name": "cell phone towers",
+      "type": "OTHER"
+    },
+    {
+      "name": "Moderator",
+      "type": "PERSON"
+    },
+    {
+      "name": "Moderation",
+      "type": "OTHER"
+    },
+    {
+      "name": "telecom companies",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Senate",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "PERSON"
+    },
+    {
+      "name": "stretch",
+      "type": "OTHER"
+    },
+    {
+      "name": "university",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "devices",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Journaling",
+      "type": "OTHER"
+    },
+    {
+      "name": "Greenhouse Designers",
+      "type": "PERSON"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sopranica",
+      "type": "PERSON"
+    },
+    {
+      "name": "css",
+      "type": "OTHER"
+    },
+    {
+      "name": "border",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Backyard",
+      "type": "LOCATION"
+    },
+    {
+      "name": "PhD",
+      "type": "OTHER"
+    },
+    {
+      "name": "Queen",
+      "type": "PERSON"
+    },
+    {
+      "name": "brains",
+      "type": "OTHER"
+    },
+    {
+      "name": "life",
+      "type": "OTHER"
+    },
+    {
+      "name": "web",
+      "type": "OTHER"
+    },
+    {
+      "name": "Navy",
+      "type": "OTHER"
+    },
+    {
+      "name": "WOM",
+      "type": "OTHER"
+    },
+    {
+      "name": "China Is Testing Silent 'Magnetic Drive",
+      "type": "OTHER"
+    },
+    {
+      "name": "DIY Mars Habitat",
+      "type": "OTHER"
+    },
+    {
+      "name": "phase",
+      "type": "EVENT"
+    },
+    {
+      "name": "prototype",
+      "type": "OTHER"
+    },
+    {
+      "name": "administration",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "shipyard",
+      "type": "LOCATION"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "many",
+      "type": "PERSON"
+    },
+    {
+      "name": "phone",
+      "type": "OTHER"
+    },
+    {
+      "name": "phones",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "phone",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Marco Rubio",
+      "type": "PERSON"
+    },
+    {
+      "name": "privacy",
+      "type": "OTHER"
+    },
+    {
+      "name": "cell carriers",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "payments",
+      "type": "OTHER"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "challenge",
+      "type": "OTHER"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "workers",
+      "type": "PERSON"
+    },
+    {
+      "name": "shipbuilders",
+      "type": "OTHER"
+    },
+    {
+      "name": "surface ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "aspects",
+      "type": "OTHER"
+    },
+    {
+      "name": "internet",
+      "type": "OTHER"
+    },
+    {
+      "name": "internet",
+      "type": "OTHER"
+    },
+    {
+      "name": "internet",
+      "type": "OTHER"
+    },
+    {
+      "name": "internet",
+      "type": "OTHER"
+    },
+    {
+      "name": "network",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "littoral combat ship",
+      "type": "OTHER"
+    },
+    {
+      "name": "shipyard",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Shipbuilders",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "Quantcast",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "FromHOTY2017",
+      "type": "OTHER"
+    },
+    {
+      "name": "Reddit",
+      "type": "OTHER"
+    },
+    {
+      "name": "Camera Trap",
+      "type": "OTHER"
+    },
+    {
+      "name": "Who Shares Remote Wildlife",
+      "type": "OTHER"
+    },
+    {
+      "name": "calling",
+      "type": "OTHER"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "Daniel Oberhaus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Rei Watanabe",
+      "type": "PERSON"
+    },
+    {
+      "name": "future",
+      "type": "OTHER"
+    },
+    {
+      "name": "communications",
+      "type": "OTHER"
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "users",
+      "type": "PERSON"
+    },
+    {
+      "name": "protocol",
+      "type": "OTHER"
+    },
+    {
+      "name": "Richard V. Spencer",
+      "type": "PERSON"
+    },
+    {
+      "name": "texts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "telephone",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "law enforcement authorities",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "version",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "SIP",
+      "type": "OTHER"
+    },
+    {
+      "name": "calls",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "ship",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "number",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "radio devices",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "telecommunications companies",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "distance",
+      "type": "OTHER"
+    },
+    {
+      "name": "university",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Internet",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "projects",
+      "type": "OTHER"
+    },
+    {
+      "name": "network",
+      "type": "OTHER"
+    },
+    {
+      "name": "president",
+      "type": "PERSON"
+    },
+    {
+      "name": "president",
+      "type": "PERSON"
+    },
+    {
+      "name": "presidency",
+      "type": "OTHER"
+    },
+    {
+      "name": "calling",
+      "type": "OTHER"
+    },
+    {
+      "name": "Motherboard",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Doug Jones",
+      "type": "PERSON"
+    },
+    {
+      "name": "more",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fronts",
+      "type": "OTHER"
+    },
+    {
+      "name": "portal",
+      "type": "OTHER"
+    },
+    {
+      "name": "location",
+      "type": "LOCATION"
+    },
+    {
+      "name": "difficulty",
+      "type": "OTHER"
+    },
+    {
+      "name": "code",
+      "type": "OTHER"
+    },
+    {
+      "name": "reliance",
+      "type": "OTHER"
+    },
+    {
+      "name": "members",
+      "type": "PERSON"
+    },
+    {
+      "name": "public",
+      "type": "PERSON"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "press",
+      "type": "OTHER"
+    },
+    {
+      "name": "issue",
+      "type": "OTHER"
+    },
+    {
+      "name": "parents",
+      "type": "PERSON"
+    },
+    {
+      "name": "presidency",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Voilà",
+      "type": "OTHER"
+    },
+    {
+      "name": "family",
+      "type": "PERSON"
+    },
+    {
+      "name": "calling fees",
+      "type": "OTHER"
+    },
+    {
+      "name": "laptop",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "friends",
+      "type": "PERSON"
+    },
+    {
+      "name": "taxpayers",
+      "type": "PERSON"
+    },
+    {
+      "name": "idea",
+      "type": "OTHER"
+    },
+    {
+      "name": "term",
+      "type": "OTHER"
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "meshing protocol",
+      "type": "OTHER"
+    },
+    {
+      "name": "user",
+      "type": "PERSON"
+    },
+    {
+      "name": "user",
+      "type": "PERSON"
+    },
+    {
+      "name": "users",
+      "type": "PERSON"
+    },
+    {
+      "name": "communications",
+      "type": "OTHER"
+    },
+    {
+      "name": "communication",
+      "type": "OTHER"
+    },
+    {
+      "name": "Motherboard stories",
+      "type": "OTHER"
+    },
+    {
+      "name": "landlines",
+      "type": "OTHER"
+    },
+    {
+      "name": "senator",
+      "type": "PERSON"
+    },
+    {
+      "name": "SIP ATA",
+      "type": "OTHER"
+    },
+    {
+      "name": "warships",
+      "type": "OTHER"
+    },
+    {
+      "name": "service",
+      "type": "OTHER"
+    },
+    {
+      "name": "scheme",
+      "type": "OTHER"
+    },
+    {
+      "name": "website",
+      "type": "OTHER"
+    },
+    {
+      "name": "Year",
+      "type": "EVENT"
+    },
+    {
+      "name": "DIY",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "text messaging",
+      "type": "OTHER"
+    },
+    {
+      "name": "world",
+      "type": "LOCATION"
+    },
+    {
+      "name": "development",
+      "type": "OTHER"
+    },
+    {
+      "name": "ways",
+      "type": "OTHER"
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "shipbuilding expert",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pre-Commissioning Unit",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "experts",
+      "type": "PERSON"
+    },
+    {
+      "name": "lives",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "warships",
+      "type": "OTHER"
+    },
+    {
+      "name": "scheme",
+      "type": "OTHER"
+    },
+    {
+      "name": "Next",
+      "type": "OTHER"
+    },
+    {
+      "name": "Motherboard",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "scheme",
+      "type": "OTHER"
+    },
+    {
+      "name": "place",
+      "type": "OTHER"
+    },
+    {
+      "name": "intention",
+      "type": "OTHER"
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "buildings",
+      "type": "LOCATION"
+    },
+    {
+      "name": "shipbuilding expert",
+      "type": "PERSON"
+    },
+    {
+      "name": "bills",
+      "type": "OTHER"
+    },
+    {
+      "name": "Stress",
+      "type": "OTHER"
+    },
+    {
+      "name": "subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "sailors",
+      "type": "PERSON"
+    },
+    {
+      "name": "Image",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "promise",
+      "type": "OTHER"
+    },
+    {
+      "name": "submarines",
+      "type": "OTHER"
+    },
+    {
+      "name": "shipyard workers",
+      "type": "PERSON"
+    },
+    {
+      "name": "government contracts",
+      "type": "OTHER"
+    },
+    {
+      "name": "navy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Navy",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "data",
+      "type": "OTHER"
+    },
+    {
+      "name": "all",
+      "type": "OTHER"
+    },
+    {
+      "name": "Jabber",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "SIP",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "idea",
+      "type": "OTHER"
+    },
+    {
+      "name": "reality television star",
+      "type": "PERSON"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "Littoral Combat Ship",
+      "type": "OTHER"
+    },
+    {
+      "name": "decommissioning",
+      "type": "EVENT"
+    },
+    {
+      "name": "building",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Image",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "course",
+      "type": "OTHER"
+    },
+    {
+      "name": "ship costs",
+      "type": "OTHER"
+    },
+    {
+      "name": "average",
+      "type": "OTHER"
+    },
+    {
+      "name": "course",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "administration",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "viability",
+      "type": "OTHER"
+    },
+    {
+      "name": "replacement",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "foundations",
+      "type": "OTHER"
+    },
+    {
+      "name": "name",
+      "type": "OTHER"
+    },
+    {
+      "name": "information",
+      "type": "OTHER"
+    },
+    {
+      "name": "collaborators",
+      "type": "PERSON"
+    },
+    {
+      "name": "internet router",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "windows",
+      "type": "OTHER"
+    },
+    {
+      "name": "outside",
+      "type": "OTHER"
+    },
+    {
+      "name": "internet access points",
+      "type": "OTHER"
+    },
+    {
+      "name": "infrastructure",
+      "type": "OTHER"
+    },
+    {
+      "name": "destination",
+      "type": "LOCATION"
+    },
+    {
+      "name": "equivalents",
+      "type": "OTHER"
+    },
+    {
+      "name": "functionality",
+      "type": "OTHER"
+    },
+    {
+      "name": "lot",
+      "type": "OTHER"
+    },
+    {
+      "name": "road",
+      "type": "LOCATION"
+    },
+    {
+      "name": "series",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "hangar bay",
+      "type": "LOCATION"
+    },
+    {
+      "name": "hopes",
+      "type": "OTHER"
+    },
+    {
+      "name": "officials",
+      "type": "PERSON"
+    },
+    {
+      "name": "water",
+      "type": "OTHER"
+    },
+    {
+      "name": "enUnited States",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Humans",
+      "type": "PERSON"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "most",
+      "type": "OTHER"
+    },
+    {
+      "name": "defense spending",
+      "type": "OTHER"
+    },
+    {
+      "name": "warships",
+      "type": "OTHER"
+    },
+    {
+      "name": "cruisers",
+      "type": "PERSON"
+    },
+    {
+      "name": "cruisers",
+      "type": "PERSON"
+    },
+    {
+      "name": "anonymity",
+      "type": "OTHER"
+    },
+    {
+      "name": "condition",
+      "type": "OTHER"
+    },
+    {
+      "name": "rate",
+      "type": "OTHER"
+    },
+    {
+      "name": "low",
+      "type": "OTHER"
+    },
+    {
+      "name": "nine",
+      "type": "PERSON"
+    },
+    {
+      "name": "process",
+      "type": "OTHER"
+    },
+    {
+      "name": "funding",
+      "type": "OTHER"
+    },
+    {
+      "name": "keel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Manufacturing",
+      "type": "OTHER"
+    },
+    {
+      "name": "report",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "basis",
+      "type": "OTHER"
+    },
+    {
+      "name": "secretary",
+      "type": "PERSON"
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "DIY",
+      "type": "LOCATION"
+    },
+    {
+      "name": "taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "votes",
+      "type": "OTHER"
+    },
+    {
+      "name": "efforts",
+      "type": "OTHER"
+    },
+    {
+      "name": "programs",
+      "type": "OTHER"
+    },
+    {
+      "name": "frigates",
+      "type": "OTHER"
+    },
+    {
+      "name": "Special Operations Forces",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "frigates",
+      "type": "OTHER"
+    },
+    {
+      "name": "cost",
+      "type": "OTHER"
+    },
+    {
+      "name": "several",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "initiative",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "negotiations",
+      "type": "EVENT"
+    },
+    {
+      "name": "congress",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet scheme",
+      "type": "OTHER"
+    },
+    {
+      "name": "cruiser",
+      "type": "PERSON"
+    },
+    {
+      "name": "Motherboard",
+      "type": "OTHER"
+    },
+    {
+      "name": "Congressional Research Service",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "senator",
+      "type": "PERSON"
+    },
+    {
+      "name": "Fronts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fronts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fronts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fronts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Congressional",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "shipbuilding plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Air Force",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "six",
+      "type": "OTHER"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "rich",
+      "type": "PERSON"
+    },
+    {
+      "name": "last",
+      "type": "OTHER"
+    },
+    {
+      "name": "drug smugglers",
+      "type": "PERSON"
+    },
+    {
+      "name": "coast",
+      "type": "LOCATION"
+    },
+    {
+      "name": "pop",
+      "type": "OTHER"
+    },
+    {
+      "name": "VICE",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "ships",
+      "type": "OTHER"
+    },
+    {
+      "name": "rubber-stamp tens",
+      "type": "OTHER"
+    },
+    {
+      "name": "cruisers",
+      "type": "PERSON"
+    },
+    {
+      "name": "service",
+      "type": "OTHER"
+    },
+    {
+      "name": "service",
+      "type": "OTHER"
+    },
+    {
+      "name": "div",
+      "type": "OTHER"
+    },
+    {
+      "name": "Marinette Marine",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "sailing branch",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "VoIP",
+      "type": "OTHER"
+    },
+    {
+      "name": "David Axe",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gerald R. Ford",
+      "type": "PERSON"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "LOCATION"
+    },
+    {
+      "name": "military jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "defense authorization",
+      "type": "OTHER"
+    },
+    {
+      "name": "state",
+      "type": "LOCATION"
+    },
+    {
+      "name": "jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "budgets",
+      "type": "OTHER"
+    },
+    {
+      "name": "width",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "chamber",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "decommissioning",
+      "type": "EVENT"
+    },
+    {
+      "name": "administration",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fincantieri",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Wisconsin",
+      "type": "LOCATION"
+    },
+    {
+      "name": "USS St. Louis",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "War",
+      "type": "EVENT"
+    },
+    {
+      "name": "maintenance effort",
+      "type": "OTHER"
+    },
+    {
+      "name": "any",
+      "type": "OTHER"
+    },
+    {
+      "name": "campaign pledge",
+      "type": "OTHER"
+    },
+    {
+      "name": "subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "lots",
+      "type": "OTHER"
+    },
+    {
+      "name": "instant messaging client",
+      "type": "PERSON"
+    },
+    {
+      "name": "interpretation",
+      "type": "OTHER"
+    },
+    {
+      "name": "president",
+      "type": "PERSON"
+    },
+    {
+      "name": "presidency",
+      "type": "OTHER"
+    },
+    {
+      "name": "warships",
+      "type": "OTHER"
+    },
+    {
+      "name": "vessels",
+      "type": "OTHER"
+    },
+    {
+      "name": "rework",
+      "type": "OTHER"
+    },
+    {
+      "name": "losses",
+      "type": "OTHER"
+    },
+    {
+      "name": "language",
+      "type": "OTHER"
+    },
+    {
+      "name": "choice",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "MILITARY",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "boats",
+      "type": "OTHER"
+    },
+    {
+      "name": "Articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Crude Drug Labs",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "WATCH",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Moveable",
+      "type": "OTHER"
+    },
+    {
+      "name": "Environment",
+      "type": "OTHER"
+    },
+    {
+      "name": "Space",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Gaming",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "Influence",
+      "type": "OTHER"
+    },
+    {
+      "name": "TV",
+      "type": "OTHER"
+    },
+    {
+      "name": "Edition",
+      "type": "OTHER"
+    },
+    {
+      "name": "Use",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "noscript",
+      "type": "OTHER"
+    },
+    {
+      "name": "Mayport",
+      "type": "LOCATION"
+    },
+    {
+      "name": "email",
+      "type": "OTHER"
+    },
+    {
+      "name": "capacity number",
+      "type": "OTHER"
+    },
+    {
+      "name": "Republicans",
+      "type": "PERSON"
+    },
+    {
+      "name": "spending",
+      "type": "OTHER"
+    },
+    {
+      "name": "2011 Budget Control Act",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Alabama",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Perry",
+      "type": "PERSON"
+    },
+    {
+      "name": "Caribbean",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Jacksonville",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Ticonderoga",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION"
+    },
+    {
+      "name": "head",
+      "type": "OTHER"
+    },
+    {
+      "name": "votes",
+      "type": "OTHER"
+    },
+    {
+      "name": "maintenance",
+      "type": "OTHER"
+    },
+    {
+      "name": "Democrats",
+      "type": "PERSON"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "capability",
+      "type": "OTHER"
+    },
+    {
+      "name": "law",
+      "type": "OTHER"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "law",
+      "type": "OTHER"
+    },
+    {
+      "name": "defense authorization",
+      "type": "OTHER"
+    },
+    {
+      "name": "ways",
+      "type": "OTHER"
+    },
+    {
+      "name": "capability",
+      "type": "OTHER"
+    },
+    {
+      "name": "problem",
+      "type": "OTHER"
+    },
+    {
+      "name": "pledge",
+      "type": "OTHER"
+    },
+    {
+      "name": "average",
+      "type": "OTHER"
+    },
+    {
+      "name": "fleet promise",
+      "type": "OTHER"
+    },
+    {
+      "name": "budget negotiations",
+      "type": "EVENT"
+    },
+    {
+      "name": "Stealth Fighters",
+      "type": "PERSON"
+    },
+    {
+      "name": "Cray Cray",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Tech",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "confirmation hearing",
+      "type": "EVENT"
+    },
+    {
+      "name": "words",
+      "type": "OTHER"
+    },
+    {
+      "name": "track",
+      "type": "OTHER"
+    },
+    {
+      "name": "proposal",
+      "type": "OTHER"
+    },
+    {
+      "name": "goal",
+      "type": "OTHER"
+    },
+    {
+      "name": "limit",
+      "type": "OTHER"
+    },
+    {
+      "name": "lawmakers",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pentagon",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Stealth Fighters Into North Korea Is",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER"
+    },
+    {
+      "name": "READ",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Hacking",
+      "type": "OTHER"
+    },
+    {
+      "name": "VICE Apps",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "VICE Magazine",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "ptBrasil",
+      "type": "PERSON"
+    },
+    {
+      "name": "frFrance",
+      "type": "OTHER"
+    },
+    {
+      "name": "deGermany",
+      "type": "OTHER"
+    },
+    {
+      "name": "itItaly",
+      "type": "OTHER"
+    },
+    {
+      "name": "nlNetherlands",
+      "type": "OTHER"
+    },
+    {
+      "name": "esSpain",
+      "type": "OTHER"
+    },
+    {
+      "name": "VICE Media LLC",
+      "type": "OTHER"
+    },
+    {
+      "name": "Critics",
+      "type": "PERSON"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.0,
+    "magnitude": 36.0,
+    "sentences": [
+      {
+        "sentence": "This Software Developer Is Making a Surveillance-Free Cell Phone Network\n\n - Motherboard",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "&lt;link rel=\"stylesheet\" type=\"text/css\" href=\"https://vice-web-statics-cdn.vice.com/fonts/motherboard/fonts.css\"/&gt;\n  </noscript>\n  <style>.banner,\n.ad-container\n{display:none !important;}</style><script>\n    if (typeof window.FontFace === 'undefined') {\n      var fstyles = document.createElement('link');\n      fstyles.type = 'text/css';\n      fstyles.rel = 'stylesheet';\n      fstyles.href = 'https://vice-web-statics-cdn.vice.com/fonts/motherboard/fonts.css';\n      document.head.appendChild(fstyles);\n    }\n    window.__LOGGER = {};\n  </script>\n\n  <script type=\"text/javascript\">\n    // iFramely lazy load snippet\n    function loadIframelyEmbedJs() {\n        if (document.querySelectorAll('[data-iframely-url]').length === 0) return;\n        var iframely = window.iframely = window.iframely || {};\n        var widgets = iframely.widgets = iframely.widgets || {};\n        if (widgets.load) {\n            widgets.load();\n        } else {\n            var ifs = document.createElement('script'); ifs.type = 'text/javascript'; ifs.async = true;\n            ifs.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//oembed.vice.com/embed.js';\n            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ifs, s);\n        }\n    }\n  </script>\n  <!-- GRAPESHOT channel tag -->\n<script type=\"text/javascript\">\n  var gs_channels=\"DEFAULT\";\n  var gsurl=window.location!=window.top.location?document.referrer:window.location;\n  document.write('<scr'+'ipt type=\"text/javascript\" src=\"//vice-useast.gscontxt.net/main/channels.fcgi?url='+encodeURIComponent(gsurl)+'\"></scr'+'ipt>');\n</script><script type=\"text/javascript\" src=\"https://vice-useast.gscontxt.net/main/channels.fcgi?url=https%3A%2F%2Fmotherboard.vice.com%2Fen_us\"></script>\n<!-- GRAPESHOT channel tag END -->\n\n<!-- ROIQ -->\n<script type=\"text/javascript\" src=\"./This Software Developer Is Making a Surveillance-Free Cell Phone Network - Motherboard_files/roiq_dfp_targeting.js\" async=\"\"></script>\n\n<!-- Start: GPT Async -->\n<script type=\"text/javascript\">\n  var gptadslots = {};\n  var globalAdSlots = {};\n  var googletag = googletag || {};\n  googletag.cmd = googletag.cmd || [];\n  (function(){ var gads = document.createElement('script');\n    gads.async = true; gads.type = 'text/javascript';\n    var useSSL = 'https:' == document.location.protocol;\n    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';\n    var node = document.getElementsByTagName('script')[0];\n    node.parentNode.insertBefore(gads, node);\n  })();\n</script>\n\n<script type=\"text/javascript\">\n!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q(\"i\",arguments)},fetchBids:function()\n{q(\"f\",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(\nA,g)}(\"apstag\",window,document,\"script\",\"//c.amazon-adsystem.com/aax2/apstag.js\");\n</script>\n\n<!-- BEGIN Krux Control Tag for \"Noisey\" -->\n\n<script class=\"kxct\" data-id=\"JLnYmGrt\" data-timing=\"async\" data-version=\"1.9\" type=\"text/javascript\">\n window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);\n (function(){\n   var k=document.createElement('script');k.type='text/javascript';k.async=true;\n   var m,src=(m=location.href.match(/\\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);\n   k.src = /^https?:\\/\\/([a-z0-9_\\-\\.]+\\.)?krxd\\.net(:\\d{1,5})?\\//i.test(src) ? src : src === \"disable\" ? \"\" :\n     (location.protocol===\"https:\"?\"https:\":\"http:\")+\"//cdn.krxd.net/controltag?confid=JLnYmGrt\"\n ;\n   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);\n }());\n\n</script>\n<script>\nwindow.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);\n(function(){\n function retrieve(n){\n  var m, k='kx'+n;\n  if(window.localStorage){\n   return window.localStorage[k] || \"\";\n  }else if(navigator.cookieEnabled){\n   m = document.cookie.match(k+'=([^;]*)');\n   return (m && unescape(m[1])) || \"\";\n  }else{\n   return '';\n  }\n }\n Krux.user = retrieve('user');\n Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];\n})();\n</script>\n<!-- END Krux Controltag -->\n\n<script type=\"text/javascript\">\n  googletag.cmd.push(function() {\n    googletag.pubads().setTargeting(\"ksg\", Krux.segments);\n    googletag.pubads().setTargeting(\"kuid\", Krux.user);\n    googletag.pubads().setTargeting('gs_cat', gs_channels);\n    googletag.pubads().enableAsyncRendering();\n    googletag.pubads().disableInitialLoad();\n    googletag.pubads().collapseEmptyDivs(true);\n    googletag.pubads().updateCorrelator();\n    googletag.enableServices();\n  });\n</script>\n<!-- End: GPT -->\n<!-- Google Survey -->\n<script type=\"text/javascript\" src=\"https://survey.g.doubleclick.net/survey?site=_swfjwqqu4jfcxnsyf2q5lybebm&amp;amp;url=https%3A%2F%2Fmotherboard.vice.com%2Fen_us&amp;amp;cid=everything&amp;amp;random=1513456721935\"></script><script type=\"text/javascript\" id=\"google-survey-script\">\n(function() {\n  var ARTICLE_URL = window.location.href;\n  var CONTENT_ID = 'everything';\n  var scriptEl = document.createElement('script');\n  scriptEl.type = 'text/javascript';\n  scriptEl.src = '//survey.g.doubleclick.net/survey?site=_swfjwqqu4jfcxnsyf2q5lybebm'+\n  '&amp;url='+encodeURIComponent(ARTICLE_URL)+\n  (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+\n  '&amp;random='+(new Date).getTime();\n  var currentScript = document.getElementById('google-survey-script');\n  currentScript.parentNode.insertBefore(scriptEl, currentScript);\n})();\n</script>\n\n  \n    \n      <!-- NEW RELIC -->\n      <script type=\"text/javascript\">\nwindow.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if(\"function\"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e(\"handle\"),a=e(2),u=e(3),f=e(\"ee\").get(\"tracer\"),c=e(\"loader\"),s=NREUM;\"undefined\"==typeof window.newrelic&&(newrelic=s);var p=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],d=\"api-\",l=d+\"ixn-\";a(p,function(e,n){s[n]=o(d+n,!0,\"api\")}),s.addPageAction=o(d+\"addPageAction\",!0),s.setCurrentRouteName=o(d+\"routeName\",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o=\"function\"==typeof n;return i(l+\"tracer\",[c.now(),e,t],r),function(){if(f.emit((o?\"\":\"no-\")+\"fn-start\",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit(\"fn-end\",[c.now()],t)}}}};a(\"setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){\"string\"==typeof e&&(e=new Error(e)),i(\"err\",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r=\"\",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),\"undefined\"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:\"undefined\"!=typeof window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||\"feature\",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u=\"nr@context\",f=e(\"gos\"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e(\"ee\").get(\"handle\");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||\"object\"!==n&&\"function\"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i=\"nr@id\",a=e(\"gos\");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName(\"script\")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f(\"mark\",[\"onload\",a()+h.offset],null,\"api\");var t=d.createElement(\"script\");t.src=\"https://\"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){\"complete\"===d.readyState&&i()}function i(){f(\"mark\",[\"domContent\",a()+h.offset],null,\"api\")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e(\"handle\"),c=e(2),s=e(\"ee\"),p=window,d=p.document,l=\"addEventListener\",m=\"attachEvent\",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=\"\"+location,y={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1059.min.js\"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l](\"DOMContentLoaded\",i,!1),p[l](\"load\",r,!1)):(d[m](\"onreadystatechange\",o),p[m](\"onload\",r)),f(\"mark\",[\"firstbyte\",u],null,\"api\");var x=0,E=e(4)},{}]},{},[\"loader\"]);\n;NREUM.info={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",licenseKey:\"c0321c02a2\",applicationID:\"30342896\",sa:1}\n</script>\n\n    \n  \n\n  \n  \n<!-- Page hiding snippet (recommended)  -->\n<style>.async-hide { opacity: 0 !important} </style>\n<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;\nh.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};\n(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;\n})(window,document.documentElement,'async-hide','dataLayer',4000,\n  {'GTM-56CRKVV':true});</script>\n  \n<!-- GA Tag -->\n<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\nga('create', \"UA-599058-30\", 'auto');\n  \nga('require', 'GTM-56CRKVV');\n  \n\n</script>\n<!-- End GA Tag -->\n\n\n<!-- Quantcast Tag -->\n<script type=\"text/javascript\">\nvar _qevents = _qevents || [];\n(function() {\nvar elem = document.createElement('script');\nelem.src = (document.location.protocol == \"https:\" ? \"https://secure\" : \"http://edge\") + \".quantserve.com/quant.js\";\nelem.async = true;\nelem.type = \"text/javascript\";\nvar scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem, scpt); })();\n_qevents.push({\nqacct:\"p-6EzWtvBV9sFU3\"\n});\n</script>\n<noscript>\n&lt;div style=\"display:none;\"&gt;\n&lt;img src=\"//pixel.quantserve.com/pixel/p-6EzWtvBV9sFU3.gif\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/&gt;\n&lt;/div&gt;\n</noscript>\n<!-- End Quantcast tag -->\n<!-- Start Alexa Certify Javascript -->\n<script type=\"text/javascript\">\n_atrk_opts = { atrk_acct:\"x5HVh1aUXR00Gi\", domain:\"vice.com\",dynamic: true};\nwindow.__LOGGER.atrk = {};\nwindow.__LOGGER.atrk[window.location.pathname] = true;\n(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = \"https://d31qbv1cthcecs.cloudfront.net/atrk.js\"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();\n</script>\n<noscript>&lt;img src=\"https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=x5HVh1aUXR00Gi\" style=\"display:none\" height=\"1\" width=\"1\" alt=\"\" /&gt;</noscript>\n<!-- End Alexa Certify Javascript -->\n\n<!-- begin comscore tag -->\n<script>\nvar _comscore = _comscore || [];\n_comscore.push({ c1: \"2\", c2: \"8568956\" });\n(function() {\nvar s = document.createElement(\"script\"), el = document.getElementsByTagName(\"script\")[0]; s.async = true;\ns.src = (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\") + \".scorecardresearch.com/beacon.js\";\nel.parentNode.insertBefore(s, el);\n})();\nwindow.__LOGGER.comscore = {};\nwindow.__LOGGER.comscore[window.location.pathname] = true;\n</script>\n<noscript>\n&lt;img src=\"http://b.scorecardresearch.com/p?c1=2&amp;c2=8568956&amp;cv=2.0&amp;cj=1\" /&gt;",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "More From<span class=\"ribbon__related__articles__module__topic hed-xs\"><a class=\"ribbon__related__articles__module__topic__name hed-xs\" href=\"https://motherboard.vice.com/en_us/topic/hoty2017\">HOTY2017",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "This Engineer Is Building a DIY Mars Habitat In His Backyard",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "These Greenhouse Designers Are Bringing Fresh Food to Arctic Communities",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "The Reddit Moderator Getting a PhD in Online Moderation",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The ‘Camera Trap Queen’ Who Shares Remote Wildlife With the World",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This Software Developer Is Making a Surveillance-Free Cell Phone Network",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Denver Gingerich is the brains behind Sopranica, a DIY, surveillance free cell phone network he hopes will one day rival big telecom companies.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "SHARE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "TWEET",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Daniel Oberhaus",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Dec 14 2017, 4:39pm",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Rei Watanabe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "It’s hard to believe that only two decades ago, cell phones were luxury items that were too expensive and/or clunky to be marketable.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Today, it is no small stretch to say cell phones are an intractable facet of modern life—we use them not only to make calls and send text messages, but also to browse the web, make payments, and navigate the world.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Yet as cell phone technologies have become more sophisticated, so have the ways they can be used to violate the privacy of their users.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Indeed, cell phones are one of the most powerful surveillance tools ever created, a portal for law enforcement authorities to spy on the communications and location of cell phone owners without much difficulty.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Denver Gingerich, a programmer in New York City, wants to change that.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Earlier this year, Gingerich published the code for Sopranica, a DIY, surveillance-free cell phone network.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "At the moment, it consists of a protocol that allows anyone to register for a phone number to make calls and send texts over the internet totally anonymously.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "In the future, this protocol will be paired with a network of small radio devices run by members of a community that will replace users’ reliance on cell phone towers run by telecommunications companies.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Read More:</b> <a href=\"https://motherboard.vice.com/en_us/article/595zg5/sopranica-jmp-wom-cell-network-diy-anonymous\" target=\"_blank\"> <b> How to Use Sopranica, the DIY Cell Phone Network",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Although just released to the public in January, Gingerich said he’s been working on Sopranica for years.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "“I used landlines growing up, but I ended up going to a university far from where I grew up and I decided long distance would cost too much when I wanted to call home,” Gingerich told me.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "To get around this issue, Gingerich bought a session initiation protocol (SIP) hard phone, which is basically like a normal telephone except it makes calls over the internet.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "He then bought a SIP ATA for his parents, which converts normal phones into devices that can make calls over the internet.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Voilà: he was able to do long distance calls with his family over the internet and avoid the steep calling fees.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "In 2009, not too long after Gingerich had graduated from university, he discovered Google Voice, which allowed him to text his friends’ cell phones from his laptop.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "For calling, he stuck with his SIP hard phone.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This worked well enough for a few years, but Gingerich realized he couldn’t depend on Google to keep their VoIP service alive forever.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "“As Google built and killed projects, I started to get a little anxious about the viability of Google Voice in the long term,” Gingerich told me.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "“So I started building the first version of Sopranica and that became my replacement for Google Voice.”",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This initial prototype, which Gingerich began using around 2014, laid the foundations for JMP, the version of Sopranica he released earlier this year.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Using JMP, anyone can visit <a href=\"https://soprani.ca/\" target=\"_blank\">Sopranica’s website</a>, get a free phone number, and then download any app that can run an open-source instant messaging client called Jabber on their normal cell phone.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Neither JMP nor Jabber requires identifying information to register, which means that anyone can get a cell phone number that isn’t linked to their real name for free and anonymous calling and text messaging.",
+        "score": -0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "At the moment, Gingerich is working with 15 collaborators from around the world to develop the next phase of Sopranica, called WOM.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "WOM will consist of small radio units that anyone can buy and plug into their internet router at home.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "These radio units can then be placed in windows or on the outside of buildings to act as internet access points for anyone on the Sopranica network.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This will essentially create the physical infrastructure necessary for Sopranica to expand.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "For near-field communications, Gingerich also plans on developing a meshing protocol to allow Sopranica users to pass data from user to user until it reaches its destination.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The next phase of Sopranica is still in development and it will likely be several months, if not years, before it is widely deployed enough to actually use.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“The biggest challenge is just getting people motivated to switch away from their existing cell carriers,” Gingerich said.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "“We want to replace all aspects of the cell phone network with their freedom-respecting equivalents so we can have the same functionality without having to give up all of that privacy that we have to give up right now.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "I foresee that taking place in a lot of ways, but most of them are further down the road.”",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Humans of the Year is a series about the people building a better future for everyone.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Follow along here</i></b></a><b><i>.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "SHARE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "TWEET",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "DIY",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "software",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Internet",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "communication",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "cell phones",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Cell Phone Surveillance",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Sopranica",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Watch This Next",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "3:04",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Journaling App That Helps You Manage Stress",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Where we're going, we don't need email.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Sign up for Motherboard Premium.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Find us in the future.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Like Motherboard",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "All Fronts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Trump's 'Impossible' Plan for a 350-Ship Navy Is Sinking Fast",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The scheme is \"more than unrealistic,” a Congressional shipbuilding expert told Motherboard.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "SHARE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "TWEET",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "David Axe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Dec 15 2017, 11:00am",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Trump speaks with sailors and shipbuilders in the hangar bay aboard Pre-Commissioning Unit Gerald R. Ford, March 2017.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Image:&nbsp;<a href=\"https://www.flickr.com/photos/usnavy/32902793150/\" target=\"_blank\">US Navy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "In September 2016, Donald Trump, then a candidate for US president, visited a Philadelphia shipyard and made a big promise.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Elect him president, Trump <a href=\"https://www.politico.com/magazine/story/2017/04/how-trump-can-build-a-350-ship-navy-215019\" target=\"_blank\">said</a>, and his administration would \"build a Navy of 350 surface ships and submarines.\"",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Presumably many of those shipyard workers voted for Trump, as the former reality television star ultimately won Pennsylvania and the presidency.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "But if those workers chose Trump in hopes of huge government contracts for new warships, they're probably going to be disappointed as experts and even top Navy officials now agree that the 350-ship Navy could be <a href=\"https://motherboard.vice.com/en_us/article/ezp8xw/trumps-plan-for-a-350-ship-navy-doesnt-hold-water\" target=\"_blank\">dead in the water</a>.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The scheme is \"more than unrealistic,” one Congressional shipbuilding expert told me on condition of anonymity, as they were not authorized to speak to the press.",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "“It would be impossible.\"",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "There simply isn't enough money.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "And the Navy itself, along with at least one key US senator, has rejected every inexpensive idea for quickly growing the fleet.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "The Navy possesses <a href=\"http://www.navy.mil/navydata/nav_legacy.asp?id=146\" target=\"_blank\">279 large ships</a> today and, in recent years, has built only slightly more vessels than it retires every year.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Under President Barack Obama, the fleet shrank to a modern low of just 273 warships before very slowly growing again at a rate of just two or three ships per year.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Adding 71 new vessels during a hypothetical, two-term Trump presidency would require the administration, the Navy, and Congress to craft a radical plan for funding and building as many as 15 new ships every year—six to replace older ships in the process of decommissioning, plus another nine to actually expand the fleet.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Shipbuilders at the Fincantieri Marinette Marine shipyard in Wisconsin laid the keel for the future littoral combat ship USS St. Louis, May 2017.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Image: <a href=\"http://www.navy.mil/gallery_search_results.asp?terms=shipyard&amp;page=11&amp;r=4\" target=\"_blank\">US Navy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Manufacturing and maintaining those extra ships over a period of 30 years would cost as much as $23 billion a year, according to <a href=\"https://redirect.viglink.com/?format=go&amp;jsonp=vglnk_151320322788612&amp;key=d6fb52ca9ca534018a552e655b556f31&amp;libId=jb5k6py10101k4gl000DAbrl00cvp&amp;loc=https%3A%2F%2Fwww.thedailybeast.com%2Ftrumps-navy-is-already-sunk&amp;v=1&amp;out=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D2%26ved%3D0ahUKEwjoj6Lk54nUAhUJ8CYKHY9NAtoQFggtMAE%26url%3Dhttps%253A%252F%252Ffas.org%252Fsgp%252Fcrs%252Fweapons%252FRL32665.pdf%26usg%3DAFQjCNE33PFhJnemQQnUn78X3JXmmlmhVw%26sig2%3DFu_E2LxGUHpy11LvGK73Yg%26cad%3Drjt&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;title=Trump%E2%80%99s%20Navy%20Is%20Already%20Sunk&amp;txt=noted\" target=\"_blank\">a May report</a> from the Congressional Research Service.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Acquiring the same fleet over a much shorter period of time would, of course, cost much more than $23 billion on an annual basis.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "On average, building a single new ship costs US taxpayers $2 billion.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Navy has endorsed a parallel plan for 355 ships that, of course, would be even more expensive than the 350-vessel scheme.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Facing such huge bills, Trump's own Navy secretary backed away from his president's pledge.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "\"355 is a good number for people to focus on,\" Richard V. Spencer <a href=\"https://www.defensenews.com/naval/2017/07/13/a-355-ship-navy-well-see-says-trumps-navy-secretary-pick/\" target=\"_blank\">said</a> during his July confirmation hearing.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "But the Navy shouldn't take the number literally, Spencer added: \"What I will tell you is that whether it's a 355-ship [fleet] or not, what we also want to get our head around is, can we have a capacity number but have a capability that's even greater than that, [to] have the capability of a 355- that might be a 300-ship Navy.\"",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "In other words, if the fleet <i> feels </i>like it has 355 ships, it doesn't need 355 <i> actual ships</i>.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Consistent with this new interpretation of his fleet promise, Trump proposed to buy just eight new ships in 2018, one fewer than Obama bought, on average, during the final years of his presidency.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Eight new ships would have put the Navy on track to grow to just 295 vessels after eight years.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Obama himself had pursued a plan that would have expanded the Navy to 308 frontline ships by the mid-2020s.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Congress rejected Trump's shipbuilding plan, and instead fronted <a href=\"https://www.defensenews.com/naval/2017/11/08/congress-set-to-authorize-13-ships-in-2018-but-dont-cut-steel-just-yet/\" target=\"_blank\">its own proposal</a> to buy 13 warships in 2018.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Trump signed that bill into law this month.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Acquiring that many new vessels every year for eight years could get the Navy close to its 350- or 355-ship goal.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "But there's just one problem: it's illegal.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "During high-stakes budget negotiations in 2011, Congress passed, and Obama signed, a law capping federal spending.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Congress's defense authorization for 2018 exceeds the legal limit by $85 billion.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "To actually appropriate the extra $85 billion, lawmakers will have to rewrite the 2011 Budget Control Act.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "That requires 60 votes in the Senate, where Republicans will have just 51 votes once newly-elected Alabama Senator Doug Jones joins the chamber in late December or early January.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Congress's efforts to revive Trump's fleet scheme could sink in the Senate.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Democrats are unlikely to rubber-stamp tens of billions of dollars in extra defense spending for an administration that has signalled its intention to deeply cut taxes on the rich while massively scaling back popular social programs.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Read more: <a href=\"https://motherboard.vice.com/en_us/article/wjggwm/china-testing-silent-magnetic-drive-submarines-evade-us-navy\" target=\"_blank\">China Is Testing Silent 'Magnetic Drive' Submarines to Evade the US Navy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "There were ways for the Navy to grow the fleet without buying lots of expensive new warships.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "The sailing branch could have kept existing ships longer and reactivated some older vessels it had recently decommissioned.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "In 2015, the Navy laid up the last of its 1980s-vintage <i> Perry</i>-class frigates, tough but lightly-armed vessels that spent their later years patrolling the Caribbean for drug smugglers or supporting Special Operations Forces off the coast of Africa.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Seven of the frigates <a href=\"http://warisboring.com/45796-2/\" target=\"_blank\">are available</a> for recommissioning at a cost of as little as $35,000 per ship.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "But in December the Navy <a href=\"https://news.usni.org/2017/12/11/secnav-memo-navy-wont-reactivate-perry-frigates-southcom-mission-will-send-ships-fight-drug-war-2018\" target=\"_blank\">rejected</a> the idea of bringing back older ships, preferring instead to invest in new ships like the controversial Littoral Combat Ship, which costs around $500 million a pop.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Critics <a href=\"https://news.usni.org/2016/02/08/senators-mccain-reed-blast-littoral-combat-ship-development-in-letter-to-navy-leaders\" target=\"_blank\">say</a> the LCS is fragile and unreliable.",
+        "score": -0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Meanwhile, Senator Marco Rubio, a Florida Republican, torpedoed <a href=\"http://warisboring.com/the-u-s-congress-could-save-the-navys-oldest-cruisers/\" target=\"_blank\">a Navy initiative</a> to extend the lives of older <i> Ticonderoga</i>-class cruisers, several of which are based in Mayport near Jacksonville.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "After years of negotiations with Congress, the Navy had devised a plan to keep 11 of the cruisers into the 2030s—years later than the government previously projected.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "But keeping the ships longer requires extra maintenance.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "The Navy had been removing a few cruisers from the fleet every year for rework.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Rubio objected to the maintenance effort, as it meant short-term losses for Mayport.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Noting that each cruiser supports 330 military jobs in Florida, the senator <a href=\"https://www.rubio.senate.gov/public/index.cfm/press-releases?ID=c299bb55-a968-41c3-8c86-71792266a605\" target=\"_blank\">inserted language</a> into the defense authorization barring the Navy from removing any of the ships from service, even temporarily.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Unable to repair the ships for long-term service, the Navy anticipates it will have no choice but to begin decommissioning them in 2020.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Rubio saved slightly more than a thousand jobs in his state for a few years.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "But those jobs might have cost the Navy its bigger fleet, and Trump a key campaign pledge.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Get six of our favorite Motherboard stories every day </i></b><a href=\"http://motherboard.club/\" target=\"_blank\"><b> <i> by signing up for our newsletter</i></b></a><b><i>.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "SHARE",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "TWEET",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "MILITARY",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "navy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Donald Trump",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "boats",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Marco Rubio",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "congress",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "ships",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Fleet",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "budgets",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Related Articles",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "All Fronts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Pentagon’s Plan to Send Stealth Fighters Into North Korea Is ‘Cray Cray’",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "All Fronts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Why Is the Air Force Using Stealth Fighters to Blow Up Crude Drug Labs?",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "All Fronts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "You Can't Fight a War Without Twitter",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "All Fronts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Trump's 'Impossible' Plan for a 350-Ship Navy Is Sinking Fast",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Where we're going, we don't need email.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Sign up for Motherboard Premium.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Find us in the future.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Like Motherboard",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "READ",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "WATCH",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Moveable",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Hacking",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Environment",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Space",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Gaming",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tech",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Influence",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "VICE Apps",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "VICE on TV",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "VICE Magazine",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Edition",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "en</span><span class=\"current-locale__label bod-xs\">United States",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "pt</span><span class=\"locales-dropdown__list-item__label bod-xs\">Brasil",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "fr</span><span class=\"locales-dropdown__list-item__label bod-xs\">France",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "de</span><span class=\"locales-dropdown__list-item__label bod-xs\">Germany",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "it</span><span class=\"locales-dropdown__list-item__label bod-xs\">Italy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "nl</span><span class=\"locales-dropdown__list-item__label bod-xs\">Netherlands",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "es</span><span class=\"locales-dropdown__list-item__label bod-xs\">Spain",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "en</span><span class=\"locales-dropdown__list-item__label bod-xs\">United States",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "About",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Terms of Use",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Privacy Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "© 2017 VICE Media LLC",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;div&gt;\n      &lt;img src=\"//secure-gl.imrworldwide.com/cgi-bin/m?ci=au-vice&amp;cg=0&amp;cc=1&amp;ts=noscript\" width=\"1\" height=\"1\" alt=\"\" /&gt;\n    &lt;/div&gt;",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      }
+    ]
+  }
+}

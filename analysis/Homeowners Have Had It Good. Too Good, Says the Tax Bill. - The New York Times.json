@@ -1,0 +1,6638 @@
+{
+  "categories": [
+    {
+      "name": "/News/Business News",
+      "confidence": 0.6800000071525574
+    },
+    {
+      "name": "/Business & Industrial",
+      "confidence": 0.6000000238418579
+    }
+  ],
+  "entities": [
+    {
+      "name": "story",
+      "type": "OTHER"
+    },
+    {
+      "name": "text input",
+      "type": "OTHER"
+    },
+    {
+      "name": "https://nyti.ms/2k3zsyG",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Style",
+      "type": "OTHER"
+    },
+    {
+      "name": "Homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "contributor",
+      "type": "PERSON"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "House",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jeff Neubauer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Home Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Home Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "Home Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "spaniard",
+      "type": "OTHER"
+    },
+    {
+      "name": "Paper",
+      "type": "OTHER"
+    },
+    {
+      "name": "U.F.O.",
+      "type": "OTHER"
+    },
+    {
+      "name": "back deductions",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "Democratic",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "updates",
+      "type": "OTHER"
+    },
+    {
+      "name": "products",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "tax preferences",
+      "type": "OTHER"
+    },
+    {
+      "name": "Real Estate",
+      "type": "LOCATION"
+    },
+    {
+      "name": "New yorkers",
+      "type": "LOCATION"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "Construction",
+      "type": "OTHER"
+    },
+    {
+      "name": "name",
+      "type": "OTHER"
+    },
+    {
+      "name": "Times Journeys",
+      "type": "OTHER"
+    },
+    {
+      "name": "T Magazine",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Home Search Skip",
+      "type": "OTHER"
+    },
+    {
+      "name": "storm",
+      "type": "EVENT"
+    },
+    {
+      "name": "home equity",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "MORE",
+      "type": "OTHER"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "auras",
+      "type": "OTHER"
+    },
+    {
+      "name": "airmen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Edward Glaeser",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Andrew Ross Sorkin",
+      "type": "PERSON"
+    },
+    {
+      "name": "Tech",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Times Insider",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "Upshot",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Services",
+      "type": "OTHER"
+    },
+    {
+      "name": "Contractor",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "type": "PERSON"
+    },
+    {
+      "name": "Email",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site",
+      "type": "OTHER"
+    },
+    {
+      "name": "Economy",
+      "type": "OTHER"
+    },
+    {
+      "name": "op",
+      "type": "OTHER"
+    },
+    {
+      "name": "Economy",
+      "type": "OTHER"
+    },
+    {
+      "name": "navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site Search navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeowner subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeowner subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "Editorial",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing",
+      "type": "OTHER"
+    },
+    {
+      "name": "Magazine",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "readers",
+      "type": "PERSON"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "tax plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Search",
+      "type": "OTHER"
+    },
+    {
+      "name": "search",
+      "type": "OTHER"
+    },
+    {
+      "name": "agency",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "mind-set",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax code",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax deductions",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax code",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tax changes",
+      "type": "OTHER"
+    },
+    {
+      "name": "scientists",
+      "type": "PERSON"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Reader Center",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Morgan Molnar",
+      "type": "PERSON"
+    },
+    {
+      "name": "houses",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Conferences",
+      "type": "EVENT"
+    },
+    {
+      "name": "Crossword",
+      "type": "OTHER"
+    },
+    {
+      "name": "Photography",
+      "type": "OTHER"
+    },
+    {
+      "name": "Classifieds",
+      "type": "OTHER"
+    },
+    {
+      "name": "deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax reform bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Blow",
+      "type": "OTHER"
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER"
+    },
+    {
+      "name": "show",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "majority",
+      "type": "OTHER"
+    },
+    {
+      "name": "shopping",
+      "type": "OTHER"
+    },
+    {
+      "name": "few",
+      "type": "OTHER"
+    },
+    {
+      "name": "Obituaries",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Multimedia",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "puerto rico",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Tools",
+      "type": "OTHER"
+    },
+    {
+      "name": "Jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "Corrections",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sections",
+      "type": "OTHER"
+    },
+    {
+      "name": "version",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tweet",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "pentagon",
+      "type": "OTHER"
+    },
+    {
+      "name": "Republicans",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Program",
+      "type": "OTHER"
+    },
+    {
+      "name": "object",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax treatment",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax legislation",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax measures",
+      "type": "OTHER"
+    },
+    {
+      "name": "jeer",
+      "type": "OTHER"
+    },
+    {
+      "name": "president",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "OTHER"
+    },
+    {
+      "name": "officials",
+      "type": "PERSON"
+    },
+    {
+      "name": "Podcasts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Meal Kits",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tax breaks",
+      "type": "OTHER"
+    },
+    {
+      "name": "home prices",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "show",
+      "type": "EVENT"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "real estate agents",
+      "type": "PERSON"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "Op-Ed Contributors",
+      "type": "OTHER"
+    },
+    {
+      "name": "browser",
+      "type": "OTHER"
+    },
+    {
+      "name": "home prices",
+      "type": "OTHER"
+    },
+    {
+      "name": "Settings",
+      "type": "OTHER"
+    },
+    {
+      "name": "mars",
+      "type": "OTHER"
+    },
+    {
+      "name": "Earthlings",
+      "type": "PERSON"
+    },
+    {
+      "name": "rebel",
+      "type": "OTHER"
+    },
+    {
+      "name": "writer",
+      "type": "PERSON"
+    },
+    {
+      "name": "tips",
+      "type": "OTHER"
+    },
+    {
+      "name": "Bulletin board",
+      "type": "OTHER"
+    },
+    {
+      "name": "misery",
+      "type": "OTHER"
+    },
+    {
+      "name": "bureau chief",
+      "type": "PERSON"
+    },
+    {
+      "name": "push",
+      "type": "EVENT"
+    },
+    {
+      "name": "worries",
+      "type": "OTHER"
+    },
+    {
+      "name": "women",
+      "type": "PERSON"
+    },
+    {
+      "name": "monsters",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "economists",
+      "type": "PERSON"
+    },
+    {
+      "name": "tax code",
+      "type": "OTHER"
+    },
+    {
+      "name": "Ed",
+      "type": "PERSON"
+    },
+    {
+      "name": "CONOR DOUGHERTY DEC",
+      "type": "PERSON"
+    },
+    {
+      "name": "social engineering project",
+      "type": "OTHER"
+    },
+    {
+      "name": "fabric",
+      "type": "OTHER"
+    },
+    {
+      "name": "thing",
+      "type": "OTHER"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Sign-ups",
+      "type": "OTHER"
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Maureen Dowd",
+      "type": "PERSON"
+    },
+    {
+      "name": "home shoppers",
+      "type": "PERSON"
+    },
+    {
+      "name": "tax breaks",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing deductions",
+      "type": "OTHER"
+    },
+    {
+      "name": "benefits",
+      "type": "OTHER"
+    },
+    {
+      "name": "American",
+      "type": "LOCATION"
+    },
+    {
+      "name": "interest deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "Home",
+      "type": "OTHER"
+    },
+    {
+      "name": "world",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Edward J. Pinto",
+      "type": "PERSON"
+    },
+    {
+      "name": "Home Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "home buyers",
+      "type": "PERSON"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax cuts",
+      "type": "OTHER"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "limit",
+      "type": "OTHER"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "mortgage interest",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest",
+      "type": "OTHER"
+    },
+    {
+      "name": "home price declines",
+      "type": "OTHER"
+    },
+    {
+      "name": "wealth",
+      "type": "OTHER"
+    },
+    {
+      "name": "Politicians",
+      "type": "PERSON"
+    },
+    {
+      "name": "Skip",
+      "type": "PERSON"
+    },
+    {
+      "name": "power-brokers",
+      "type": "PERSON"
+    },
+    {
+      "name": "homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "income tax",
+      "type": "OTHER"
+    },
+    {
+      "name": "Learning Network",
+      "type": "OTHER"
+    },
+    {
+      "name": "Review",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "all",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "Billing Information",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "more",
+      "type": "OTHER"
+    },
+    {
+      "name": "giveaway",
+      "type": "OTHER"
+    },
+    {
+      "name": "something",
+      "type": "OTHER"
+    },
+    {
+      "name": "farmers",
+      "type": "PERSON"
+    },
+    {
+      "name": "Email",
+      "type": "OTHER"
+    },
+    {
+      "name": "passage",
+      "type": "EVENT"
+    },
+    {
+      "name": "sectors",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "NYT Wine Club",
+      "type": "OTHER"
+    },
+    {
+      "name": "nytEducation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Matthew Desmond",
+      "type": "PERSON"
+    },
+    {
+      "name": "Internet Explorer 9",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "subsidies",
+      "type": "OTHER"
+    },
+    {
+      "name": "payoff",
+      "type": "OTHER"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "real estate marketplace",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Alabama",
+      "type": "LOCATION"
+    },
+    {
+      "name": "jerusalem",
+      "type": "LOCATION"
+    },
+    {
+      "name": "E.P.A.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION"
+    },
+    {
+      "name": "owners",
+      "type": "PERSON"
+    },
+    {
+      "name": "property taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "property taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "Real estate agents",
+      "type": "PERSON"
+    },
+    {
+      "name": "ownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "way",
+      "type": "OTHER"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Profile",
+      "type": "OTHER"
+    },
+    {
+      "name": "renters",
+      "type": "PERSON"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "housing prices",
+      "type": "OTHER"
+    },
+    {
+      "name": "Home",
+      "type": "OTHER"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Home",
+      "type": "OTHER"
+    },
+    {
+      "name": "society",
+      "type": "OTHER"
+    },
+    {
+      "name": "Home Delivery",
+      "type": "OTHER"
+    },
+    {
+      "name": "deductions",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "interest deductible",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "Black Knight",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Photo",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "class",
+      "type": "PERSON"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "name",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "more",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgages",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgages",
+      "type": "OTHER"
+    },
+    {
+      "name": "benefits",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "cost",
+      "type": "OTHER"
+    },
+    {
+      "name": "interest",
+      "type": "OTHER"
+    },
+    {
+      "name": "economy",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "homeowner deductions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "housing costs",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Save Homeownership",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Omarosa",
+      "type": "PERSON"
+    },
+    {
+      "name": "mortgage",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgages",
+      "type": "OTHER"
+    },
+    {
+      "name": "services",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "Newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Share",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tweet",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "contracting business",
+      "type": "OTHER"
+    },
+    {
+      "name": "parties",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "businesses",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "business",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "email",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Wealth matters",
+      "type": "OTHER"
+    },
+    {
+      "name": "parties",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "way",
+      "type": "OTHER"
+    },
+    {
+      "name": "entitlements",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax bill",
+      "type": "OTHER"
+    },
+    {
+      "name": "economy",
+      "type": "OTHER"
+    },
+    {
+      "name": "markets",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing market",
+      "type": "OTHER"
+    },
+    {
+      "name": "tax changes",
+      "type": "OTHER"
+    },
+    {
+      "name": "figure",
+      "type": "OTHER"
+    },
+    {
+      "name": "downsides",
+      "type": "OTHER"
+    },
+    {
+      "name": "ownership",
+      "type": "OTHER"
+    },
+    {
+      "name": "size",
+      "type": "OTHER"
+    },
+    {
+      "name": "property taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "income taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "real estate agents",
+      "type": "PERSON"
+    },
+    {
+      "name": "Credit",
+      "type": "OTHER"
+    },
+    {
+      "name": "rewards",
+      "type": "OTHER"
+    },
+    {
+      "name": "premise",
+      "type": "OTHER"
+    },
+    {
+      "name": "incentive",
+      "type": "OTHER"
+    },
+    {
+      "name": "little",
+      "type": "OTHER"
+    },
+    {
+      "name": "analysis",
+      "type": "OTHER"
+    },
+    {
+      "name": "coverage",
+      "type": "OTHER"
+    },
+    {
+      "name": "willingness",
+      "type": "OTHER"
+    },
+    {
+      "name": "reflection",
+      "type": "OTHER"
+    },
+    {
+      "name": "inventory",
+      "type": "OTHER"
+    },
+    {
+      "name": "debt",
+      "type": "OTHER"
+    },
+    {
+      "name": "neighborhoods",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "product marketing",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing market",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "education",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "one",
+      "type": "OTHER"
+    },
+    {
+      "name": "Home Page",
+      "type": "OTHER"
+    },
+    {
+      "name": "construction",
+      "type": "OTHER"
+    },
+    {
+      "name": "one",
+      "type": "OTHER"
+    },
+    {
+      "name": "government",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "colleagues",
+      "type": "PERSON"
+    },
+    {
+      "name": "email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "budget consequences",
+      "type": "OTHER"
+    },
+    {
+      "name": "state",
+      "type": "LOCATION"
+    },
+    {
+      "name": "statement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "economists",
+      "type": "PERSON"
+    },
+    {
+      "name": "view",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gift Subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Group Subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "Subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "story",
+      "type": "OTHER"
+    },
+    {
+      "name": "storm",
+      "type": "EVENT"
+    },
+    {
+      "name": "story",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "half",
+      "type": "OTHER"
+    },
+    {
+      "name": "Times Documentaries",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "plan",
+      "type": "OTHER"
+    },
+    {
+      "name": "property taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "income taxes",
+      "type": "OTHER"
+    },
+    {
+      "name": "property",
+      "type": "OTHER"
+    },
+    {
+      "name": "home owners",
+      "type": "PERSON"
+    },
+    {
+      "name": "benefits",
+      "type": "OTHER"
+    },
+    {
+      "name": "industries",
+      "type": "OTHER"
+    },
+    {
+      "name": "industry",
+      "type": "OTHER"
+    },
+    {
+      "name": "offers",
+      "type": "OTHER"
+    },
+    {
+      "name": "industry",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletter",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "more",
+      "type": "OTHER"
+    },
+    {
+      "name": "lack",
+      "type": "OTHER"
+    },
+    {
+      "name": "state",
+      "type": "LOCATION"
+    },
+    {
+      "name": "state",
+      "type": "LOCATION"
+    },
+    {
+      "name": "prices",
+      "type": "OTHER"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "home-owners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "error",
+      "type": "OTHER"
+    },
+    {
+      "name": "financing",
+      "type": "OTHER"
+    },
+    {
+      "name": "help",
+      "type": "OTHER"
+    },
+    {
+      "name": "debt",
+      "type": "OTHER"
+    },
+    {
+      "name": "debt",
+      "type": "OTHER"
+    },
+    {
+      "name": "family",
+      "type": "PERSON"
+    },
+    {
+      "name": "provision",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email Newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "wealthy",
+      "type": "PERSON"
+    },
+    {
+      "name": "majority",
+      "type": "OTHER"
+    },
+    {
+      "name": "changes",
+      "type": "OTHER"
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER"
+    },
+    {
+      "name": "Policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Commercial",
+      "type": "OTHER"
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "Times",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "confusion",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage industry",
+      "type": "OTHER"
+    },
+    {
+      "name": "Services",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Services",
+      "type": "OTHER"
+    },
+    {
+      "name": "Kalena Masching",
+      "type": "PERSON"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "sense",
+      "type": "OTHER"
+    },
+    {
+      "name": "uncertainty",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "Business",
+      "type": "OTHER"
+    },
+    {
+      "name": "view",
+      "type": "OTHER"
+    },
+    {
+      "name": "spending",
+      "type": "OTHER"
+    },
+    {
+      "name": "renovations",
+      "type": "OTHER"
+    },
+    {
+      "name": "equity",
+      "type": "OTHER"
+    },
+    {
+      "name": "number",
+      "type": "OTHER"
+    },
+    {
+      "name": "engine",
+      "type": "OTHER"
+    },
+    {
+      "name": "country",
+      "type": "LOCATION"
+    },
+    {
+      "name": "office",
+      "type": "LOCATION"
+    },
+    {
+      "name": "California",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Economy",
+      "type": "OTHER"
+    },
+    {
+      "name": "effects",
+      "type": "OTHER"
+    },
+    {
+      "name": "Editorials",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Magazine",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Replica Edition",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Site Information navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertise",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms of Service",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site Information navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Advertisement",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Markets",
+      "type": "OTHER"
+    },
+    {
+      "name": "Money",
+      "type": "OTHER"
+    },
+    {
+      "name": "Editorials",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Money",
+      "type": "OTHER"
+    },
+    {
+      "name": "Style",
+      "type": "OTHER"
+    },
+    {
+      "name": "Style",
+      "type": "OTHER"
+    },
+    {
+      "name": "Money",
+      "type": "OTHER"
+    },
+    {
+      "name": "Magazine",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "OR",
+      "type": "LOCATION"
+    },
+    {
+      "name": "counties",
+      "type": "LOCATION"
+    },
+    {
+      "name": "number",
+      "type": "OTHER"
+    },
+    {
+      "name": "inventory",
+      "type": "OTHER"
+    },
+    {
+      "name": "consumer spending",
+      "type": "OTHER"
+    },
+    {
+      "name": "renovations",
+      "type": "OTHER"
+    },
+    {
+      "name": "housing crisis",
+      "type": "EVENT"
+    },
+    {
+      "name": "crisis",
+      "type": "EVENT"
+    },
+    {
+      "name": "Sample",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "modification",
+      "type": "OTHER"
+    },
+    {
+      "name": "Search",
+      "type": "OTHER"
+    },
+    {
+      "name": "Privacy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Restaurant Search",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sports",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Food",
+      "type": "OTHER"
+    },
+    {
+      "name": "Harvard",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "mortgage backers",
+      "type": "PERSON"
+    },
+    {
+      "name": "result",
+      "type": "OTHER"
+    },
+    {
+      "name": "ways",
+      "type": "OTHER"
+    },
+    {
+      "name": "bulk",
+      "type": "OTHER"
+    },
+    {
+      "name": "starters",
+      "type": "PERSON"
+    },
+    {
+      "name": "sprawl",
+      "type": "OTHER"
+    },
+    {
+      "name": "landscape",
+      "type": "OTHER"
+    },
+    {
+      "name": "absence",
+      "type": "OTHER"
+    },
+    {
+      "name": "portion",
+      "type": "OTHER"
+    },
+    {
+      "name": "roads",
+      "type": "LOCATION"
+    },
+    {
+      "name": "infrastructure",
+      "type": "OTHER"
+    },
+    {
+      "name": "savings",
+      "type": "OTHER"
+    },
+    {
+      "name": "manufacturing",
+      "type": "OTHER"
+    },
+    {
+      "name": "critics",
+      "type": "PERSON"
+    },
+    {
+      "name": "spectrum",
+      "type": "OTHER"
+    },
+    {
+      "name": "lives",
+      "type": "OTHER"
+    },
+    {
+      "name": "poor",
+      "type": "PERSON"
+    },
+    {
+      "name": "inequality",
+      "type": "OTHER"
+    },
+    {
+      "name": "havoc",
+      "type": "OTHER"
+    },
+    {
+      "name": "eviction",
+      "type": "OTHER"
+    },
+    {
+      "name": "range",
+      "type": "OTHER"
+    },
+    {
+      "name": "condominium",
+      "type": "OTHER"
+    },
+    {
+      "name": "accident",
+      "type": "EVENT"
+    },
+    {
+      "name": "financing expenses",
+      "type": "OTHER"
+    },
+    {
+      "name": "policy headlines",
+      "type": "OTHER"
+    },
+    {
+      "name": "box",
+      "type": "OTHER"
+    },
+    {
+      "name": "robot",
+      "type": "OTHER"
+    },
+    {
+      "name": "target",
+      "type": "OTHER"
+    },
+    {
+      "name": "corporations",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "boundaries",
+      "type": "OTHER"
+    },
+    {
+      "name": "impact",
+      "type": "OTHER"
+    },
+    {
+      "name": "cities",
+      "type": "LOCATION"
+    },
+    {
+      "name": "attack",
+      "type": "EVENT"
+    },
+    {
+      "name": "piggy bank",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "fact",
+      "type": "OTHER"
+    },
+    {
+      "name": "front",
+      "type": "OTHER"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "Education",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Events Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Education",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Events Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Reader Center",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Events Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Alerts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Education",
+      "type": "OTHER"
+    },
+    {
+      "name": "Events",
+      "type": "EVENT"
+    },
+    {
+      "name": "Tech",
+      "type": "OTHER"
+    },
+    {
+      "name": "Health Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "College",
+      "type": "OTHER"
+    },
+    {
+      "name": "College",
+      "type": "OTHER"
+    },
+    {
+      "name": "Events Guide",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Science",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Reader Center",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "newsletter subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletter subscriptions",
+      "type": "OTHER"
+    },
+    {
+      "name": "offers",
+      "type": "OTHER"
+    },
+    {
+      "name": "most",
+      "type": "OTHER"
+    },
+    {
+      "name": "Homeowners",
+      "type": "PERSON"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Crossword",
+      "type": "OTHER"
+    },
+    {
+      "name": "Classifieds",
+      "type": "OTHER"
+    },
+    {
+      "name": "Photography",
+      "type": "OTHER"
+    },
+    {
+      "name": "Crossword",
+      "type": "OTHER"
+    },
+    {
+      "name": "sticking points",
+      "type": "OTHER"
+    },
+    {
+      "name": "drop",
+      "type": "OTHER"
+    },
+    {
+      "name": "estimates",
+      "type": "OTHER"
+    },
+    {
+      "name": "ramifications",
+      "type": "OTHER"
+    },
+    {
+      "name": "hopes",
+      "type": "OTHER"
+    },
+    {
+      "name": "administration",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "victory",
+      "type": "OTHER"
+    },
+    {
+      "name": "city",
+      "type": "LOCATION"
+    },
+    {
+      "name": "husband",
+      "type": "PERSON"
+    },
+    {
+      "name": "situation",
+      "type": "OTHER"
+    },
+    {
+      "name": "mortgage interest deduction cap",
+      "type": "OTHER"
+    },
+    {
+      "name": "place",
+      "type": "OTHER"
+    },
+    {
+      "name": "bit",
+      "type": "OTHER"
+    },
+    {
+      "name": "vacations",
+      "type": "EVENT"
+    },
+    {
+      "name": "everything",
+      "type": "OTHER"
+    },
+    {
+      "name": "college tuition",
+      "type": "OTHER"
+    },
+    {
+      "name": "problem",
+      "type": "OTHER"
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "value",
+      "type": "OTHER"
+    },
+    {
+      "name": "Conferences",
+      "type": "EVENT"
+    },
+    {
+      "name": "Crossword",
+      "type": "OTHER"
+    },
+    {
+      "name": "Photography",
+      "type": "OTHER"
+    },
+    {
+      "name": "Classifieds",
+      "type": "OTHER"
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER"
+    },
+    {
+      "name": "sense",
+      "type": "OTHER"
+    },
+    {
+      "name": "Bloomberg",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Caitlin O'Hara",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zillow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "revenues",
+      "type": "OTHER"
+    },
+    {
+      "name": "comments",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Service Privacy Policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Service Privacy Policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Commenters",
+      "type": "PERSON"
+    },
+    {
+      "name": "comments",
+      "type": "OTHER"
+    },
+    {
+      "name": "news alerts",
+      "type": "OTHER"
+    },
+    {
+      "name": "news alerts",
+      "type": "OTHER"
+    },
+    {
+      "name": "cash-out refinancings",
+      "type": "OTHER"
+    },
+    {
+      "name": "Obituaries",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Corrections",
+      "type": "OTHER"
+    },
+    {
+      "name": "Jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tools",
+      "type": "OTHER"
+    },
+    {
+      "name": "Multimedia",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Help",
+      "type": "OTHER"
+    },
+    {
+      "name": "Center for Housing Markets and Finance",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Blow",
+      "type": "OTHER"
+    },
+    {
+      "name": "Obituaries",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Multimedia",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Tools",
+      "type": "OTHER"
+    },
+    {
+      "name": "Jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "Corrections",
+      "type": "OTHER"
+    },
+    {
+      "name": "services",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "services",
+      "type": "OTHER"
+    },
+    {
+      "name": "Account",
+      "type": "OTHER"
+    },
+    {
+      "name": "comment",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Service Privacy Policy Contact",
+      "type": "OTHER"
+    },
+    {
+      "name": "content",
+      "type": "OTHER"
+    },
+    {
+      "name": "Service Privacy Policy Contact",
+      "type": "OTHER"
+    },
+    {
+      "name": "content",
+      "type": "OTHER"
+    },
+    {
+      "name": "The Times",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "More",
+      "type": "OTHER"
+    },
+    {
+      "name": "Password",
+      "type": "OTHER"
+    },
+    {
+      "name": "password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Retype password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Retype password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Password",
+      "type": "OTHER"
+    },
+    {
+      "name": "password",
+      "type": "OTHER"
+    },
+    {
+      "name": "Letters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Books",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Dance",
+      "type": "OTHER"
+    },
+    {
+      "name": "Movies",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Music",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Television",
+      "type": "OTHER"
+    },
+    {
+      "name": "Theater",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Automobiles",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Weddings",
+      "type": "EVENT"
+    },
+    {
+      "name": "accessibility",
+      "type": "OTHER"
+    },
+    {
+      "name": "Sale",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site Feedback",
+      "type": "OTHER"
+    },
+    {
+      "name": "Media",
+      "type": "OTHER"
+    },
+    {
+      "name": "Automobiles",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Letters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Climate",
+      "type": "OTHER"
+    },
+    {
+      "name": "Basketball",
+      "type": "OTHER"
+    },
+    {
+      "name": "Basketball",
+      "type": "OTHER"
+    },
+    {
+      "name": "Football",
+      "type": "OTHER"
+    },
+    {
+      "name": "Football",
+      "type": "OTHER"
+    },
+    {
+      "name": "Books",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Dance",
+      "type": "OTHER"
+    },
+    {
+      "name": "Movies",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Music",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Television",
+      "type": "OTHER"
+    },
+    {
+      "name": "Theater",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Weddings",
+      "type": "EVENT"
+    },
+    {
+      "name": "Podcasts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Meal Kits",
+      "type": "OTHER"
+    },
+    {
+      "name": "deduction",
+      "type": "OTHER"
+    },
+    {
+      "name": "dame",
+      "type": "PERSON"
+    },
+    {
+      "name": "Edition",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Profile",
+      "type": "OTHER"
+    },
+    {
+      "name": "leap",
+      "type": "OTHER"
+    },
+    {
+      "name": "Congress",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "articles",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "course",
+      "type": "OTHER"
+    },
+    {
+      "name": "Celebrations",
+      "type": "EVENT"
+    },
+    {
+      "name": "Listings",
+      "type": "OTHER"
+    },
+    {
+      "name": "Education Rate",
+      "type": "OTHER"
+    },
+    {
+      "name": "Mobile Applications",
+      "type": "OTHER"
+    },
+    {
+      "name": "Accessibility concerns",
+      "type": "OTHER"
+    },
+    {
+      "name": "Ad Choices",
+      "type": "OTHER"
+    },
+    {
+      "name": "Princeton",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Site Map",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Items",
+      "type": "OTHER"
+    },
+    {
+      "name": "Elections",
+      "type": "EVENT"
+    },
+    {
+      "name": "Energy",
+      "type": "OTHER"
+    },
+    {
+      "name": "Entrepreneurship",
+      "type": "OTHER"
+    },
+    {
+      "name": "Space",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Cosmos",
+      "type": "OTHER"
+    },
+    {
+      "name": "Baseball",
+      "type": "OTHER"
+    },
+    {
+      "name": "Golf",
+      "type": "OTHER"
+    },
+    {
+      "name": "Hockey",
+      "type": "OTHER"
+    },
+    {
+      "name": "Soccer",
+      "type": "OTHER"
+    },
+    {
+      "name": "Tennis",
+      "type": "OTHER"
+    },
+    {
+      "name": "Men",
+      "type": "PERSON"
+    },
+    {
+      "name": "Runway",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Cooking",
+      "type": "OTHER"
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "Mortgage Calculator",
+      "type": "OTHER"
+    },
+    {
+      "name": "Culture",
+      "type": "OTHER"
+    },
+    {
+      "name": "Oil",
+      "type": "OTHER"
+    },
+    {
+      "name": "Type size",
+      "type": "OTHER"
+    },
+    {
+      "name": "Type size",
+      "type": "OTHER"
+    },
+    {
+      "name": "Type size",
+      "type": "OTHER"
+    },
+    {
+      "name": "alerts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "alerts",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email address",
+      "type": "OTHER"
+    },
+    {
+      "name": "status",
+      "type": "OTHER"
+    },
+    {
+      "name": "offers",
+      "type": "OTHER"
+    },
+    {
+      "name": "offers",
+      "type": "OTHER"
+    },
+    {
+      "name": "Trending Stories",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Fannie Mae",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "American Enterprise Institute",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Rancho Santa Margarita",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Bakersfield",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Help",
+      "type": "OTHER"
+    },
+    {
+      "name": "Comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Luxury Travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Art & Design",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "Silicon Valley",
+      "type": "LOCATION"
+    },
+    {
+      "name": "comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "comments",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "comments",
+      "type": "OTHER"
+    },
+    {
+      "name": "News",
+      "type": "OTHER"
+    },
+    {
+      "name": "Politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "California Association of Realtors",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "International Luxury Conference",
+      "type": "EVENT"
+    },
+    {
+      "name": "Sunnyvale",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Bay Area",
+      "type": "LOCATION"
+    },
+    {
+      "name": "A.T.M.s.",
+      "type": "OTHER"
+    },
+    {
+      "name": "Type size medium",
+      "type": "OTHER"
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER"
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER"
+    },
+    {
+      "name": "anywhere",
+      "type": "LOCATION"
+    },
+    {
+      "name": "anywhere",
+      "type": "LOCATION"
+    },
+    {
+      "name": "people",
+      "type": "PERSON"
+    },
+    {
+      "name": "DealBook",
+      "type": "OTHER"
+    },
+    {
+      "name": "thing",
+      "type": "OTHER"
+    },
+    {
+      "name": "registration",
+      "type": "OTHER"
+    },
+    {
+      "name": "Art Leaders Network",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Charles M. Blow",
+      "type": "PERSON"
+    },
+    {
+      "name": "provisions",
+      "type": "OTHER"
+    },
+    {
+      "name": "versions",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "page",
+      "type": "OTHER"
+    },
+    {
+      "name": "Site index navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER"
+    },
+    {
+      "name": "moderation",
+      "type": "OTHER"
+    },
+    {
+      "name": "history",
+      "type": "OTHER"
+    },
+    {
+      "name": "Americas",
+      "type": "LOCATION"
+    },
+    {
+      "name": "High End",
+      "type": "OTHER"
+    },
+    {
+      "name": "ClimateTECH",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Global Strategy Summit",
+      "type": "EVENT"
+    },
+    {
+      "name": "Work Summit",
+      "type": "OTHER"
+    },
+    {
+      "name": "Higher Ed Leaders Forum",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Athens Democracy Forum",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Us",
+      "type": "LOCATION"
+    },
+    {
+      "name": "real estate agents",
+      "type": "PERSON"
+    },
+    {
+      "name": "Rental properties",
+      "type": "OTHER"
+    },
+    {
+      "name": "owners",
+      "type": "PERSON"
+    },
+    {
+      "name": "Readers",
+      "type": "PERSON"
+    },
+    {
+      "name": "Readers",
+      "type": "PERSON"
+    },
+    {
+      "name": "window",
+      "type": "OTHER"
+    },
+    {
+      "name": "rents",
+      "type": "OTHER"
+    },
+    {
+      "name": "renter",
+      "type": "OTHER"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "World",
+      "type": "LOCATION"
+    },
+    {
+      "name": "monster",
+      "type": "OTHER"
+    },
+    {
+      "name": "Log",
+      "type": "OTHER"
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "benefits",
+      "type": "OTHER"
+    },
+    {
+      "name": "Name",
+      "type": "OTHER"
+    },
+    {
+      "name": "renters",
+      "type": "PERSON"
+    },
+    {
+      "name": "The New York Times Company",
+      "type": "OTHER"
+    },
+    {
+      "name": "@nytimes.com",
+      "type": "OTHER"
+    },
+    {
+      "name": "Africa",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Asia Pacific",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Europe",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Middle East",
+      "type": "LOCATION"
+    },
+    {
+      "name": "N.B.A.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "N.F.L.",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "iPhone",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "effect",
+      "type": "OTHER"
+    },
+    {
+      "name": "Gail Collins",
+      "type": "PERSON"
+    },
+    {
+      "name": "users",
+      "type": "PERSON"
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "thing",
+      "type": "OTHER"
+    },
+    {
+      "name": "costs",
+      "type": "OTHER"
+    },
+    {
+      "name": "Op-Docs",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER"
+    },
+    {
+      "name": "shopping",
+      "type": "OTHER"
+    },
+    {
+      "name": "thoughts",
+      "type": "OTHER"
+    },
+    {
+      "name": "end",
+      "type": "EVENT"
+    },
+    {
+      "name": "real estate brokerage",
+      "type": "OTHER"
+    },
+    {
+      "name": "uncertainty",
+      "type": "OTHER"
+    },
+    {
+      "name": "feedback",
+      "type": "OTHER"
+    },
+    {
+      "name": "Trending",
+      "type": "OTHER"
+    },
+    {
+      "name": "pentagon",
+      "type": "OTHER"
+    },
+    {
+      "name": "Program",
+      "type": "OTHER"
+    },
+    {
+      "name": "object",
+      "type": "OTHER"
+    },
+    {
+      "name": "prince",
+      "type": "PERSON"
+    },
+    {
+      "name": "jeer",
+      "type": "OTHER"
+    },
+    {
+      "name": "president",
+      "type": "PERSON"
+    },
+    {
+      "name": "documentary",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "Site index",
+      "type": "OTHER"
+    },
+    {
+      "name": "show",
+      "type": "EVENT"
+    },
+    {
+      "name": "sales",
+      "type": "OTHER"
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "clients",
+      "type": "PERSON"
+    },
+    {
+      "name": "math",
+      "type": "OTHER"
+    },
+    {
+      "name": "loss",
+      "type": "OTHER"
+    },
+    {
+      "name": "lot",
+      "type": "OTHER"
+    },
+    {
+      "name": "exemption",
+      "type": "OTHER"
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON"
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION"
+    },
+    {
+      "name": "bauble",
+      "type": "OTHER"
+    },
+    {
+      "name": "nevins",
+      "type": "PERSON"
+    },
+    {
+      "name": "David Brooks",
+      "type": "PERSON"
+    },
+    {
+      "name": "Frank Bruni",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roger Cohen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ross Douthat",
+      "type": "PERSON"
+    },
+    {
+      "name": "Thomas L. Friedman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicholas Kristof",
+      "type": "PERSON"
+    },
+    {
+      "name": "Paul Krugman",
+      "type": "PERSON"
+    },
+    {
+      "name": "David Leonhardt",
+      "type": "PERSON"
+    },
+    {
+      "name": "Andrew Rosenthal",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bret Stephens",
+      "type": "PERSON"
+    },
+    {
+      "name": "English",
+      "type": "OTHER"
+    },
+    {
+      "name": "中文",
+      "type": "OTHER"
+    },
+    {
+      "name": "Chinese",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Español",
+      "type": "OTHER"
+    },
+    {
+      "name": "Paul R.S.",
+      "type": "PERSON"
+    },
+    {
+      "name": "panel",
+      "type": "OTHER"
+    },
+    {
+      "name": "overlay",
+      "type": "OTHER"
+    },
+    {
+      "name": "Harvey weinstein",
+      "type": "PERSON"
+    },
+    {
+      "name": "Redfin",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Seattle",
+      "type": "LOCATION"
+    },
+    {
+      "name": "hbo",
+      "type": "ORGANIZATION"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.10000000149011612,
+    "magnitude": 139.8000030517578,
+    "sentences": [
+      {
+        "sentence": "Homeowners Have Had It Good.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Too Good, Says the Tax Bill.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "- The New York Times",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NYTimes.com no longer supports Internet Explorer 9 or earlier.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Please upgrade your browser.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "LEARN MORE »",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sections</span></button>\n            <button class=\"button home-button\" data-href=\"https://www.nytimes.com/\" title=\"Go to the home page to see the latest top stories.\"><i class=\"icon sprite-icon\"></i>\n                <span class=\"button-text\">Home</span>\n            </button>\n            <button class=\"button search-button\"><i class=\"icon sprite-icon\"></i><span class=\"button-text\">Search</span></button>\n            <a class=\"button skip-button skip-to-content visually-hidden focusable\" href=\"https://www.nytimes.com/2017/12/16/business/economy/tax-bill-housing.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news#story-header\">Skip to content</a>\n                        <a class=\"button skip-button skip-to-navigation visually-hidden focusable\" href=\"https://www.nytimes.com/2017/12/16/business/economy/tax-bill-housing.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news#site-index-navigation\">Skip to navigation</a>\n                                    <a class=\"button skip-button skip-to-mobile visually-hidden focusable\" href=\"http://mobile.nytimes.com/2017/12/16/business/economy/tax-bill-housing.html\">View mobile version",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The New York Times",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Economy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Homeowners Have Had It Good.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Too Good, Says the Tax Bill.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Tweet",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Email",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Save",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Search",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Subscribe Now</button>\n                <button class=\"button login-button login-modal-trigger\">Log In</button>\n                <button class=\"button comments-button theme-speech-bubble-x-small\" data-skip-to-para-id=\"\">\n<i class=\"icon\">\n\n<span class=\"button-text\">\n<span class=\"count\">48</span>\n\n</span>\n\n</i></button>\n                                <button class=\"button notifications-button hidden\"><i class=\"icon sprite-icon\"></i><span class=\"button-text\">0</span></button>\n                <button class=\"button user-settings-button\"><i class=\"icon sprite-icon\"></i><span class=\"button-text\">Settings",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close search",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Site Search Navigation",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Search NYTimes.com",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Go",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "https://nyti.ms/2k3zsyG",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Home Page",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Homeowners Have Had It Good.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Too Good, Says the Tax Bill.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Months After Storm, Puerto Rico Stares Down Another Blow: The Tax Bill",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Program",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "2 Navy Airmen and an Object That ‘Accelerated Like Nothing I’ve Ever Seen’",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Omarosa, Leaving the White House, Suggests the Show Will Go On",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Omarosa’s White House Show Is Canceled",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "‘Trump, Trump, Trump!’",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "How a President’s Name Became a Racial Jeer",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "11 of Our Best Weekend Reads",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Earthlings, Unite: Let’s Go to Mars",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Who’s a Spaniard These Days?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Maureen Dowd",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Bringing Down Our Monsters",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Op-Ed Contributor",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Alabama’s Unlikely Rebel",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Ed Contributor",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Democrats Could Claim a New American Majority.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Will They?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Editorial",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Donald Trump Seems Confused About Jerusalem",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Don’t Just Thank Black Women.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Follow Us.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Contributing Op-Ed Writer",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Gift-Giving Tips From Scientists",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "My Year of No Shopping",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "E.P.A.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Contractor Has Spent Past Year Scouring the Agency for Anti-Trump Officials",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Bulletin Board",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "‘A World of Misery Few of Us Really See’: Readers and a Bureau Chief...",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "A Last Push for Obamacare Sign-ups — and Worries About Who Got Hurt",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Loading...",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "See next articles",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "See previous articles",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Home Page",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Site Navigation",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Home Page",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "U.S.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Politics",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "N.Y.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tech",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Arts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Arts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Fashion &amp; Style",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Fashion &amp; Style",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Travel",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Magazine",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "T Magazine",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Real Estate",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Obituaries",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Upshot",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Reader Center",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Conferences",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Crossword",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Times Insider",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Learning Network",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Multimedia",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Photography",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Podcasts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NYT Store",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NYT Wine Club",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "nytEducation",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Times Journeys",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Meal Kits",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Manage Account",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Today's Paper",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tools &amp; Services",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Jobs",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Classifieds",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Corrections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Site Mobile Navigation",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Supported by",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Economy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Homeowners Have Had It Good.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Too Good, Says the Tax Bill.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "By <a href=\"https://www.nytimes.com/by/conor-dougherty\" title=\"More Articles by CONOR DOUGHERTY\"><span class=\"byline-author\" data-byline-name=\"CONOR DOUGHERTY\" itemprop=\"name\" data-twitter-handle=\"ConorDougherty\">CONOR DOUGHERTY</span></a></span><time class=\"dateline\" datetime=\"2017-12-16T15:29:21-05:00\" itemprop=\"dateModified\" content=\"2017-12-16T15:29:21-05:00\">DEC.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "16, 2017",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Continue reading the main story</a>\n<span class=\"sharetools-label visually-hidden\">Share This Page",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Share",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Tweet",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Email",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Save",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "48",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Photo",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Politicians from both parties have championed homeownership over the years, but economists see downsides in the tax preferences that have resulted.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Credit</span>\n            Caitlin O'Hara/Bloomberg",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "For decades, the tax code has been filled with rewards for homeownership.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Tax breaks encourage people to get into first homes and to trade up as they get older, building a national mind-set that you’re never quite middle class until you’ve qualified for a mortgage.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "It amounts to a vast social engineering project that assumes society is better off with owners instead of renters.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "But the tax bill making its way toward final passage is upending that premise.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The bill will increase many homeowners’ monthly housing costs by scaling back deductions that allow them to reduce mortgage interest and property taxes.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "And by roughly doubling the standard deduction, it reduces the incentive to buy homes by making far fewer homeowners eligible for preferential tax treatment.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Today, a little under half of American homes are worth enough to justify itemizing mortgage interest and property taxes.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Under the tax legislation, that figure would fall to close to 14 percent, according to <a href=\"https://www.zillow.com/research/mortgage-interest-deduction-750k-17620/\">an analysis of the plan</a> by the online real estate marketplace Zillow.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Republican plan, in short, is tinkering with subsidies so entrenched in the social fabric that they have become entitlements in all but name.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Related Coverage",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "WEALTH MATTERS",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Tax Changes Are Coming Next Year, but You Can Plan for Them Now</span>\n                                    <time class=\"dateline\">DEC.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "7, 2017",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "California Looks at Republican Tax Measures and Sees Payback</span>\n                                    <time class=\"dateline\">NOV. 10, 2017",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "How New Yorkers Would Lose Under the Republican Tax Bill</span>\n                                    <time class=\"dateline\">DEC.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "4, 2017",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Real Estate Agents Mobilize to Shield Homeowners on Tax Plan</span>\n                                    <time class=\"dateline\">NOV. 21, 2017",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "“It suggests a limit in the federal government’s willingness to subsidize ownership,” said Edward Glaeser, an economist at Harvard.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "“It’s also a reflection of just how expensive housing has become, and how it feels problematic to be using the tax code to support people buying houses that are this expensive or, even worse, to be encouraging housing prices to rise further.”",
+        "score": -0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Both parties have long championed homeownership as a way to help people build wealth and keep neighborhoods more stable.",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "But economists like Mr. Glaeser have been critical of the resulting subsidies.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "In their view, the government has made homeownership and its financing artificially cheap through the tax code and mortgage backers like Fannie Mae.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "As a result, people are encouraged to take on more debt than they might otherwise — to buy bigger homes and second homes, and to plow the equity they accrue into renovations and personal spending.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This distorts the economy in a number of ways.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "For starters, it’s unfair: Since the benefits of these deductions get bigger with larger and more expensive homes, the bulk of the benefits accrue to wealthier homeowners in pricier markets.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "This alters the landscape by encouraging more single-family homes and suburban sprawl.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "That, in turn, prompts the government to spend more on roads and infrastructure and makes housing a bigger portion of the economy than it would be in the absence of federal help.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Construction, though, is one of the least productive industries.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "By funneling more of the national debt and savings into construction, the government is hindering sectors, like education and manufacturing, that have a bigger economic payoff.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "All this has made homeowner subsidies, in particular the mortgage interest deduction, one of the rare tax breaks with critics across the political spectrum.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Matthew Desmond, a Princeton sociologist who studies how <a href=\"http://www.evictedbook.com/\">eviction</a> wreaks havoc on the lives on the poor, has documented how the deduction became the “<a href=\"https://www.nytimes.com/2017/05/09/magazine/how-homeownership-became-the-engine-of-american-inequality.html?_r=1\">engine of American inequality</a>” because it favors higher-income homeowners.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Edward J. Pinto, co-director of the conservative American Enterprise Institute’s Center for Housing Markets and Finance, has described the interest deduction and other homeowner subsidies as a wasteful giveaway that inflates home prices and encourages people to borrow excessively.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "“My basic view is if you subsidize something you’ll get more of it, and as a country we’ve been subsidizing debt,” he said.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Jeff Neubauer is already thinking more conservatively.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Mr. Neubauer, 34, who helps manage his family’s electrical contracting business and lives in Rancho Santa Margarita, Calif., is looking to trade up from his two-bedroom condominium to a larger home in the $800,000-to-$900,000 range.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Now, he is worried that the cost of ownership will be much higher and will rather play it safe until the effects of the bill are clearer.",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "“It makes me want to not spend as much money,” he said.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Though it’s considered sacrosanct today, the mortgage interest deduction was created almost by accident in 1913.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "When Congress passed the first income tax, it made interest deductible, a provision intended to help farmers and other businesses deduct their financing expenses.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Over the next century, as the government began guaranteeing mortgages and as the construction of single-family homes became a global industry, the mortgage interest deduction ballooned into one of the <a href=\"https://www.cbpp.org/research/mortgage-interest-deduction-is-ripe-for-reform\">largest tax subsidies</a>, accounting for more than $70 billion a year.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Newsletter Sign Up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Sign up for the all-new DealBook newsletter",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Our columnist Andrew Ross Sorkin and his Times colleagues help you make sense of major business and policy headlines — and the power-brokers who shape them.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Please verify you're not a robot by clicking the box.",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Invalid email address.",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Please re-enter.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "You must select a newsletter to subscribe to.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sign Up",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "You agree to receive occasional updates and special offers for The New York Times's products and services.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Thank you for subscribing.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "An error has occurred.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Please try again later.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "You are already subscribed to this email.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "View all New York Times newsletters.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "See Sample",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Privacy Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opt out or <a href=\"https://www.nytimes.com/help/index.html\" target=\"_blank\">contact us</a> anytime",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The size of the deduction made it a tempting target for Republicans.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "To stay within legislative boundaries, the Republicans need to limit the budget consequences of tax cuts largely benefiting corporations and the wealthy.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Reducing housing deductions — benefits that disproportionately flow to homeowners in wealthier Democratic cities — helps recover some revenues while concentrating the impact on relatively few people, most of whom are unlikely to vote for Republicans.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The bill does retain significant subsidies, allowing home buyers to deduct interest on mortgages as high as $750,000 — accounting for the vast majority — and up to $10,000 total in property taxes and state and local income taxes.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "But real estate agents have portrayed the changes as a <a href=\"https://keepthedooropendc.com/\">full-blown attack</a> on their industry.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "“The final tax reform bill released punishes homeowners and weakens homeownership,” the California Association of Realtors said in a statement issued on Friday, “and in fact, it looks at homeowners and the housing market as nothing more than a piggy bank.”",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Earlier versions of the bill prompted real estate agents in Bakersfield, Calif., to protest and chant “Save Homeownership” in front of the local office of Representative Kevin McCarthy, the House majority leader.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "And the provisions affecting homeownership were among the few main sticking points among House Republicans, particularly those from Mr. McCarthy’s state.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "According to some estimates, the modification of the mortgage interest deduction, combined with the steep drop in the deduction for state and local property taxes, could lead to home price declines <a href=\"https://www.nytimes.com/2017/11/21/business/economy/tax-real-estate.html?_r=0\">of as much as 10 percent</a> in counties with the highest property and income taxes.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "It is, of course, hard to gauge the long-term ramifications of a tax bill that is flying through Congress in hopes of allowing Republicans and the Trump administration to claim a major legislative victory.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "That uncertainty is leading to major confusion for home shoppers like Morgan Molnar.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Ms. Molnar, a 29-year-old who works in product marketing, lives in the Silicon Valley city of Sunnyvale and is looking for a home costing $1 million to $1.2 million.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "She and her husband have been approved for a mortgage and were ready to make offers, but are now feeling hesitant.",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Better to push forward because the Bay Area’s already-low inventory is going to shrink?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Or will reduced tax deductions lower prices by reducing the number of people who can afford homes?",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "“You’re leaning forward but afraid to make that leap because of the situation,” she said.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "One thing that seems certain is that the lack of inventory already plaguing the housing market will get worse.",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "By allowing homeowners already benefiting from the existing mortgage interest deduction cap to keep it, the bill is likely to encourage people to stay in place a bit longer.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "The plan could also affect consumer spending.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Over the past two decades, homeowners have become accustomed to using steadily rising home prices to periodically refinance their mortgages so that they can take money out of their homes and spend it on everything from renovations to college tuition and vacations.",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "These “cash-out refinancings” were widely abused before the housing crisis — the proverbial “people using their homes as A.T.M.s.”",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "It has been less of a problem since the crisis.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Today, some 42 million homeowners have about $5.35 trillion in home equity that they could hypothetically tap into, according to Black Knight, a software and data provider to the mortgage industry.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "This assumes they don’t borrow more than 80 percent of the value of their home.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "48</span>\n\n<span class=\"units\">Comments",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Whatever happens, it has led to a chaotic end of the year for real estate agents.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Kalena Masching, a Silicon Valley agent for Redfin, a real estate brokerage based in Seattle, has one group of clients trying to push sales through before any tax changes take effect.",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Another group is holding off to see how the loss of homeowner deductions ends up changing the math of buying a home.",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "“There’s an overwhelming sense of people being upset and a lot of uncertainty, and mostly feeling like it’s not a good thing,” she said.",
+        "score": -0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Continue reading the main story",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Recent Comments",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "SFR",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "1 minute ago",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "If you think that slamming home owners with fresh costs will help renters, think again.",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Rental properties are owned by \"owners\" and rents...",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Paul",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "9 minutes ago",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Haven't read the whole thing yet.",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "What really bothers me is the doubling the standard deduction, but losing the personal exemption is never...",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Paul R. S.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "10 minutes ago",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "As a life-long renter (so far) I've always felt discriminated against by the benefits showered on home-owners.",
+        "score": -0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "But I'm sympathetic to anyone...",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "See All Comments",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Write a comment",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "We’re interested in your feedback on this page.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tell us what you think.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close this panel",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "48 Comments",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Full Name",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Location",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Share your thoughts.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "All<span class=\"count\" data-filter=\"all\">&nbsp;48",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Readers’ Picks<span class=\"count\" data-filter=\"reader\">&nbsp;32",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Newest",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Loading...",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Read More",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "View all 48 comments",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "48 Comments",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "All<span class=\"count\" data-filter=\"all\">&nbsp;48",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Readers’ Picks<span class=\"count\" data-filter=\"reader\">&nbsp;32",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Newest",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Trending",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Program",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "2 Navy Airmen and an Object That ‘Accelerated Like Nothing I’ve Ever Seen’",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Homeowners Have Had It Good.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Too Good, Says the Tax Bill.",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "World’s Most Expensive Home?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Another Bauble for a Saudi Prince",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "What’s in the Final Republican Tax Bill",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Harvey Weinstein Is My Monster Too",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "‘Trump, Trump, Trump!’",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "How a President’s Name Became a Racial Jeer",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opinion:\n\nMy Year of No Shopping",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "With...Sheila Nevins:\n\nThe Grande Dame of Documentary is Leaving Her Home at HBO",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Omarosa, Leaving the White House, Suggests the Show Will Go On",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "View More Trending Stories »",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "What's Next",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Loading...",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Close this overlay",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Go to previous",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Go to next",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Loading...",
+        "score": -0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Go to Home Page »",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Site Index</span>\n            <a id=\"site-index-branding-link\" href=\"https://www.nytimes.com/\">\n                <span class=\"visually-hidden\">The New York Times",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Site Index Navigation",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "News",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "U.S.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Politics",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "N.Y.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Tech",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Education",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Obituaries",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Today's Paper",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Corrections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Today's Opinion",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Ed Columnists",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Editorials",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Ed Contributors",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Letters",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sunday Review",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Video: Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Arts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Today's Arts",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Art &amp; Design",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Books",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Dance",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Movies",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Music",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "N.Y.C.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Events Guide",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Television",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Theater",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Video: Arts",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Living",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Automobiles",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Crossword",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Education",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Fashion &amp; Style",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Jobs",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Magazine",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "N.Y.C.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Events Guide",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Real Estate",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "T Magazine",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Travel",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Weddings &amp; Celebrations",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Listings &amp; More",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Reader Center",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Classifieds",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Tools &amp; Services",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "N.Y.C.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Events Guide",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Multimedia",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Photography",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NYT Store",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Times Journeys",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Manage My Account",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "NYTCo",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Home Delivery",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Digital Subscriptions",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Crossword",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Email Newsletters",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Alerts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Gift Subscriptions",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Group Subscriptions",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Education Rate",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Mobile Applications",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Replica Edition",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Site Information Navigation",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "© <span itemprop=\"copyrightYear\">2017</span><span itemprop=\"copyrightHolder provider sourceOrganization\" itemscope=\"\" itemtype=\"http://schema.org/Organization\" itemid=\"http://www.nytimes.com\"><span itemprop=\"name\"> The New York Times Company",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Home",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Search",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Accessibility concerns?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Email us at <a href=\"mailto:accessibility@nytimes.com\">accessibility@nytimes.com</a>.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "We would love to hear from you.",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Contact Us",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Work With Us",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Advertise",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Your Ad Choices",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Privacy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Terms of Service",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Terms of Sale",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Site Information Navigation",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Site Map",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Help",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Site Feedback",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Subscriptions",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Go to the previous story",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Months After Storm, Puerto Rico Stares Down Another Blow: The Tax Bill",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Go to the next story",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "advertisement",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Continue »",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Edit Profile",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "My Account",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "My Billing Information",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "My Saved Items",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Log Out",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Africa",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Americas",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Asia Pacific",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Australia",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Europe",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Middle East",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Education",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Upshot",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Elections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Upshot",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Events",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "DealBook",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Economy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Energy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Markets",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Media",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Entrepreneurship",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Your Money",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Automobiles",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Ed Columnists",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Editorials",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Ed Contributors",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Letters",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sunday Review",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Personal Tech",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Climate",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Space &amp; Cosmos",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Well",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Money &amp; Policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Health Guide",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Baseball",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Basketball: College",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Basketball: N.B.A.",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Football: College",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Football: N.F.L.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Golf",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Hockey",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Soccer",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Tennis",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Art &amp; Design",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Books",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Dance",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Movies",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Music",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "N.Y.C.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Events Guide",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Television",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Theater",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Watching",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Men's Style",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "On the Runway",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Weddings",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Cooking",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Restaurant Search",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The High End",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Commercial",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "iPhone App",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Find A Home",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Mortgage Calculator",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "My Real Estate",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "List Your Home",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "U.S. &amp; Politics",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "International",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "N.Y.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Op-Docs",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Times Documentaries",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Tech",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Culture",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Style",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "T Magazine",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Travel",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Real Estate",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "DealBook",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "ClimateTECH",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Global Strategy Summit",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "International Luxury Conference",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Luxury Travel",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "New Work Summit",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Higher Ed Leaders Forum",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Athens Democracy Forum",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Oil &amp; Money",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Art Leaders Network",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Home Page",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "World",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "U.S.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Politics",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "N.Y.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Business",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Opinion",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tech",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Health",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sports",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Arts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Arts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Fashion &amp; Style",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Fashion &amp; Style",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Food",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Travel",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Magazine",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "T Magazine",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Real Estate",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Obituaries",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Upshot",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Reader Center",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Conferences",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Crossword",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "Times Insider",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "The Learning Network",
+        "score": 0.800000011920929,
+        "magnitude": 0.800000011920929
+      },
+      {
+        "sentence": "Multimedia",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Photography",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Podcasts",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NYT Store",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NYT Wine Club",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "nytEducation",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Times Journeys",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Meal Kits",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Manage Account",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Today's Paper",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Tools &amp; Services",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Jobs",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Classifieds",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Corrections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Charles M. Blow",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "David Brooks",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Frank Bruni",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Roger Cohen",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Gail Collins",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Ross Douthat",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Maureen Dowd",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Thomas L. Friedman",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Nicholas Kristof",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Paul Krugman",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "David Leonhardt",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Andrew Rosenthal",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Bret Stephens",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Edit Profile",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Your profile is public.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "It will appear with any comments you leave on NYTimes.com",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Edition",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "English",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "中文 (Chinese)",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Español",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Help",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "FAQ",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Contact Us",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Type Size",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "A <span class=\"visually-hidden\">Type size small",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "A <span class=\"visually-hidden\">Type size medium",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "A <span class=\"visually-hidden\">Type size large",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Log in",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "To save articles or get newsletters, alerts or recommendations – all free.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log in with Facebook</span>\n</button>\n<button id=\"google-oauth-button-login-modal\" data-provider-name=\"google\" class=\"button oauth-button google-oauth-button\">\n<i class=\"icon sprite-icon\"></i>\n<span class=\"button-text\">Log in with Google",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "OR",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Email address",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Password",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Remember me",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Forgot password?",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Terms of Service</a> <a href=\"http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html\">Privacy Policy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log in",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Don’t have an account?",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Sign Up",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "To save articles or get newsletters, alerts or recommendations – all free.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Sign up with Facebook</span>\n</button>\n<button id=\"google-oauth-button-registration-modal\" data-provider-name=\"google\" class=\"button oauth-button google-oauth-button\">\n<i class=\"icon sprite-icon\"></i>\n<span class=\"button-text\">Sign up with Google",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "OR",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Email address",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Password",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Retype password",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "You agree to receive occasional updates and special offers for The New York Times's products and services.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "You may opt out or <a href=\"https://www.nytimes.com/help/index.html\">contact us</a> anytime.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Terms of Service</a> <a href=\"http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html\">Privacy Policy</a> <a href=\"https://www.nytimes.com/help/index.html\">Contact Us",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Create Account",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Already have an account?",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log In",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Thank you for subscribing.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Complete your registration for a free New York Times account.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Registered users can:",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Manage newsletter subscriptions",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Save articles to read later anytime, anywhere",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Get personalized news alerts and content recommended by The Times",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Sign up with Facebook</span>\n</button>\n<button id=\"google-oauth-button-newsletter-registration-modal\" data-provider-name=\"google\" class=\"button oauth-button google-oauth-button\">\n<i class=\"icon sprite-icon\"></i>\n<span class=\"button-text\">Sign up with Google",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "OR",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Email address",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Password",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Retype password",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "You agree to receive occasional updates and special offers for The New York Times's products and services.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "You may opt out or <a href=\"https://www.nytimes.com/help/index.html\">contact us</a> anytime.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Terms of Service</a> <a href=\"http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html\">Privacy Policy</a> <a href=\"https://www.nytimes.com/help/index.html\">Contact Us",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Create Account",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Already have an account?",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log In",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Thank you for subscribing.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Log in to:",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Manage newsletter subscriptions",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Save articles to read later anytime, anywhere",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Get personalized news alerts and content recommended by The Times",
+        "score": 0.8999999761581421,
+        "magnitude": 0.8999999761581421
+      },
+      {
+        "sentence": "Log in with Facebook</span>\n</button>\n<button id=\"google-oauth-button-newsletter-login-modal\" data-provider-name=\"google\" class=\"button oauth-button google-oauth-button\">\n<i class=\"icon sprite-icon\"></i>\n<span class=\"button-text\">Log in with Google",
+        "score": -0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "OR",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Email address",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Password",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Clear this text input",
+        "score": 0.5,
+        "magnitude": 0.5
+      },
+      {
+        "sentence": "Remember me",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "Forgot password?",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Terms of Service</a> <a href=\"http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html\">Privacy Policy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Log in",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Don’t have an account?",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Sign Up",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Verified Commenters\n</a>\ncan leave comments on NYTimes.com without initial moderation.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Verified status is earned based on a history of quality comments.",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Close this modal window",
+        "score": 0.0,
+        "magnitude": 0.0
+      }
+    ]
+  }
+}

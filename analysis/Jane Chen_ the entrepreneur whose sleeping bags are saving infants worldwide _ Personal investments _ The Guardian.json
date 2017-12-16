@@ -1,0 +1,1113 @@
+{
+  "categories": [
+    {
+      "name": "/News",
+      "confidence": 0.6100000143051147
+    }
+  ],
+  "entities": [
+    {
+      "name": "Jane chen",
+      "type": "PERSON"
+    },
+    {
+      "name": "sleeping bags",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "infants",
+      "type": "PERSON"
+    },
+    {
+      "name": "world news",
+      "type": "OTHER"
+    },
+    {
+      "name": "Guardian - Back",
+      "type": "OTHER"
+    },
+    {
+      "name": "news",
+      "type": "OTHER"
+    },
+    {
+      "name": "content",
+      "type": "OTHER"
+    },
+    {
+      "name": "stylesheet",
+      "type": "OTHER"
+    },
+    {
+      "name": "content",
+      "type": "OTHER"
+    },
+    {
+      "name": "guardian view",
+      "type": "OTHER"
+    },
+    {
+      "name": "Guardian News and Media Limited",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "Guardian Labs",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "investments",
+      "type": "OTHER"
+    },
+    {
+      "name": "text",
+      "type": "OTHER"
+    },
+    {
+      "name": "css",
+      "type": "OTHER"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "guardian labs",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "guardian app",
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "name": "news",
+      "type": "OTHER"
+    },
+    {
+      "name": "news",
+      "type": "OTHER"
+    },
+    {
+      "name": "opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "politics",
+      "type": "OTHER"
+    },
+    {
+      "name": "opinion",
+      "type": "OTHER"
+    },
+    {
+      "name": "sport",
+      "type": "OTHER"
+    },
+    {
+      "name": "arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "lifestyle",
+      "type": "OTHER"
+    },
+    {
+      "name": "soccer",
+      "type": "OTHER"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "opinion videos",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "sport",
+      "type": "OTHER"
+    },
+    {
+      "name": "soccer",
+      "type": "OTHER"
+    },
+    {
+      "name": "arts",
+      "type": "OTHER"
+    },
+    {
+      "name": "newsletters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "sections",
+      "type": "OTHER"
+    },
+    {
+      "name": "environment",
+      "type": "OTHER"
+    },
+    {
+      "name": "business",
+      "type": "OTHER"
+    },
+    {
+      "name": "science",
+      "type": "OTHER"
+    },
+    {
+      "name": "tech",
+      "type": "OTHER"
+    },
+    {
+      "name": "obituaries",
+      "type": "OTHER"
+    },
+    {
+      "name": "columnists",
+      "type": "PERSON"
+    },
+    {
+      "name": "letters",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "cartoons",
+      "type": "OTHER"
+    },
+    {
+      "name": "tennis",
+      "type": "OTHER"
+    },
+    {
+      "name": "film",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "books",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "music",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "design",
+      "type": "OTHER"
+    },
+    {
+      "name": "art",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "tv",
+      "type": "OTHER"
+    },
+    {
+      "name": "radio",
+      "type": "OTHER"
+    },
+    {
+      "name": "stage",
+      "type": "OTHER"
+    },
+    {
+      "name": "edition",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "edition",
+      "type": "OTHER"
+    },
+    {
+      "name": "edition",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "edition",
+      "type": "OTHER"
+    },
+    {
+      "name": "content",
+      "type": "OTHER"
+    },
+    {
+      "name": "supporter",
+      "type": "PERSON"
+    },
+    {
+      "name": "US",
+      "type": "LOCATION"
+    },
+    {
+      "name": "jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "supporter",
+      "type": "PERSON"
+    },
+    {
+      "name": "lifestyle",
+      "type": "OTHER"
+    },
+    {
+      "name": "thoughts",
+      "type": "OTHER"
+    },
+    {
+      "name": "jobs",
+      "type": "OTHER"
+    },
+    {
+      "name": "money",
+      "type": "OTHER"
+    },
+    {
+      "name": "term",
+      "type": "OTHER"
+    },
+    {
+      "name": "subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "video",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "archive",
+      "type": "OTHER"
+    },
+    {
+      "name": "feedback",
+      "type": "OTHER"
+    },
+    {
+      "name": "contribution",
+      "type": "OTHER"
+    },
+    {
+      "name": "ON&amp",
+      "type": "OTHER"
+    },
+    {
+      "name": "classical",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "games",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "fashion",
+      "type": "OTHER"
+    },
+    {
+      "name": "food",
+      "type": "OTHER"
+    },
+    {
+      "name": "recipes",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "sex",
+      "type": "OTHER"
+    },
+    {
+      "name": "love",
+      "type": "OTHER"
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION"
+    },
+    {
+      "name": "home",
+      "type": "LOCATION"
+    },
+    {
+      "name": "fitness",
+      "type": "OTHER"
+    },
+    {
+      "name": "health",
+      "type": "OTHER"
+    },
+    {
+      "name": "family",
+      "type": "PERSON"
+    },
+    {
+      "name": "travel",
+      "type": "OTHER"
+    },
+    {
+      "name": "Search",
+      "type": "OTHER"
+    },
+    {
+      "name": "account",
+      "type": "OTHER"
+    },
+    {
+      "name": "Comment activity",
+      "type": "OTHER"
+    },
+    {
+      "name": "profile",
+      "type": "OTHER"
+    },
+    {
+      "name": "Email preferences",
+      "type": "OTHER"
+    },
+    {
+      "name": "Change password",
+      "type": "OTHER"
+    },
+    {
+      "name": "podcasts",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "pictures",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "crosswords",
+      "type": "OTHER"
+    },
+    {
+      "name": "navigation",
+      "type": "OTHER"
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER"
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER"
+    },
+    {
+      "name": "style",
+      "type": "OTHER"
+    },
+    {
+      "name": "team",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "advertiser",
+      "type": "OTHER"
+    },
+    {
+      "name": "top",
+      "type": "OTHER"
+    },
+    {
+      "name": "NFL",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "MLB",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "MLS",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "NBA",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "NHL",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "height",
+      "type": "OTHER"
+    },
+    {
+      "name": "width",
+      "type": "OTHER"
+    },
+    {
+      "name": "google",
+      "type": "OTHER"
+    },
+    {
+      "name": "display",
+      "type": "OTHER"
+    },
+    {
+      "name": "UK",
+      "type": "LOCATION"
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION"
+    },
+    {
+      "name": "div",
+      "type": "OTHER"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "script",
+      "type": "WORK_OF_ART"
+    },
+    {
+      "name": "value",
+      "type": "OTHER"
+    },
+    {
+      "name": "none",
+      "type": "OTHER"
+    },
+    {
+      "name": "contributors",
+      "type": "PERSON"
+    },
+    {
+      "name": "privacy policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "cookie policy",
+      "type": "OTHER"
+    },
+    {
+      "name": "terms",
+      "type": "OTHER"
+    },
+    {
+      "name": "complaints",
+      "type": "OTHER"
+    },
+    {
+      "name": "subscribe",
+      "type": "OTHER"
+    },
+    {
+      "name": "newspaper archive",
+      "type": "OTHER"
+    },
+    {
+      "name": "companies",
+      "type": "ORGANIZATION"
+    },
+    {
+      "name": "alt",
+      "type": "OTHER"
+    },
+    {
+      "name": "help",
+      "type": "OTHER"
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER"
+    },
+    {
+      "name": "corrections",
+      "type": "OTHER"
+    },
+    {
+      "name": "topics",
+      "type": "OTHER"
+    },
+    {
+      "name": "rights",
+      "type": "OTHER"
+    },
+    {
+      "name": "googleConfidenceNoScriptImage",
+      "type": "OTHER"
+    },
+    {
+      "name": "securedrop",
+      "type": "OTHER"
+    }
+  ],
+  "sentiment": {
+    "sentiment": 0.10000000149011612,
+    "magnitude": 18.100000381469727,
+    "sentences": [
+      {
+        "sentence": "Jane Chen: the entrepreneur whose sleeping bags are saving infants worldwide",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "Personal investments",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "The Guardian",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "&lt;link rel=\"stylesheet\" type=\"text/css\" href=\"https://assets.guim.co.uk/stylesheets/d4611cb2a9530d0594a2ebaed0d21fc9/content.css\"/&gt;",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Close",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Skip to main content",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "The Guardian - Back to home",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "news",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "opinion",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "sport",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "arts",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "lifestyle",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "All</span>\nsections\n<span class=\"pillar-link--dropdown__icon\"></span>\n</span>\n<span class=\"menu-close hide-until-desktop\">\n<span class=\"u-h\">Close",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "news",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "US news",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "world news",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "environment",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "soccer",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "US politics",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "business",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "science",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "money",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "tech",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "obituaries",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "opinion",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "the guardian view",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "columnists",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "letters",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "opinion videos",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "cartoons",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "sport",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "soccer",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NFL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "tennis",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "MLB",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "MLS",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "NBA",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "NHL",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "arts",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "film",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "books",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "music",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "art &amp; design",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "tv &amp; radio",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "stage",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "classical",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "games",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "lifestyle",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "fashion",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "food",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "recipes",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "love &amp; sex",
+        "score": 0.699999988079071,
+        "magnitude": 0.699999988079071
+      },
+      {
+        "sentence": "home &amp; garden",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "health &amp; fitness",
+        "score": 0.4000000059604645,
+        "magnitude": 0.4000000059604645
+      },
+      {
+        "sentence": "family",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "travel",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "money",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "What term do you want to search?",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Search with google",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "become a supporter",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign in/up",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "my account",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Comment activity",
+        "score": -0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Edit profile",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Email preferences",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Change password",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Sign out",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "US edition",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "switch to the </span>\nUK edition",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "switch to the </span>\nAustralia edition",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "switch to the </span>\nInternational edition",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "jobs",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "the guardian app",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "video",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "podcasts",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "pictures",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "newsletters",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "digital archive",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "crosswords",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Facebook",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Twitter",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "jobs",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "We’d appreciate your feedback on our new navigation.",
+        "score": 0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Share your thoughts here.",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "Paid content",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "About",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "Paid content is paid for and controlled by an advertiser and produced by the Guardian Labs team</span>\n<a class=\"popup--paidfor__link\" href=\"https://www.theguardian.com/content-funding\">Learn more about Guardian Labs content",
+        "score": -0.6000000238418579,
+        "magnitude": 0.6000000238418579
+      },
+      {
+        "sentence": "Guardian Labs",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "back to top",
+        "score": 0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      },
+      {
+        "sentence": "jobs",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "become a supporter",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "make a contribution",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "guardian labs",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "about us",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "work for us",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "contact us",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "advertise with us",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "ask for help",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "terms &amp; conditions",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "privacy policy",
+        "score": -0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "cookie policy",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "securedrop",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "complaints &amp; corrections",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "all topics",
+        "score": 0.10000000149011612,
+        "magnitude": 0.10000000149011612
+      },
+      {
+        "sentence": "all contributors",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Facebook",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "Twitter",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "subscribe",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "digital newspaper archive",
+        "score": 0.20000000298023224,
+        "magnitude": 0.20000000298023224
+      },
+      {
+        "sentence": "© 2017 Guardian News and Media Limited or its affiliated companies.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "All&nbsp;rights&nbsp;reserved.",
+        "score": 0.0,
+        "magnitude": 0.0
+      },
+      {
+        "sentence": "&lt;img id=\"googleConfidenceNoScriptImage\" alt=\"\" src=\"//beacon.gu-web.net/count/pvg.gif\" width=\"1\" height=\"1\" class=\"u-h\"/&gt;\n</noscript>\n<script id=\"comscore\">var _comscore=_comscore||[];_comscore.push({c1:\"2\",c2:\"6035250\",comscorekw:guardian.config.page.keywords});(function(){var s=document.createElement(\"script\"),el=document.getElementsByTagName(\"script\")[0];s.async=true;s.src=\"https://sb.scorecardresearch.com/beacon.js\";el.parentNode.insertBefore(s,el);})();</script>\n<noscript>\n&lt;img src=\"https://sb.scorecardresearch.com/p?c1=2&amp;c2=6035250&amp;cv=2.0&amp;cj=1&amp;comscorekw=Personal+investments\"/&gt;\n</noscript>\n<noscript>\n&lt;div style=\"display:inline;\"&gt;\n&lt;img height=\"1\" width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/971225648/?value=0&amp;amp;guid=ON&amp;amp;script=0\"/&gt;\n&lt;/div&gt;",
+        "score": -0.30000001192092896,
+        "magnitude": 0.30000001192092896
+      }
+    ]
+  }
+}
